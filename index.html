@@ -1,0 +1,159 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Future Fight Flair Selector</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="/r/future_fight Flair Selector!" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Flair Selector for /r/future_fight" />
+<meta property="og:url" content="https://futurefightflair.github.io/" />
+<meta property="og:image" content="https://futurefightflair.github.io/icons/snoo.png" />
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans:300italic,400italic,600italic,700italic,400,300,600,700"
+        type="text/css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Exo:400,800" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
+<link rel="stylesheet" href="c_style.css" type="text/css" media="all">
+<link rel="stylesheet" href="c_flair.css" type="text/css" media="all">
+<!-- JavaScript -->
+<link rel="icon" type="image/png" href="icons/snoo.png" />
+<script>var flair = {};</script>
+<script type="text/javascript" src="j_flair.js"></script>
+<script type="text/javascript" src="j_scripts.js"></script>
+</head>
+
+<body>
+<noscript>
+JavaScript is required to run this page.
+</noscript>
+<center>
+  <br>
+  <a href="https://www.reddit.com/r/future_fight/"> <img src="https://b.thumbs.redditmedia.com/iDXiTkdkzFQUhPtouoSnNmLzS_xqiDnlyc13wOdbqbk.png" alt="Future Fight" width="100px;"> </a>
+</center>
+<div class="wrapper no-style no-margin" style="overflow:auto;">
+  <button style="float:right;" onclick="n.toggleClass('#help-bubble', 'hide');return false">SUPPORT</button>
+</div>
+<div id="help-bubble" class="wrapper no-margin hide">
+  <h3>INSTRUCTIONS</h3>
+  <p> <b>How to Use:</b> Below is a list of flair images that can be selected to be used. Click on one, and a preview
+    image will jump to the top as well as showing that icon's corresponding character name and uniform name. </p>
+  <p>If you wish to have additional and optional text next to your flair icon, enter that in the "Insert flair text here"
+    box provided. If not, you can leave that field empty.</p>
+  <p>Once you have selected your flair and optional text, click the "SEND FLAIR REQUEST" button. This will open a reddit
+    private message form to our flair bot account, <a href="https://www.reddit.com/u/FutureFightFlairs">/u/FutureFightFlairs</a>. Please do not change anything in the message title or body, leave it as it is and send
+    the message.</p>
+  <p>Our script is set to check for new messages every minute, so within a minute, assuming everything is going
+    correctly, you should receive a message from <a href="https://www.reddit.com/u/FutureFightFlairs">/u/FutureFightFlairs</a> confirming your flair request has succeeded. The next time you visit <a href="https://www.reddit.com/r/future_fight">/r/future_fight</a>, your flair should be applied. <b>Please make sure you wait 10 minutes before sending another request, unnecessarily sending duplicate messages only slows things down.</b> </p>
+  <p>You may change your flair as many times as you want and the flair selector will be updated as new character portraits
+    are added to the game.</p>
+  <p> <b>BUGS AND ISSUES</b> <br/>
+    If, after a minute, your flair has not updated, we ask that you try again. If there is still nothing, please <a href="https://www.reddit.com/message/compose?to=%2Fr%2Ffuture_fight">message the moderators of /r/future_fight</a>, or if you need additional help or have found a different problem/bug.</p>
+  <h3>FILTERS AND TAGS</h3>
+  <p>You can filter heroes you want to see or alternatively use this as a utility to search for characters. You can either
+    simply start typing their names (or the name of a uniform) into the filter box, or filter heroes by their <b>attributes</b>.</p>
+  <p>Simply put your text in between hashtags for attribute system to work properly.</p>
+  <p> <i>Example:</i> <b>#Time Freezing Immunity#</b> </p>
+  <p> <i>Attribute List:</i> </p>
+  <ul>
+    <li> <i>Abilities: </i> Agent, Agility, Chaos Magic, Chill, Cold Blooded, Command, Durability, Energy Projection, Fast Movement, Flame, Healing,
+      Heightened Senses, Leadership, Machine, Magic, Mind, Mind Resist, Phoenix Force, Poison, Pure Evil, Shock, Spider-Sense,
+      Strong, Symbiote, Time Freezing Immunity, Weapons Master</li>
+    <li> <i>Gender: </i>Genderless, Female, Male</li>
+    <li> <i>Race: </i>Alien, Creature, Human, Inhuman, Mutant, Other</li>
+    <li> <i>Side: </i>Hero, Neutral, Villain</li>
+    <li> <i>Team: </i>Avengers, Black Order, Defenders, Fantastic Four, Guardians, Shield, Sinister Six, Spidey, X-Men</li>
+    <li> <i>Type: </i>Blast, Combat, Speed, Universal</li>
+    <li> <i>Utilities: </i>MCU, New, NPC, Tier-3, Potential</li>
+  </ul>
+</div>
+<div class="wrapper" style="background:#0e1320">
+  <div id="flair-selection" class="left">
+    <div class="cf">
+      <div class="gb-100" style="margin-right:8px">
+        <div id="flair-selection-flair" class="flair1"></div>
+      </div>
+      <div class="gb-330" style="margin-right:8px;">
+        <div id="flair-selection-name" style="color:white;">Hero Name</div>
+		  <div id="flair-selection-uniname" style="color:#9F9F9F; font-size: 13px;">Uniform Name</div>
+        <input id="flair-selection-text" type="text" placeholder="Insert flair text here" />
+        <div class="spacer">
+          <button onclick="flair.sendChoice()" id="flair-select-submit">SEND FLAIR REQUEST</button>
+        </div>
+      </div>
+		<div class="gb-300" style="margin-right:8px">
+<p style="font-size: 10px; line-height:5px;"><strong>Abilities:</strong><text id="flair-selection-abilities"></text></p>
+<p style="font-size: 10px; line-height:5px;"><strong>Gender:</strong><text id="flair-selection-gender"></text></p>
+<p style="font-size: 10px; line-height:5px;"><strong>Race:</strong><text id="flair-selection-race"></text></p>
+<p style="font-size: 10px; line-height:5px;"><strong>Side:</strong><text id="flair-selection-side"></text></p>
+<p style="font-size: 10px; line-height:5px;"><strong>Team:</strong><text id="flair-selection-team"></text></p>
+<p style="font-size: 10px; line-height:5px;"><strong>Type:</strong><text id="flair-selection-type"></text></p>
+<p style="font-size: 10px; line-height:5px;"><strong>Utilities:</strong><text id="flair-selection-utilities"></text></p>
+		</div>
+    </div>
+  </div>
+</div>
+<div class="wrapper" style="background:#0e1320">
+ <center>
+	 <div id="title" style="color:white;">Filter by Ability</div>
+	 		<div class="ButtonClass">
+    <button class="btn1" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:25px; width:25px;" onclick="filterSelection('all')" title="Show all">All</button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agent')" title="Agent"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/agent.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agility')" title="Agility"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/agility.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chaos Magic')" title="Chaos Magic"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/chaosmagic.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chill')" title="Chill"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/chill.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Cold Blooded')" title="Cold Blooded"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/coldblooded.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Command')" title="Command"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/command.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Durability')" title="Durability"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/durability.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Energy Projection')" title="Energy Projection"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/energyprojection.png"></button>
+	<button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Fantastic Four')" title="Fantastic Four"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/fantasticfour.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Fast Movement')" title="Fast Movement"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/fastmovement.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Flame')" title="Flame"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/flame.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Healing')" title="Healing"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/healing.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Heightened Senses')" title="Heightened Senses"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/heightenedsenses.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Leadership')" title="Leadership"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/leadership.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Machine')" title="Machine"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/machine.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Magic')" title="Magic"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/magic.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Mind Resist')" title="Mind Resist"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/mindresist.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Phoenix Force')" title="Phoenix Force"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/phoenixforce.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Poison')" title="Poison"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/poison.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Pure Evil')" title="Pure Evil"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/pureevil.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Shock')" title="Shock"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/shock.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Spider-Sense')" title="Spider-Sense"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/spidersense.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Strong')" title="Strong"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/strong.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Symbiote')" title="Symbiote"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/symbiote.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Time Freezing Immunity')" title="Time Freezing Immunity"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/timefreezeimmunity.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Weapons Master')" title="Weapons Master"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/weaponsmaster.png"></button>
+</div>
+  </center>
+</div>
+<div class="wrapper" style="background:#0e1320">
+  <div id="flair-filter" class="center" style="-webkit-justify-content:space-between; justify-content:space-between; padding:6px; background: linear-gradient(to bottom,#213452,#192029);">
+    <label for="flair-filter-text">
+      <input id="flair-filter-text" type="text" placeholder="Filter by hero name or #attribute#" onkeyup="flair.updateFilter(this.value)"
+                    onchange="flair.updateFilter(this.value)" />
+      <button id="searchbutton" onclick="flair.updateFilter(this.value)">SEARCH</button>
+    </label>
+    <div>
+      <label for="flair-filter-sheet">
+        <select id="flair-filter-sheet" onchange="flair.updateCharacterFilter(this.value)">
+          <option value="ALL">Characters & Uniforms</option>
+          <option value="character">Characters</option>
+          <option value="uniform">Uniforms</option>
+        </select>
+      </label>
+    </div>
+  </div>
+  <center>
+    <div id="flair-choices"></div>
+  </center>
+</div>
+<div class="wrapper no-style no-margin "> <br>
+  <center>
+    <p style="font-size:9pt; color: #495672 "> Inspired by works of <a style="color: #586788" id="css-link" href="https://www.reddit.com/r/pokemon/ "> /r/pokemon </a> </p>
+    <p style="font-size:9pt; color: #495672 "> Flair assign script courtesy of <a style="color: #586788" id="css-link1" href="https://github.com/gavin19/reddit-flair-bot"> /u/gavin19 </a> </p>
+  </center>
+</div>
+</body>
+</html>
