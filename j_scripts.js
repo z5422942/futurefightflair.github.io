@@ -196,7 +196,7 @@ flair.selectChoice = function (hero_id, key) {
 	flair.by_id[hero_id].hero_type = flair.by_id[hero_id].hero_type1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-type').innerHTML = flair.by_id[hero_id].hero_type;
 	
-	flair.by_id[hero_id].hero_utilities1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(MCU|NPC|New|Potential|Tier3)*\#).*?/g, "$1").replace(/#MCU#/g, " MCU,").replace(/#New#/g, " New,").replace(/#NPC#/g, " NPC,").replace(/#Potential#/g, " Potential,").replace(/#Tier3#/g, " Tier3,");
+	flair.by_id[hero_id].hero_utilities1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(MCU|NPC|New|Potential|Tier3|Support)*\#).*?/g, "$1").replace(/#MCU#/g, " MCU,").replace(/#New#/g, " New,").replace(/#NPC#/g, " NPC,").replace(/#Potential#/g, " Potential,").replace(/#Tier3#/g, " Tier3,").replace(/#Support#/g, " Support,");
 	flair.by_id[hero_id].hero_utilities = flair.by_id[hero_id].hero_utilities1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-utilities').innerHTML = flair.by_id[hero_id].hero_utilities;
 	
