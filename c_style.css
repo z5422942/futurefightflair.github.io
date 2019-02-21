@@ -123,7 +123,7 @@ label input[type=checkbox] + span {
 	padding: 0 30px 0 10px;
 }
 #flair-filter-text {
-	min-width: 238px;
+	min-width: 234px;
 	padding: 5px 10px;
 }
 #flair-filter label[for=flair-filter-sheet] {
