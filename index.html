@@ -20,6 +20,7 @@
 <!-- JavaScript -->
 <link rel="icon" type="image/png" href="icons/snoo.png" />
 <script>var flair = {};</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="j_flair.js"></script>
 <script type="text/javascript" src="j_scripts.js"></script>
 </head>
@@ -77,9 +78,9 @@ JavaScript is required to run this page.
       <div class="gb-330" style="margin-right:8px;">
         <div id="flair-selection-name" style="color:white;">Hero Name</div>
 		  <div id="flair-selection-uniname" style="color:#9F9F9F; font-size: 13px;">Uniform Name</div>
-        <input id="flair-selection-text" type="text" placeholder="Insert flair text here" />
+        <input id="flair-selection-text" style="margin-left:-0.1px;" type="text" placeholder="Insert flair text here" />
         <div class="spacer">
-          <button onclick="flair.sendChoice()" id="flair-select-submit">SEND FLAIR REQUEST</button>
+          <button class="btn" onclick="flair.sendChoice()" id="flair-select-submit">SEND FLAIR REQUEST</button>
         </div>
       </div>
 		<div class="gb-300" style="margin-right:8px">
@@ -96,35 +97,35 @@ JavaScript is required to run this page.
 </div>
 <div class="wrapper" style="background:#0e1320">
  <center>
-	 <div id="title" style="color:white;">Filter by Ability</div>
-	 		<div class="ButtonClass">
-    <button class="btn1" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:25px; width:25px;" onclick="filterSelection('all')" title="Show all">All</button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agent')" title="Agent"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/agent.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agility')" title="Agility"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/agility.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chaos Magic')" title="Chaos Magic"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/chaosmagic.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chill')" title="Chill"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/chill.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Cold Blooded')" title="Cold Blooded"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/coldblooded.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Command')" title="Command"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/command.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Durability')" title="Durability"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/durability.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Energy Projection')" title="Energy Projection"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/energyprojection.png"></button>
-	<button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Fantastic Four')" title="Fantastic Four"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/fantasticfour.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Fast Movement')" title="Fast Movement"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/fastmovement.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Flame')" title="Flame"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/flame.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Healing')" title="Healing"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/healing.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Heightened Senses')" title="Heightened Senses"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/heightenedsenses.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Leadership')" title="Leadership"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/leadership.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Machine')" title="Machine"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/machine.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Magic')" title="Magic"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/magic.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Mind Resist')" title="Mind Resist"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/mindresist.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Phoenix Force')" title="Phoenix Force"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/phoenixforce.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Poison')" title="Poison"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/poison.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Pure Evil')" title="Pure Evil"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/pureevil.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Shock')" title="Shock"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/shock.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Spider-Sense')" title="Spider-Sense"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/spidersense.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Strong')" title="Strong"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/strong.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Symbiote')" title="Symbiote"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/symbiote.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Time Freezing Immunity')" title="Time Freezing Immunity"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/timefreezeimmunity.png"></button>
-    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Weapons Master')" title="Weapons Master"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/weaponsmaster.png"></button>
+	  <div id="filter-selection-name" style="color:white;">Filter by Abilities</div>
+	 		<div class="ButtonClass" id="ButtonClass">
+    <button class="btn1 active" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:25px; width:25px;" onclick="filterSelection('all')" title="Filtered by All Abilities">All</button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agent')" title="Filtered by: Agent"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/agent.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agility')" title="Filtered by: Agility"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/agility.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chaos Magic')" title="Filtered by: Chaos Magic"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/chaosmagic.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chill')" title="Filtered by: Chill"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/chill.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Cold Blooded')" title="Filtered by: Cold Blooded"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/coldblooded.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Command')" title="Filtered by: Command"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/command.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Durability')" title="Filtered by: Durability"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/durability.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Energy Projection')" title="Filtered by: Energy Projection"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/energyprojection.png"></button>
+	<button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Fantastic Four')" title="Filtered by: Fantastic Four"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/fantasticfour.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Fast Movement')" title="Filtered by: Fast Movement"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/fastmovement.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Flame')" title="Filtered by: Flame"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/flame.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Healing')" title="Filtered by: Healing"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/healing.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Heightened Senses')" title="Filtered by: Heightened Senses"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/heightenedsenses.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Leadership')" title="Filtered by: Leadership"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/leadership.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Machine')" title="Filtered by: Machine"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/machine.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Magic')" title="Filtered by: Magic"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/magic.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Mind Resist')" title="Filtered by: Mind Resist"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/mindresist.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Phoenix Force')" title="Filtered by: Phoenix Force"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/phoenixforce.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Poison')" title="Filtered by: Poison"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/poison.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Pure Evil')" title="Filtered by: Pure Evil"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/pureevil.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Shock')" title="Filtered by: Shock"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/shock.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Spider-Sense')" title="Filtered by: Spider-Sense"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/spidersense.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Strong')" title="Filtered by: Strong"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/strong.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Symbiote')" title="Filtered by: Symbiote"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/symbiote.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Time Freezing Immunity')" title="Filtered by: Time Freezing Immunity</i> "><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/timefreezeimmunity.png"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Weapons Master')" title="Filtered by: Weapons Master</i>"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/weaponsmaster.png"></button>
 </div>
   </center>
 </div>
@@ -133,16 +134,17 @@ JavaScript is required to run this page.
     <label for="flair-filter-text">
       <input id="flair-filter-text" type="text" placeholder="Filter by hero name or #attribute#" onkeyup="flair.updateFilter(this.value)"
                     onchange="flair.updateFilter(this.value)" />
-      <button id="searchbutton" onclick="flair.updateFilter(this.value)">SEARCH</button>
+      <button class="btn" style="border:none; margin-left:-1.5px; id="searchbutton" onclick="flair.updateFilter(this.value)">SEARCH</button>
     </label>
     <div>
-      <label for="flair-filter-sheet">
-        <select id="flair-filter-sheet" onchange="flair.updateCharacterFilter(this.value)">
-          <option value="ALL">Characters & Uniforms</option>
-          <option value="character">Characters</option>
-          <option value="uniform">Uniforms</option>
-        </select>
-      </label>
+<div class="dropdown">
+  <button class="btn3" id="flair-filter-sheet">Characters & Uniforms</button>
+  <div class="dropdown-content">
+  <button class="btn2" value="ALL" onclick="flair.updateCharacterFilter('ALL')">Characters & Uniforms</button><br>
+  <button class="btn2" value="character" onclick="flair.updateCharacterFilter('character')">Characters</button><br>
+  <button class="btn2" value="uniform" onclick="flair.updateCharacterFilter('uniform')">Uniforms</button>
+  </div>
+</div>      
     </div>
   </div>
   <center>
@@ -157,3 +159,33 @@ JavaScript is required to run this page.
 </div>
 </body>
 </html>
+
+
+<script>
+// Get the container element
+var btnContainer = document.getElementById("ButtonClass");
+// Get all buttons with class="btn" inside the container
+var btns = btnContainer.getElementsByClassName("btn1");
+
+// Loop through the buttons and add the active class to the current/clicked button
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+<script>
+// Get the container element
+var btnContainer = document.getElementById("ButtonClass");
+// Get all buttons with class="btn" inside the container
+var btns = btnContainer.getElementsByClassName("btn1");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+var current = document.getElementsByClassName("active");
+document.getElementById('filter-selection-name').innerHTML = current[0].title;
+  });
+}
+</script>

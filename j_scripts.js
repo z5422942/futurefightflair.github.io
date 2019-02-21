@@ -162,6 +162,7 @@ flair.selectChoice = function (hero_id, key) {
 	flair.by_id[hero_id].hero_attribute = flair.by_id[hero_id].hero_name.replace(/ *\#[^)]*\# */g, "");
 	flair.by_id[hero_id].hero_name1 = flair.by_id[hero_id].hero_attribute.replace(/ *\[[^]*\] */g, "");
 	flair.by_id[hero_id].uni_name1 = flair.by_id[hero_id].hero_attribute.replace(/.*?(\[[^]*\]).*?/g, "$1").replace(/\[/g, '').replace(/]/g, '');
+
 	
 	flair.by_id[hero_id].flair_classhq1 = 'flair1 ' + flair.by_id[hero_id].flair_class.replace(/flair-/gi, "flair1-");
 	flair.by_id[hero_id].flair_classhq = flair.by_id[hero_id].flair_classhq1.replace(/flair1 flair1-/gi, "flair1 flair-");
@@ -169,6 +170,8 @@ flair.selectChoice = function (hero_id, key) {
 	
 	document.getElementById('flair-selection-name').innerHTML = flair.by_id[hero_id].hero_name1;
 	document.getElementById('flair-selection-uniname').innerHTML = flair.by_id[hero_id].uni_name1;
+	
+	
 	
 	flair.by_id[hero_id].hero_attributeop = flair.by_id[hero_id].hero_name.replace(/.*?(\#[^)]*\#).*?/g, "$1");
 	
@@ -509,15 +512,11 @@ function w3RemoveClass(element, name) {
   element.className = arr1.join(" ");
 }
 
+$(function(){
 
-// Get all buttons with class="btn" inside the container
-var btns = document.getElementsByClassName("btn1");
+    $(".dropdown-content").on('click', 'button', function(){
+      $(".btn3:first-child").text($(this).text());
+      $(".btn3:first-child").val($(this).text());
+   });
 
-// Loop through the buttons and add the active class to the current/clicked button
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
-}
+});

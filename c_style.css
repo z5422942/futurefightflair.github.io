@@ -177,7 +177,6 @@ button, input[type=submit] {
 button:hover, input[type=submit]:hover {
 	background: #8456b1
 }
-
 /* FLAIRS
 --------------------------------------------------------------------------------*/
 
@@ -291,14 +290,17 @@ button:hover, input[type=submit]:hover {
 	outline: 0;
 	cursor: pointer;
 }
+.btn:hover {
+  background: #8456b1
+}
 
-.btn2 {
-  display: inline-block;
-	vertical-align: middle;
+.btn2{
+	display: inline-block;
 	margin: 0;
 	padding: 2px 8px 1px;
-	background: linear-gradient(to bottom, #996600, #ffff00);
-	border: 1px solid #495672;
+	width: 150px!important;
+	background: #070708;
+	border: 1px solid #25282c;
 	border-radius: 0px;
 	color: #fff;
 	font-family: 'Exo', sans-serif;
@@ -308,10 +310,30 @@ button:hover, input[type=submit]:hover {
 	outline: 0;
 	cursor: pointer;
 }
+.btn2:hover{
+	background: #070708;
+	border: 1px solid #f1d455;
+}
 
-
-.btn:hover {
-  background: #8456b1
+.btn3{
+	display: inline-block;
+	margin: 0;
+	padding: 2px 8px 1px;
+	width: 150px!important;
+	background: #26224c;
+	border: 1px solid #aa8ed8;
+	border-radius: 0px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-weight: 800;
+	text-transform: capitalize;
+	line-height: 21px;
+	outline: 0;
+	cursor: pointer;
+}
+.btn3:hover{
+	background: #070708;
+	border: 1px solid #f1d455;
 }
 
 .active {
@@ -345,4 +367,27 @@ button:hover, input[type=submit]:hover {
 	float: right;
 	width: 300px;
 	margin-top:2px;
+}
+
+.dropdown {
+  position: relative;
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+	top:0px;
+  z-index: 1;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+	width: 150px!important;
+}
+
+.dropdown:hover .btn3 {
+  background: #070708;
+	border: 1px solid #25282c;
 }
