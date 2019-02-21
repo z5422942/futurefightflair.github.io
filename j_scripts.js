@@ -511,3 +511,12 @@ function w3RemoveClass(element, name) {
   }
   element.className = arr1.join(" ");
 }
+
+	  $(function(){
+
+    $(".dropdown-content").on('click', 'button', function(){
+      $(".btn3:first-child").text($(this).text());
+      $(".btn3:first-child").val($(this).text());
+   });
+
+});
