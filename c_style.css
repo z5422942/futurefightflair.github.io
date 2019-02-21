@@ -261,7 +261,7 @@ button:hover, input[type=submit]:hover {
   display: inline-block;
 	vertical-align: middle;
 	margin: 0;
-	padding: 2px 8px 1px;
+	padding: 2px 8px 2px;
 	background: linear-gradient(to bottom, #19243a, #5a7db5);
 	border: 1px solid #495672;
 	border-radius: 0px;
@@ -278,7 +278,7 @@ button:hover, input[type=submit]:hover {
   display: inline-block;
 	vertical-align: middle;
 	margin: 0;
-	padding: 2px 8px 1px;
+	padding: 2px 8px 2px;
 	background: linear-gradient(to bottom, #003366, #33cccc);
 	border: 1px solid #495672;
 	border-radius: 0px;
@@ -318,7 +318,7 @@ button:hover, input[type=submit]:hover {
 .btn3{
 	display: inline-block;
 	margin: 0;
-	padding: 2px 8px 1px;
+	padding: 2px 8px 2px;
 	width: 110px!important;
 	background: #26224c;
 	border: 1px solid #aa8ed8;
@@ -339,7 +339,7 @@ button:hover, input[type=submit]:hover {
 .btn4{
 	display: inline-block;
 	margin: 0;
-	padding: 2px 8px 1px;
+	padding: 2px 8px 2px;
 	width: 110px!important;
 	background: #26224c;
 	border: 1px solid #aa8ed8;
