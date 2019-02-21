@@ -20,7 +20,6 @@
 <!-- JavaScript -->
 <link rel="icon" type="image/png" href="icons/snoo.png" />
 <script>var flair = {};</script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="j_flair.js"></script>
 <script type="text/javascript" src="j_scripts.js"></script>
 </head>
@@ -188,4 +187,16 @@ var current = document.getElementsByClassName("active");
 document.getElementById('filter-selection-name').innerHTML = current[0].title;
   });
 }
+</script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+ <script>
+	  $(function(){
+
+    $(".dropdown-content").on('click', 'button', function(){
+      $(".btn3:first-child").text($(this).text());
+      $(".btn3:first-child").val($(this).text());
+   });
+
+});
 </script>
