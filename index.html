@@ -134,15 +134,25 @@ JavaScript is required to run this page.
     <label for="flair-filter-text">
       <input id="flair-filter-text" type="text" placeholder="Filter by hero name or #attribute#" onkeyup="flair.updateFilter(this.value)"
                     onchange="flair.updateFilter(this.value)" />
-      <button class="btn" style="border:none; margin-left:-1.5px; id="searchbutton" onclick="flair.updateFilter(this.value)">SEARCH</button>
+      <button class="btn" style="border:none; margin-left:-1.5px;" id="searchbutton" onclick="flair.updateFilter(this.value)">SEARCH</button>
     </label>
-    <div>
+    <div style="display: inherit">
+<div class="dropdown1"id="ButtonClass" style="left: -4px;">
+  <button class="btn4">ALL</button>
+  <div class="dropdown1-content">
+  <button class="btn2" value="all" onclick="filterSelection1('all')">ALL</button><br>
+  <button class="btn2" value="combat" onclick="filterSelection1('Combat')">COMBAT</button><br>
+  <button class="btn2" value="blast" onclick="filterSelection1('Blast')">BLAST</button>
+  <button class="btn2" value="speed" onclick="filterSelection1('Speed')">SPEED</button>
+  <button class="btn2" value="universal" onclick="filterSelection1('Universal')">UNIVERSAL</button>
+  </div>
+</div> 
 <div class="dropdown">
-  <button class="btn3" id="flair-filter-sheet">Characters & Uniforms</button>
+  <button class="btn3" id="flair-filter-sheet">ALL</button>
   <div class="dropdown-content">
-  <button class="btn2" value="ALL" onclick="flair.updateCharacterFilter('ALL')">Characters & Uniforms</button><br>
-  <button class="btn2" value="character" onclick="flair.updateCharacterFilter('character')">Characters</button><br>
-  <button class="btn2" value="uniform" onclick="flair.updateCharacterFilter('uniform')">Uniforms</button>
+  <button class="btn2" value="ALL" onclick="flair.updateCharacterFilter('ALL')">ALL</button><br>
+  <button class="btn2" value="character" onclick="flair.updateCharacterFilter('character')">CHARACTERS</button><br>
+  <button class="btn2" value="uniform" onclick="flair.updateCharacterFilter('uniform')">UNIFORMS</button>
   </div>
 </div>      
     </div>

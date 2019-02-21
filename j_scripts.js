@@ -272,6 +272,19 @@ filterSelection("all")
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
   }
 }
+		
+filterSelection1("all")
+		  function filterSelection1(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "type");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "type");
+  }
+}
+
+
 	}
 
 	var sr_enter = document.getElementById('subreddit-selection');
@@ -478,7 +491,15 @@ n.show = function (o) {
 	}
 }
 
-
+function filterSelection1(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "type");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "type");
+  }
+}
 
 
 function filterSelection(c) {
@@ -512,11 +533,32 @@ function w3RemoveClass(element, name) {
   element.className = arr1.join(" ");
 }
 
+function w3RemoveClass1(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
 	  $(function(){
 
     $(".dropdown-content").on('click', 'button', function(){
       $(".btn3:first-child").text($(this).text());
       $(".btn3:first-child").val($(this).text());
+   });
+
+});
+
+	  $(function(){
+
+    $(".dropdown1-content").on('click', 'button', function(){
+      $(".btn4:first-child").text($(this).text());
+      $(".btn4:first-child").val($(this).text());
    });
 
 });
