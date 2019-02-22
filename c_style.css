@@ -306,6 +306,7 @@ button:hover, input[type=submit]:hover {
 	font-family: 'Exo', sans-serif;
 	font-weight: 800;
 	text-transform: capitalize;
+	text-align: left;
 	line-height: 21px;
 	outline: 0;
 	cursor: pointer;
@@ -327,6 +328,7 @@ button:hover, input[type=submit]:hover {
 	font-family: 'Exo', sans-serif;
 	font-weight: 800;
 	text-transform: capitalize;
+	text-align: left;
 	line-height: 21px;
 	outline: 0;
 	cursor: pointer;
@@ -348,6 +350,7 @@ button:hover, input[type=submit]:hover {
 	font-family: 'Exo', sans-serif;
 	font-weight: 800;
 	text-transform: capitalize;
+	text-align: left;
 	line-height: 21px;
 	outline: 0;
 	cursor: pointer;
