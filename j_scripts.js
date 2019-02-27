@@ -192,7 +192,7 @@ flair.selectChoice = function (hero_id, key) {
 	flair.by_id[hero_id].hero_side = flair.by_id[hero_id].hero_side1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-side').innerHTML = flair.by_id[hero_id].hero_side;
 	
-	flair.by_id[hero_id].hero_team1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Avengers|Black Order|Brotherhood|Defenders|Fantastic Four|Guardians|Shield|Sinister Six|Skrull|Spidey|X-Men|X-Force)*\#).*?/gi, "$1").replace(/#Avengers#/g, " Avengers").replace(/#Black Order#/g, " Black Order").replace(/#Defenders#/g, " Defenders").replace(/#Fantastic Four#/g, " Fantastic Four").replace(/#Guardians#/g, " Guardians").replace(/#Shield#/g, " Shield").replace(/#Sinister Six#/g, " Sinister Six").replace(/#Spidey#/g, " Spidey").replace(/#X-Men#/g, " X-Men");
+	flair.by_id[hero_id].hero_team1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Avengers|Black Order|Brotherhood|Defenders|Fantastic Four|Guardians|Shield|Sinister Six|Skrull|Spidey|X-Men|X-Force)*\#).*?/gi, "$1").replace(/#Avengers#/g, " Avengers").replace(/#Black Order#/g, " Black Order").replace(/#Brotherhood#/g, " Brotherhood").replace(/#Defenders#/g, " Defenders").replace(/#Fantastic Four#/g, " Fantastic Four").replace(/#Guardians#/g, " Guardians").replace(/#Shield#/g, " Shield").replace(/#Sinister Six#/g, " Sinister Six").replace(/#Skrull#/g, " Skrull").replace(/#Spidey#/g, " Spidey").replace(/#X-Men#/g, " X-Men").replace(/#X-Force#/g, " X-Force");
 	flair.by_id[hero_id].hero_team = flair.by_id[hero_id].hero_team1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-team').innerHTML = flair.by_id[hero_id].hero_team;
 	
