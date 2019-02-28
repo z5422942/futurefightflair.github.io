@@ -5,35 +5,14 @@ fr * {
 html {
 	overflow-y: scroll;
 }
-
-
-@media only screen and (max-device-width: 600px) {
-.show.type.attributes {
-  	display: -webkit-inline-flex;
-	display: inline-flex;
-	-webkit-align-items: center;
-	align-items: center;
-	-webkit-justify-content: center;
-	justify-content: center;
-	width: 100px;
-	height: 100px;
-	transform: scale(0.36);
-	cursor: pointer;
-	margin: -47px -27px !important;
-	position: relative;
-	top:47px;
-	border: 1px solid #363a41;
-}
-}
-
-
 body {
 	font-family: 'Exo', sans-serif;
 	font-size: 16px;
-	padding: 0 5px 20px 5px;
+	padding: 0 10px 20px 10px;
 	background: #151321;
 }
 
+@media (max-width: 600px) {
 body {
 	font-size: 12px;
 }
@@ -43,7 +22,13 @@ body {
 #flair-filter label[for=flair-filter-sheet] {
 	margin-top: 4px;
 }
+}
 
+@media (min-width:600px) {
+body {
+	font-size: 16px;
+}
+}
 ul {
 	margin-left: 15px;
 }
@@ -69,11 +54,10 @@ a {
 .hide {
 	display: none !important;
 }
-
 .wrapper {
 	width: 100%;
-	max-width: 350px;
-	min-width:350px;
+	max-width: 801px;
+	display: block;
 	position: relative;
 	margin: 0 auto;
 	margin-top: 20px;
@@ -203,8 +187,8 @@ button:hover, input[type=submit]:hover {
 	align-items: center;
 	-webkit-justify-content: center;
 	justify-content: center;
-	width: 100px;
-	height: 100px;
+	width: 30px;
+	height: 30px;
 	cursor: pointer;
 	margin: 6px 5.7px !important;
 	position: relative;
@@ -251,20 +235,18 @@ button:hover, input[type=submit]:hover {
 		  
 }
 
-.show.type.attributes {
+.show.type {
   	display: -webkit-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
 	align-items: center;
 	-webkit-justify-content: center;
 	justify-content: center;
-	width: 100px;
-	height: 100px;
-	transform: scale(0.36);
+	width: 30px;
+	height: 30px;
 	cursor: pointer;
-	margin: -48px -27px !important;
+	margin: 6px 5.7px !important;
 	position: relative;
-	top:47px;
 	border: 1px solid #363a41;
 }
 
@@ -297,7 +279,7 @@ button:hover, input[type=submit]:hover {
 	vertical-align: middle;
 	margin: 0;
 	padding: 2px 8px 2px;
-	background: linear-gradient(to bottom, #19243a, #5a7db5);
+	background: linear-gradient(to bottom, #003366, #33cccc);
 	border: 1px solid #495672;
 	border-radius: 0px;
 	color: #fff;
@@ -308,7 +290,6 @@ button:hover, input[type=submit]:hover {
 	outline: 0;
 	cursor: pointer;
 }
-
 .btn:hover {
   background: #8456b1
 }
@@ -458,21 +439,4 @@ button:hover, input[type=submit]:hover {
 .dropdown1:hover .btn3 {
   background: #070708;
 	border: 1px solid #25282c;
-}
-
-.row {
-  display: inline-block;
-  
-  padding: 0 4px;
-}
-
-/* Create two equal columns that sits next to each other */
-.column {
-  flex: 10%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
 }
