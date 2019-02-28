@@ -24,11 +24,13 @@ html {
 	top:47px;
 	border: 1px solid #363a41;
 }
-	.ismobilebanner{
-		margin-top:-2px;
-	}
+
 	.ismobile {
 		top:-4px;
+		position: relative;
+	}
+		.ismobilebanner{
+		top:-1px;
 		position: relative;
 	}
 	.btn5 {
