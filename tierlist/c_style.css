@@ -5,6 +5,16 @@ fr * {
 html {
 	overflow-y: scroll;
 }
+
+
+@media only screen and (max-device-width: 600px) {
+        .ismobile {
+            top: -6px;
+			position:relative;
+        }
+}
+
+
 body {
 	font-family: 'Exo', sans-serif;
 	font-size: 16px;
