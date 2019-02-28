@@ -21,8 +21,15 @@
 <link rel="icon" type="image/png" href="https://futurefightflair.github.io/tierlist/icons/snoo_tl.png" />
 <script>var flair = {};</script>
 <script src="https://futurefightflair.github.io/tierlist/jquery.min.js"></script>
-<script type="text/javascript" src="j_flair.js"></script>
-<script type="text/javascript" src="j_scripts.js"></script>
+<script type="text/javascript" src="https://futurefightflair.github.io/tierlist/j_flair.js"></script>
+<script type="text/javascript" src="https://futurefightflair.github.io/tierlist/j_scripts.js"></script>
+	<script>
+//to change out default site Favicon
+var anchors = document.querySelectorAll('link[href*="http://www.futurefightflair.github.io/icons/snoo.png"]');
+Array.prototype.forEach.call(anchors, function (element, index) {
+element.href = "http://www.futurefightflair.github.io/tierlist/icons/snoo_tl.png";
+});
+</script>
 </head>
 
 <body onload="defaultfilter()">
@@ -139,7 +146,7 @@ JavaScript is required to run this page.
             <button class="btn2" value="tier2list" onclick="filterSelection('-t3')">TIER 2 ONLY</button>
           </div>
         </div>
-        <button class="btn5" style="margin-left:4px;">></button>
+        <button class="btn5" style="margin-left:4px;" onClick="">></button>
       </div>
     </div>
     <center>
