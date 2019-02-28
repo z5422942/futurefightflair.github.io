@@ -55,6 +55,25 @@ body {
 }
 }
 
+@media only screen and (min-device-width: 600px) {
+.btn5 {
+	display: none;
+	margin-left: 4px;
+	padding: 2px 8px 2px;
+	background: #26224c;
+	border: 1px solid #aa8ed8;
+	border-radius: 0px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-weight: 800;
+	text-transform: capitalize;
+	text-align: left;
+	line-height: 21px;
+	outline: 0;
+	cursor: pointer;
+	}
+	}
+
 @media only screen and (min-width:600px) {
 body {
 	font-size: 16px;
@@ -390,22 +409,7 @@ button:hover, input[type=submit]:hover {
 	background: #070708;
 	border: 1px solid #f1d455;
 }
-.btn5 {
-	display: none;
-	margin-left: 4px;
-	padding: 2px 8px 2px;
-	background: #26224c;
-	border: 1px solid #aa8ed8;
-	border-radius: 0px;
-	color: #fff;
-	font-family: 'Exo', sans-serif;
-	font-weight: 800;
-	text-transform: capitalize;
-	text-align: left;
-	line-height: 21px;
-	outline: 0;
-	cursor: pointer;
-	}	
+	
 
 
 
