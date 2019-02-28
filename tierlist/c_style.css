@@ -7,8 +7,6 @@ html {
 }
 
 
-
-
 @media only screen and (max-device-width: 480px) {
 .show.type.attributes {
   	display: -webkit-inline-flex;
@@ -33,7 +31,7 @@ html {
 	}
 	.btn5 {
 	display: inline-block;
-	margin: 0;
+	margin-left: 4px;
 	padding: 2px 8px 2px;
 	background: #26224c;
 	border: 1px solid #aa8ed8;
@@ -402,6 +400,7 @@ button:hover, input[type=submit]:hover {
 	border: 1px solid #f1d455;
 }
 
+@media only screen and (min-device-width: 480px) {
 .btn5{
 	display: none;
 	margin: 0;
@@ -417,6 +416,7 @@ button:hover, input[type=submit]:hover {
 	line-height: 21px;
 	outline: 0;
 	cursor: pointer;
+}
 }
 
 .active {
