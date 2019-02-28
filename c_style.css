@@ -461,7 +461,7 @@ button:hover, input[type=submit]:hover {
 
 .dropdown:hover .dropdown-content {
   display: block;
-	width: 150px!important;
+	width: 10px!important;
 }
 
 .dropdown:hover .btn3 {
@@ -485,7 +485,7 @@ button:hover, input[type=submit]:hover {
 
 .dropdown1:hover .dropdown1-content {
   display: block;
-	width: 150px!important;
+	width: 10px!important;
 }
 
 .dropdown1:hover .btn3 {
