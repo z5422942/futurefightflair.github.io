@@ -6,9 +6,8 @@ html {
 	overflow-y: scroll;
 }
 
-@media only screen and (min-device-width: 480px) {
-	.btn5 {display: inline-block}	
-}
+
+
 
 @media only screen and (max-device-width: 480px) {
 .show.type.attributes {
@@ -32,6 +31,22 @@ html {
 		top:-4px;
 		position: relative;
 	}
+	.btn5 {
+	display: inline-block;
+	margin: 0;
+	padding: 2px 8px 2px;
+	background: #26224c;
+	border: 1px solid #aa8ed8;
+	border-radius: 0px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-weight: 800;
+	text-transform: capitalize;
+	text-align: left;
+	line-height: 21px;
+	outline: 0;
+	cursor: pointer;
+	}	
 }
 
 
