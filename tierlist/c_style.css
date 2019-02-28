@@ -7,7 +7,7 @@ html {
 }
 
 
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 3000px) {
 .show.type.attributes {
   	display: -webkit-inline-flex;
 	display: inline-flex;
@@ -21,7 +21,7 @@ html {
 	cursor: pointer;
 	margin: -46px -27px !important;
 	position: relative;
-	top:45px;
+	top:42px;
 	border: 1px solid #363a41;
 }
 }
