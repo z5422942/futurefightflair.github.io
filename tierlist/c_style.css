@@ -446,7 +446,7 @@ button:hover, input[type=submit]:hover {
 }
 .dropdown:hover .dropdown-content {
 	display: block;
-	width: 150px!important;
+	width: 10px!important;
 }
 .dropdown:hover .btn3 {
 	background: #070708;
@@ -464,29 +464,11 @@ button:hover, input[type=submit]:hover {
 }
 .dropdown1:hover .dropdown1-content {
 	display: block;
-	width: 150px!important;
+	width: 10px!important;
 }
 .dropdown1:hover .btn3 {
 	background: #070708;
 	border: 1px solid #25282c;
-}
-.dropdown2 {
-	position: relative;
-	display: block;
-}
-.dropdown2-content {
-	display: none;
-	position: absolute;
-	top: 0px;
-	z-index: 1;
-}
-.dropdown2:hover .dropdown2-content {
-	display: block;
-	width: 150px!important;
-}
-.dropdown2:hover .btn5 {
-background: #26224c;
-	border: 1px solid #aa8ed8;
 }
 .row {
 	display: inline-block;
