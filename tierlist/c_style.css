@@ -8,10 +8,22 @@ html {
 
 
 @media only screen and (max-device-width: 600px) {
-        .ismobile {
-            top: -5px;
-			position:relative;
-        }
+.show.type.attributes {
+  	display: -webkit-inline-flex;
+	display: inline-flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	width: 100px;
+	height: 100px;
+	transform: scale(0.36);
+	cursor: pointer;
+	margin: -47px -27px !important;
+	position: relative;
+	top:47px;
+	border: 1px solid #363a41;
+}
 }
 
 
