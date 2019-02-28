@@ -1,1 +1,1 @@
-# fftierlist.github.io
+# futurefightflair.github.io/tierlist
