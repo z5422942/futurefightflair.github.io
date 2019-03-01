@@ -6,6 +6,7 @@ html {
 	overflow-y: scroll;
 }
 
+
 @media only screen and (max-device-width: 480px) {
 .show.type.attributes {
 	display: -webkit-inline-flex;
@@ -20,7 +21,7 @@ html {
 	cursor: pointer;
 	margin: -46px -27px !important;
 	position: relative;
-	top: 47px;
+	top: 48px;
 	border: 1px solid #363a41;
 }
 .ismobile {
