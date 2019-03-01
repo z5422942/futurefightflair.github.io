@@ -6,7 +6,25 @@ html {
 	overflow-y: scroll;
 }
 
+@media only screen and (min-device-width: 481px) {
 
+.show.type.attributes {
+	display: -webkit-inline-flex;
+	display: inline-flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	width: 100px;
+	height: 100px;
+	transform: scale(0.36);
+	cursor: pointer;
+	margin: -48px -27px !important;
+	position: relative;
+	top: 47px;
+	border: 1px solid #363a41;
+}
+}
 @media only screen and (max-device-width: 480px) {
 .show.type.attributes {
 	display: -webkit-inline-flex;
@@ -19,9 +37,12 @@ html {
 	height: 100px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin: -45px -27px !important;
+	margin-top: -48px!important;
+	margin-bottom: -47px!important;
+	margin-left: -27px!important;
+	margin-right: -27px!important;
 	position: relative;
-	top: 60px;
+	top: 52px;
 	border: 1px solid #363a41;
 }
 .ismobile {
@@ -270,22 +291,7 @@ button:hover, input[type=submit]:hover {
 .flair {
 	background-color: transparent
 }
-.show.type.attributes {
-	display: -webkit-inline-flex;
-	display: inline-flex;
-	-webkit-align-items: center;
-	align-items: center;
-	-webkit-justify-content: center;
-	justify-content: center;
-	width: 100px;
-	height: 100px;
-	transform: scale(0.36);
-	cursor: pointer;
-	margin: -48px -27px !important;
-	position: relative;
-	top: 47px;
-	border: 1px solid #363a41;
-}
+
 .container {
 	margin-top: 20px;
 	overflow: hidden;
