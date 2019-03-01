@@ -17,7 +17,7 @@ body {
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 599px) {
 body {
 	font-size: 12px;
 }
@@ -27,13 +27,9 @@ body {
 #flair-filter label[for=flair-filter-sheet] {
 	margin-top: 4px;
 }
-	.mobileselector {
-		top:-2px;
-		position: relative;
-		
-	}
+
 }
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 599px) {
 	.btn5 {
 	display: inline-block;
 	margin-left: 4px;
