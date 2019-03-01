@@ -27,6 +27,11 @@ body {
 #flair-filter label[for=flair-filter-sheet] {
 	margin-top: 4px;
 }
+	.mobileselector {
+		top:-2px;
+		position: relative;
+		
+	}
 }
 @media only screen and (max-device-width: 600px) {
 	.btn5 {
