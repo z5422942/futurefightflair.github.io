@@ -5,6 +5,12 @@ fr * {
 html {
 	overflow-y: scroll;
 }
+body {
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	padding: 0 5px 20px 5px;
+	background: #151321;
+}
 
 @media only screen and (min-device-width: 481px) {
 
@@ -45,14 +51,7 @@ html {
 	top: 48px;
 	border: 1px solid #363a41;
 }
-.ismobile {
-	top: -5px;
-	position: relative;
-}
-.ismobilebanner {
-	top: -1px;
-	position: relative;
-}
+
 .btn5 {
 	display: inline-block;
 	margin-left: 4px;
@@ -79,14 +78,10 @@ html {
 }
 }
 body {
-	font-family: 'Exo', sans-serif;
 	font-size: 16px;
-	padding: 0 5px 20px 5px;
-	background: #151321;
+
 }
-body {
-	font-size: 12px;
-}
+
 #flair-filter {
 	flex-direction: column;
 }
