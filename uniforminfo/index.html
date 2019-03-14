@@ -71,14 +71,15 @@ JavaScript is required to run this page.
       </div>
     </div>
     <div id="mySidenav" class="sidenav">
-        <a href="javascript:void(0)" class="closebtn" style="z-index: 15;color:white;right:10px;top:0px;"onclick="closeNav()">&times;</a>
+        
     
     <div class="wrapperchild1">
     <div id="flair-filter" class="center" style="-webkit-justify-content:space-between; justify-content:space-between; padding:6px; background: linear-gradient(to bottom,#213452,#192029);">
     <label for="flair-filter-text">
-      <input id="flair-filter-text" type="text" placeholder="Filter by hero name or #attribute#" onkeyup="flair.updateFilter(this.value)"
+      <input id="flair-filter-text" type="text" placeholder="Filter by hero name" onkeyup="flair.updateFilter(this.value)"
                     onchange="flair.updateFilter(this.value)" />
     </label>
+        <a href="javascript:void(0)" class="closebtn" style="z-index: 15;color: #8456b1;right:10px;top:0px;"onclick="closeNav()">&times;</a>
     <div style="display: block;">
 <div class="dropdown1"id="ButtonClass" style="left: -4px;">
   <button class="btn4">ALL</button>
@@ -97,7 +98,6 @@ JavaScript is required to run this page.
   <button class="btn2" value="uniform" onclick="flair.updateCharacterFilter('uniform')">UNIFORMS</button>
   </div>
 </div>   
-		<button class="btn5" style="margin-left:4px;">></button>
     </div>
   </div>
   </div>
