@@ -82,15 +82,12 @@ JavaScript is required to run this page.
     </label>
         <a href="javascript:void(0)" class="closebtn" style="z-index: 15;color: #8456b1;right:10px;top:0px;"onclick="closeNav()">&times;</a>
     <div style="display: block;">
-<div class="dropdown1"id="ButtonClass" style="left: -4px;">
-  <button class="btn4">ALL</button>
-  <div class="dropdown1-content">
-  <button class="btn2" value="all" onclick="filterSelection1('all')">ALL</button><br>
-  <button class="btn2" value="combat" onclick="filterSelection1('Combat')">COMBAT</button><br>
-  <button class="btn2" value="blast" onclick="filterSelection1('Blast')">BLAST</button>
-  <button class="btn2" value="speed" onclick="filterSelection1('Speed')">SPEED</button>
-  <button class="btn2" value="universal" onclick="filterSelection1('Universal')">UNIVERSAL</button>
-  </div>
+<div class="ButtonClass" id="ButtonClass">
+    <button class="btn1 active" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:25px; width:25px;" onclick="filterSelection('all')" title="All Abilities">All</button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Combat')" title="Combat"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/combattype.jpg"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Blast')" title="Blast"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/blasttype.jpg"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Speed')" title="Speed"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/speedtype.jpg"></button>
+    <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Universal')" title="Universal"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/universaltype.jpg"></button>
 </div> 
 <div class="dropdown" style="display: none;">
   <button class="btn3" id="flair-filter-sheet" >UNIFORMS</button>
