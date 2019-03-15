@@ -4,13 +4,12 @@ flair.sheet_filter_change = false;
 flair.typing_timeout = null;
 
 flair.subreddits = ['future_fight'];
-flair.sheet_filter1 = "uniform";
 
 flair.updateCharacterFilter = function (sheet_name) {
 	if (sheet_name == 'ALL') {
-		flair.sheet_filter = flair.sheet_filter1;
+		flair.sheet_filter = null;
 	} else {
-		flair.sheet_filter = flair.sheet_filter1;
+		flair.sheet_filter = sheet_name;
 	}
 
     
@@ -283,7 +282,7 @@ filterSelection1("all")
 		  function filterSelection1(c) {
   var x, i;
   x = document.getElementsByClassName("flair flair-choice");
-  if (c == "all") c = "";
+  if (c == "all") c = "uniform";
   for (i = 0; i < x.length; i++) {
     w3RemoveClass(x[i], "type");
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "type");
