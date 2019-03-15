@@ -259,7 +259,7 @@ flair.loadChoices = function () {
 			var data = flair.by_id[hero_id];
 
 			var flair_choice = document.createElement('div');
-			flair_choice.setAttribute('class', 'flair flair-choice ' + data.flair_class.replace(/flair-/g, "flair1-") + ' '+ data.hero_name);
+			flair_choice.setAttribute('class', 'flair flair-choice ' + data.flair_class + ' '+ data.hero_name);
 			flair_choice.setAttribute('data-name', data.hero_name);
 			flair_choice.setAttribute('data-id', data.hero_id);
 			flair_choice.setAttribute('onclick', 'flair.selectChoice("' + data.hero_id + '","' + data.key + '")');
