@@ -42,6 +42,10 @@ body {
 	border: 1px solid #363a41;
 
 }
+    .flair-selection-uniname{
+        margin-top: -2px;
+        
+    }
 }
 
 @media only screen and (min-device-width: 600px) {
