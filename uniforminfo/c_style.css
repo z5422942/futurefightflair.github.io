@@ -218,8 +218,8 @@ label input[type=checkbox] + span {
     flex-direction: column
 }
 #flair-filter-text {
-    max-width: 100px;
-	min-width: 100px;
+    max-width: 90%;
+	min-width: 90%;
 	padding: 5px 5px;
 }
 #flair-filter label[for=flair-filter-sheet] {
@@ -575,7 +575,7 @@ button:hover, input[type=submit]:hover {
   position: absolute;
   top: 0;
   right: 25px;
-  font-size: 36px;
+  font-size: 30px;
   margin-left: 0px;
 }
 
