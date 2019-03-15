@@ -26,6 +26,16 @@ html {
 }
 }
 @media only screen and (max-device-width: 480px) {
+    
+    .minus18 {
+        margin-top: -18px;
+    }
+    
+    .minus9 {
+        margin-top: -9px;
+    }
+    
+    
 .show.type.attributes {
 	display: -webkit-inline-flex;
 	display: inline-flex;
