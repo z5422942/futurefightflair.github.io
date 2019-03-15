@@ -339,10 +339,12 @@ button:hover, input[type=submit]:hover {
 	align-items: center;
 	-webkit-justify-content: center;
 	justify-content: center;
-	width: 30px;
-	height: 30px;
+	width: 100px;
+	height: 100px;
+    transform: scale(0.36);
 	cursor: pointer;
-	margin: 3px 3px !important;
+    top:33px;
+	margin: -63px -30px !important;
 	position: relative;
 	border: 1px solid #363a41;
 }
