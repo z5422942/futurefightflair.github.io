@@ -580,3 +580,42 @@ button:hover, input[type=submit]:hover {
   margin-left: 0px;
 }
 
+#openbutton {
+   background-image: url('https://futurefightflair.github.io/icons/openbutton.jpg');
+    background-size: 20px;
+   border-radius: 50%;
+   height: 20px;
+   width: 20px;
+    float: right;
+}
+
+#openbutton:hover {
+   background-image: url('https://futurefightflair.github.io/icons/openbuttonhover.jpg');
+    background-size: 20px;
+   border-radius: 50%;
+   height: 20px;
+   width: 20px;
+        float: right;
+
+}
+
+#closebutton {
+   background-image: url('https://futurefightflair.github.io/icons/closebutton.jpg');
+    background-size: 20px;
+   border-radius: 50%;
+   height: 20px;
+   width: 20px;
+        float: right;
+
+}
+
+#closebutton:hover {
+   background-image: url('https://futurefightflair.github.io/icons/closebuttonhover.jpg');
+   border-radius: 50%;
+   height: 20px;
+        background-size: 20px;
+   border-radius: 50%;
+   height: 20px;
+   width: 20px;
+        float: right;
+}
