@@ -172,7 +172,7 @@ flair.selectChoice = function (hero_id, key) {
     
     	flair.by_id[hero_id].flair_classuni1 = 'flair1 ' + flair.by_id[hero_id].flair_class.replace(/flair-/gi, "");
 	flair.by_id[hero_id].flair_classuni = flair.by_id[hero_id].flair_classuni1.replace(/flair1 flair1-/gi, "flair1 flair-");
-	document.getElementById('flair-selection-flairuni').setAttribute('src', "https://futurefightflair.github.io/uniforminfo/uniform/" + flair.by_id[hero_id].flair_class.replace(/flair-/gi, "").replace(/\ .*/,'') + ".png");
+	document.getElementById('flair-selection-flairuni').setAttribute('src', "https://futurefightflair.github.io/uniforminfo/uniform/" + flair.by_id[hero_id].flair_class.replace(/flair-/gi, "").replace(/\ .*/,'') + ".jpg");
     
 	
 	document.getElementById('flair-selection-name').innerHTML = flair.by_id[hero_id].hero_name1;
