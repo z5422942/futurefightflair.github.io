@@ -35,6 +35,9 @@ html {
         margin-top: -9px;
     }
     
+      .plus3 {
+        margin-top: 3px;
+    }
     
 .show.type.attributes {
 	display: -webkit-inline-flex;
