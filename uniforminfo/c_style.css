@@ -106,7 +106,7 @@ a {
     right: 0px;
     z-index: 12;
     height: 87px;
-    max-width: 400px;
+    max-width: 500px;
     background:#0e1320;
     width:100%;
     float: right;
@@ -130,7 +130,7 @@ a {
     z-index: 10;
     height: 100%;
     max-height: 631px;
-    max-width: 400px;
+    max-width: 500px;
     background:#0e1320;
     width:100%;
     float: right;
@@ -218,8 +218,9 @@ label input[type=checkbox] + span {
     flex-direction: column
 }
 #flair-filter-text {
+    max-width: 100px;
 	min-width: 100px;
-	padding: 5px 10px;
+	padding: 5px 5px;
 }
 #flair-filter label[for=flair-filter-sheet] {
 	display: -webkit-inline-flex;
@@ -340,7 +341,7 @@ button:hover, input[type=submit]:hover {
 	width: 30px;
 	height: 30px;
 	cursor: pointer;
-	margin: 6px 5.7px !important;
+	margin: 3px 3px !important;
 	position: relative;
 	border: 1px solid #363a41;
 }
@@ -561,11 +562,8 @@ button:hover, input[type=submit]:hover {
 }
 
 .sidenav a {
-  padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 25px;
   color: #818181;
-  display: block;
   transition: 0.3s;
 }
 
@@ -578,10 +576,6 @@ button:hover, input[type=submit]:hover {
   top: 0;
   right: 25px;
   font-size: 36px;
-  margin-left: 50px;
+  margin-left: 0px;
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
