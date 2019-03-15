@@ -13,9 +13,21 @@ body {
 }
 w
 
-	
+	@media only screen and (max-device-width: 480px) {
+    
+    .minus18 {
+        margin-top: -6px;
+    }
+    
+    .minus9 {
+        margin-top: -10px;
+    }
+    
+      .plus2 {
+        margin-top: 2px;
+    }
 
-
+}
 
 @media only screen and (max-width: 599px) {
 body {
