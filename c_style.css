@@ -39,6 +39,9 @@ body {
 #flair-filter label[for=flair-filter-sheet] {
 	margin-top: 4px;
 }
+          .uni {
+        font-size: 8px;
+    }
 
 }
 @media only screen and (max-device-width: 599px) {
