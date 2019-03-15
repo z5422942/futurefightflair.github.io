@@ -12,7 +12,70 @@ body {
 	background: #151321;
 }
 
-@media only screen and (min-device-width: 481px) {
+@media only screen and (max-width: 599px) {
+body {
+	font-size: 16px;
+}
+#flair-filter {
+	flex-direction: column;
+}
+#flair-filter label[for=flair-filter-sheet] {
+	margin-top: 4px;
+}
+
+}
+@media only screen and (max-device-width: 599px) {
+	.btn5 {
+	display: inline-block;
+	margin-left: 4px;
+	padding: 2px 8px 2px;
+	background: #26224c;
+	border: 1px solid #aa8ed8;
+	border-radius: 0px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-weight: 800;
+	text-transform: capitalize;
+	text-align: left;
+	line-height: 21px;
+	outline: 0;
+	cursor: pointer;
+	}	
+	.btn5:hover{
+	background: #26224c;
+	border: 1px solid #aa8ed8;
+}
+	.btn5.active {
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, .2);
+	background: #26224c
+}
+}
+
+@media only screen and (min-device-width: 600px) {
+.btn5 {
+	display: none;
+	margin-left: 4px;
+	padding: 2px 8px 2px;
+	background: #26224c;
+	border: 1px solid #aa8ed8;
+	border-radius: 0px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-weight: 800;
+	text-transform: capitalize;
+	text-align: left;
+	line-height: 21px;
+	outline: 0;
+	cursor: pointer;
+	}
+	}
+
+@media only screen and (min-width:600px) {
+    body {
+	font-size: 16px;
+
+}
+}
 
 .show.type.attributes {
 	display: -webkit-inline-flex;
@@ -29,58 +92,9 @@ body {
 	position: relative;
 	top: 47px;
 	border: 1px solid #363a41;
-}
-}
-@media only screen and (max-device-width: 480px) {
-.show.type.attributes {
-	display: -webkit-inline-flex;
-	display: inline-flex;
-	-webkit-align-items: center;
-	align-items: center;
-	-webkit-justify-content: center;
-	justify-content: center;
-	width: 100px;
-	height: 100px;
-	transform: scale(0.36);
-	cursor: pointer;
-	margin-top: -47px!important;
-	margin-bottom: -46px!important;
-	margin-left: -27px!important;
-	margin-right: -27px!important;
-	position: relative;
-	top: 40px;
-	border: 1px solid #363a41;
-}
-
-.btn5 {
-	display: inline-block;
-	margin-left: 4px;
-	padding: 2px 8px 2px;
-	background: #26224c;
-	border: 1px solid #aa8ed8;
-	border-radius: 0px;
-	color: #fff;
-	font-family: 'Exo', sans-serif;
-	font-weight: 800;
-	text-transform: capitalize;
-	text-align: left;
-	line-height: 21px;
-	outline: 0;
-	cursor: pointer;
-}
-.btn5:hover {
-	background: #26224c;
-	border: 1px solid #aa8ed8;
-}
-.active {
-	box-shadow: inset 0 2px 4px rgba(0, 0, 0, .2);
-	background: #26224c
-}
-}
-body {
-	font-size: 16px;
 
 }
+
 
 #flair-filter {
 	flex-direction: column;
