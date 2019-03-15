@@ -218,8 +218,9 @@ label input[type=checkbox] + span {
     flex-direction: column
 }
 #flair-filter-text {
-    max-width: 90%;
-	min-width: 90%;
+    width: 100%;
+    max-width: 200px;
+	min-width: 100px;
 	padding: 5px 5px;
 }
 #flair-filter label[for=flair-filter-sheet] {
