@@ -24,7 +24,7 @@ w
     }
     
       .uni {
-        font-size: 8px;
+        font-size: 8pt!important;
     }
 
 }
@@ -40,7 +40,7 @@ body {
 	margin-top: 4px;
 }
           .uni {
-        font-size: 8px;
+        font-size: 8pt!important;
     }
 
 }
