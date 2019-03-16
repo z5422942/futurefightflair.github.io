@@ -33,6 +33,9 @@ body {
         max-width: 180px!important;
     }
 }
+#btnimp {
+    margin-bottom: 20px!important;
+}
 
 @media only screen and (max-width: 599px) {
 body {
