@@ -20,6 +20,7 @@ body {
     margin-top: -10px;
 }
     .name {
+        margin-top: 1px;
         font-size: 10pt!important;
         line-height: 11pt!important;
         height: 28px!important;
@@ -31,11 +32,10 @@ body {
 }
     .gb-330 {
         max-width: 180px!important;
-        margin-top: 3px!important;
     }
 }
 .btn9 {
-    margin-bottom: -20px!important;
+    margin-bottom: -5px!important;
 }
 
 @media only screen and (max-width: 599px) {
