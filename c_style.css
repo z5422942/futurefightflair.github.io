@@ -121,7 +121,7 @@ a {
 }
 .wrapper {
     width: 100%;
-    max-width: 801px;
+    max-width: 845px;
     display: block;
     position: relative;
     margin: 0 auto;
@@ -435,7 +435,7 @@ button:hover, input[type=submit]:hover {
 .gb-300 {
     padding: 3px;
     float: right;
-    width: 300px;
+    width: 340px;
     margin-top: 2px;
     margin-right: 8px;
 }

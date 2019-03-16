@@ -129,7 +129,7 @@ a {
     right: 0px;
     z-index: 10;
     height: 100%;
-    max-height: 631px;
+    max-height: 666px;
     max-width: 500px;
     background:#0e1320;
     width:100%;
@@ -148,8 +148,8 @@ a {
 
 .wrapper {
 	width: 100%;
-	max-width: 801px;
-    max-height: 631px;
+	max-width: 845px;
+    max-height: 666px;
 	display: block;
 	position: relative;
 	margin: 0 auto;
@@ -554,7 +554,7 @@ button:hover, input[type=submit]:hover {
   width: 0;
   position: absolute;
   z-index: 1;
-  max-height: 631px;
+  max-height: 666px;
   top: 0;
   right: 0;
   background-color: #111;
