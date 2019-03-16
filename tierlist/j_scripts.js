@@ -1,4 +1,4 @@
-flair.current_choice = 0;
+tflair.current_choice = 0;
 flair.sheet_filter = null;
 flair.sheet_filter_change = false;
 flair.typing_timeout = null;
@@ -257,6 +257,7 @@ flair.loadChoices = function () {
 			var flair_choice = document.createElement('div');
 			flair_choice.setAttribute('class', 'flair flair-choice ' + data.flair_class + ' '+ data.hero_name);
 			flair_choice.setAttribute('data-name', data.hero_name);
+            flair_choice.setAttribute('title', data.hero_name.replace(/ *\#[^)]*\# */g, "").replace(/\[.*/,'') + "- " + data.hero_name.replace(/ *\#[^)]*\# */g, "").replace(/.*?(\[[^]*\]).*?/g, "$1").replace(/\[/g, '').replace(/]/g, ''));
 			flair_choice.setAttribute('data-id', data.hero_id);
 			flair_choice.setAttribute('onclick', 'flair.selectChoice("' + data.hero_id + '","' + data.key + '")');
 
