@@ -20,10 +20,9 @@ body {
     margin-top: -10px;
 }
     .name {
-        margin-top: 1px!important;
         font-size: 10pt!important;
         line-height: 11pt!important;
-        height: 29px!important;
+        height: 28px!important;
     }
 .uni {
     font-size: 8pt!important;
@@ -32,10 +31,11 @@ body {
 }
     .gb-330 {
         max-width: 180px!important;
+        margin-top: 3px!important;
     }
 }
 #btnimp {
-    margin-bottom: 20px!important;
+    margin-bottom: -20px!important;
 }
 
 @media only screen and (max-width: 599px) {
