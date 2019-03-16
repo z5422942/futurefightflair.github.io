@@ -22,6 +22,10 @@ body {
 .uni {
     font-size: 8pt!important;
 }
+    .gb-330 {
+        width:300px!important;
+        text-align: center;
+    }
 }
 
 @media only screen and (max-width: 599px) {
