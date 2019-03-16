@@ -26,6 +26,9 @@ body {
         width:300px!important;
         text-align: center;
     }
+    .gb-100 {
+        text-align: center;
+    }
 }
 
 @media only screen and (max-width: 599px) {
