@@ -34,7 +34,7 @@ body {
         margin-top: 3px!important;
     }
 }
-#btnimp {
+.btn9 {
     margin-bottom: -20px!important;
 }
 
@@ -360,6 +360,25 @@ button:hover, input[type=submit]:hover {
     cursor: pointer;
 }
 .btn:hover {
+    background: #8456b1
+}
+.btn9 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 2px 8px 2px;
+    background: linear-gradient(to bottom, #19243a, #5a7db5);
+    border: 1px solid #495672;
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 21px;
+    outline: 0;
+    cursor: pointer;
+}
+.btn9:hover {
     background: #8456b1
 }
 .btn2 {
