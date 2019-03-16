@@ -14,14 +14,18 @@ body {
 
 @media only screen and (max-device-width: 480px) {
 .minus18 {
-    margin-top: -6px;
+    margin-top: 0px;
 }
 .minus9 {
     margin-top: -10px;
 }
 .uni {
     font-size: 8pt!important;
+    padding-bottom: 7px!important;
 }
+    .gb-330 {
+        max-width: 110px!important;
+    }
 }
 
 @media only screen and (max-width: 599px) {
