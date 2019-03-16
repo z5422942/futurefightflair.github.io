@@ -188,7 +188,7 @@ flair.selectChoice = function (hero_id, key) {
 	flair.by_id[hero_id].hero_race = flair.by_id[hero_id].hero_race1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-race').innerHTML = flair.by_id[hero_id].hero_race;
 	
-	flair.by_id[hero_id].hero_side1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Hero|Neutral|Villain)*\#).*?/gi, "$1").replace(/#Hero#/g, " Hero").replace(/#Neutral#/g, " Neutral").replace(/#Villain#/g, " Villain");
+	flair.by_id[hero_id].hero_side1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Super Hero|Neutral|Super Villain)*\#).*?/gi, "$1").replace(/#Super Hero#/g, " Super Hero").replace(/#Neutral#/g, " Neutral").replace(/#Super Villain#/g, " Super Villain");
 	flair.by_id[hero_id].hero_side = flair.by_id[hero_id].hero_side1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-side').innerHTML = flair.by_id[hero_id].hero_side;
 	

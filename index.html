@@ -40,8 +40,9 @@ JavaScript is required to run this page.
         <button style="height: 21px;font-size: 7pt; padding-top:0px; padding-bottom: 0px; float:right;"  onclick="n.toggleClass('#help-bubble', 'hide');return false">SUPPORT</button>
 
 </div>
-<div id="help-bubble" class="wrapper no-margin hide" style="top:26px; position: relative;">
-  <h3>INSTRUCTIONS</h3>
+<div class="centerinfo" style="z-index: 1; position: absolute; margin-top: 26px; margin-left: auto; margin-right: auto; left: 13px; right: 13px; max-height: 376px; min-width: 350px; max-width: 500px;">
+  <div id="help-bubble" style="overflow: auto; max-height: 376px; opacity: 1; min-width: 350px; max-width: 500px; width: 100%!important;" class="wrapper no-margin hide">
+      <h3>INSTRUCTIONS</h3>
   <p> <b>How to Use:</b> Below is a list of flair images that can be selected to be used. Click on one, and a preview
     image will jump to the top as well as showing that icon's corresponding character name and uniform name. </p>
   <p>If you wish to have additional and optional text next to your flair icon, enter that in the "Insert flair text here"
@@ -66,12 +67,13 @@ JavaScript is required to run this page.
       Heightened Senses, Leadership, Machine, Magic, Mind, Mind Resist, Phoenix Force, Poison, Pure Evil, Shock, Spider-Sense,
       Strong, Symbiote, Time Freezing Immunity, Weapons Master</li>
     <li> <i>Gender: </i>Genderless, Female, Male</li>
-    <li> <i>Race: </i>Alien, Creature, Human, Inhuman, Mutant, Other</li>
-    <li> <i>Side: </i>Hero, Neutral, Villain</li>
+    <li> <i>Allies: </i>Alien, Creature, Human, Inhuman, Mutant, Other</li>
+    <li> <i>Side: </i>Super Hero, Neutral, Super Villain</li>
     <li> <i>Team: </i>Avengers, Black Order, Brotherhood, Defenders, Guardians, Shield, Sinister Six, Skrull Spidey, X-Men, X-Force</li>
     <li> <i>Type: </i>Blast, Combat, Speed, Universal</li>
     <li> <i>Utilities: </i>MCU, New, NPC, Tier3, Potential, Support</li>
   </ul>
+</div>
 </div>
 <div class="wrapper" style="margin-top: 26px; background:#0e1320">
   <div id="flair-selection" class="left">
@@ -88,13 +90,13 @@ JavaScript is required to run this page.
         </div>
       </div>
 		<div class="gb-300">
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Type:</span></strong><text id="flair-selection-type" style="float:right;"></text></p>
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Allies:</span></strong><text id="flair-selection-race" style="float:right;"></text></p>
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Gender:</span></strong><text id="flair-selection-gender" style="float:right;"></text></p>
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Side:</span></strong><text id="flair-selection-side" style="float:right;"></text></p>
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Ability:</span></strong><text id="flair-selection-abilities" style="float:right;"></text></p>
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Team:</span></strong><text id="flair-selection-team" style="float:right;"></text></p>
-            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Utilities:</span></strong><text id="flair-selection-utilities" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Type</span></strong><text id="flair-selection-type" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Allies</span></strong><text id="flair-selection-race" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Gender</span></strong><text id="flair-selection-gender" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Side</span></strong><text id="flair-selection-side" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Ability</span></strong><text id="flair-selection-abilities" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Team</span></strong><text id="flair-selection-team" style="float:right;"></text></p>
+            <p style="font-size: 10px; line-height:5px; font-weight:bold; text-transform: uppercase;"><strong><span style=" color:#77b0f8;">Utilities</span></strong><text id="flair-selection-utilities" style="float:right;"></text></p>
 		</div>
         </div>
     </div>
