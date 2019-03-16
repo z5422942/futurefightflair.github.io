@@ -26,9 +26,8 @@ body {
         width:300px!important;
         text-align: center;
     }
-    .gb-100 {
-        text-align: center!important;
-    }
+        .mobilecenter{text-align: center;display:block}
+
 }
 
 @media only screen and (max-width: 599px) {
@@ -432,6 +431,7 @@ button:hover, input[type=submit]:hover {
     padding: 3px;
     float: left;
     width: 100px;
+    margin-right: 8px;
 }
 .gb-330 {
     padding: 3px;
