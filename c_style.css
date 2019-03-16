@@ -22,6 +22,7 @@ body {
     .name {
         font-size: 10pt!important;
         line-height: 11pt!important;
+        height: 25px!important;
     }
 .uni {
     font-size: 8pt!important;
