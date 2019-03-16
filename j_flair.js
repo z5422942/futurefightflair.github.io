@@ -53,6 +53,7 @@ flair.names = {
 
 
 
+
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Agent1300 character sharon" : "Agent 13 [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agent#",
@@ -142,7 +143,7 @@ flair.names = {
 "Deathlok01 uniform deathlok1" : "Deathlok [Modern] #Super Hero# #Hero# #Blast# #Male# #Human# #Shield# #Agent# #Machine#",
 "Destroyer00 character destroyer" : "Destroyer [Classic] #Neutral# #Universal# #Genderless# #Creature# #Asgard# #Flame#",
 "Destroyer01 uniform destroyer1" : "Destroyer [Prometheus] #Neutral# #Universal# #Genderless# #Creature# #Asgard# #Flame#",
-"DoctorDoom00 character doom" : "Doctor Doom [Modern] #Super Villain# #Villain# #Universal# #Male# #Human# #Fantastic Four# #Magic# #Pure Evil# #Potential#",
+"DoctorDoom00 character doom" : "Doctor Doom [Modern] #Super Villain# #Villain# #Universal# #Male# #Human# #Magic# #Pure Evil# #Potential#",
 "DoctorOctopus00 character ock" : "Doctor Octopus [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Sinister Six# #Durability# #Machine#",
 "DoctorOctopus01 uniform ock1" : "Doctor Octopus [Superior Spider-Man] #Super Hero# #Hero# #Combat# #Male# #Human# #Spidey# #Agility# #Machine# #Spider-Sense#",
 "DoctorStrange00 character strange" : "Doctor Strange [All-New, All-Different] #Super Hero# #Hero# #Blast# #Male# #Human# #Fast Movement# #Magic# #Potential#",
@@ -390,7 +391,7 @@ flair.names = {
 "Venom00 character venom" : "Venom [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Symbiote# #Healing#",
 "Venom01 uniform venom1" : "Venom [Secret Wars: Marvel Zombies] #Super Villain# #Villain# #Combat# #Male# #Human# #Symbiote# #Healing#",
 "Venom02 uniform venom2" : "Venom [Anti-Venom] #Super Hero# #Hero# #Combat# #Male# #Human# #Symbiote# #Healing# #Support#",
-"Victorious00 character victorious" : "Victorious [Modern] #Super Villain# #Villain# #Universal# #Female# #Human# #Fantastic Four# #Energy Projection# #Fast Movement# #Support# #Potential#",
+"Victorious00 character victorious" : "Victorious [Modern] #Super Villain# #Villain# #Universal# #Female# #Human# #Energy Projection# #Fast Movement# #Support# #Potential#",
 "Vision00 character vision" : "Vision [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Durability# #Fast Movement# #Machine#",
 "Vision01 uniform vision1" : "Vision [Avengers: Age of Ultron] #Super Hero# #Hero# #Universal# #Male# #Creature# #MCU# #Avengers# #Durability# #Fast Movement# #Machine#",
 "Volstagg00 character volstagg" : "Volstagg [Modern] #Super Hero# #Hero# #Combat# #Male# #Alien# #Asgard# #Durability# #Support#",
@@ -430,4 +431,6 @@ flair.names = {
 "Yondu00 character yondu" : "Yondu [Guardians of the Galaxy] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
 "Yondu01 uniform yondu1" : "Yondu [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Alien# #Weapons Master# #Command#",
 "Yondu02 uniform yondu2" : "Yondu [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
+
+
 };
