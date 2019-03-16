@@ -19,10 +19,14 @@ body {
 .minus9 {
     margin-top: -10px;
 }
+    .name {
+        font-size: 10pt!important;
+    }
 .uni {
     font-size: 8pt!important;
     padding-bottom: 7px!important;
     height: 25px!important;
+    line-height: 3px!important;
 }
     .gb-330 {
         max-width: 180px!important;
