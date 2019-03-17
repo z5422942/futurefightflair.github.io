@@ -22,14 +22,28 @@ body {
 .uni {
     font-size: 8pt!important;
 }
-    .gb-330 {
+}
+@media only screen and (max-width: 870px) {
+    .minus18 {
+    margin-top: 8px;
+}
+    .mobilecenter{
+        display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    }
+            .gb-330 {
         width:300px!important;
         text-align: center;
     }
-
+        .uni {
+    font-size: 8pt!important;
+    line-height: 17pt;
 }
 
-@media only screen and (max-width: 599px) {
 body {
     font-size: 12px;
 }
@@ -38,10 +52,6 @@ body {
 }
 #flair-filter label[for=flair-filter-sheet] {
     margin-top: 4px;
-}
-.uni {
-    font-size: 8pt!important;
-    line-height: 17pt;
 }
 }
 
@@ -91,7 +101,7 @@ body {
 }
 }
 
-@media only screen and (min-width:600px) {
+@media only screen and (min-width:871px) {
 body {
     font-size: 16px;
 }
