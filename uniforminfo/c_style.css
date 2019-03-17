@@ -153,6 +153,26 @@ a {
 	color: white;
 }
 
+.wrapperrev {
+	width: 100%;
+	max-width: 845px;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+
+.wrapperrev.no-margin {
+	margin-top: 0;
+}
+.wrapperrev:not(.no-style) {
+	padding: 10px;
+	border-radius: 0px;
+	box-shadow: 0 0 0 1px #1a213e, inset 0 0 0 1px #1a213e;
+	background: #0e1320;
+	color: white;
+}
 .wrapper {
 	width: 100%;
 	max-width: 845px;
