@@ -18,9 +18,7 @@ body {
     margin-top: 5px;
         padding-bottom: 3px;
 }
-    .minus9 {
-    margin-top: -7px;
-}
+
     .mobilecenter{
         display: -webkit-flex;
     display: flex;
@@ -50,6 +48,10 @@ body {
 }
 
 @media only screen and (max-device-width: 599px) {
+        .minus18 {
+    margin-top: 3px;
+        padding-bottom: 3px;
+}
 .btn5 {
     display: inline-block;
     margin-left: 4px;
