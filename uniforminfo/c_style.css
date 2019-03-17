@@ -49,6 +49,9 @@ body {
         .mobile5{
         margin-top:13px!important;
     }
+    body {
+	font-size: 12px!important;
+}
 }
 
 @media only screen and (min-device-width: 600px) {
