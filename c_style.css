@@ -61,6 +61,10 @@ body {
 }
 
 @media only screen and (max-device-width: 599px) {
+    
+    body {
+	font-size: 12px;
+}
         .minus18 {
     margin-top: 0px;
         padding-bottom: 0px;
