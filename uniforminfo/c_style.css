@@ -24,9 +24,7 @@ body {
 
 }
 @media only screen and (max-device-width: 599px) {
-    .mobile5{
-        margin-top:5px;
-    }
+
 	.btn5 {
 	display: inline-block;
 	margin-left: 4px;
@@ -71,6 +69,12 @@ body {
 	cursor: pointer;
 	}
 	}
+
+@media only screen and (max-width:599px) {
+    .mobile5{
+        margin-top:15px;
+    }
+}
 
 @media only screen and (min-width:600px) {
 body {
