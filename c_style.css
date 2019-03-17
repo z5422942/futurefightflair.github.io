@@ -50,7 +50,7 @@ body {
 @media only screen and (max-device-width: 599px) {
         .minus18 {
     margin-top: 0px;
-        padding-bottom: 3px;
+        padding-bottom: 0px;
 }
 .btn5 {
     display: inline-block;
