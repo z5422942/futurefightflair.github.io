@@ -54,6 +54,7 @@ flair.names = {
 
 
 
+
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Agent1300 character sharon" : "Agent 13 [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agent#",
@@ -115,7 +116,7 @@ flair.names = {
 "CaptainMarvel00 character danvers" : "Captain Marvel [Modern] #Super Hero# #Hero# #Universal# #Female# #Human# #Energy Projection# #Fast Movement# #Leadership#",
 "CaptainMarvel01 uniform danvers1" : "Captain Marvel [Secret Wars: Captain Marvel & The Carol Corps] #Super Hero# #Hero# #Universal# #Female# #Human# #Energy Projection# #Fast Movement# #Leadership#",
 "CaptainMarvel02 uniform danvers2" : "Captain Marvel [Ms. Marvel] #Super Hero# #Hero# #Universal# #Female# #Human# #Energy Projection# #Fast Movement# #Leadership#",
-"CaptainMarvel03 uniform danvers3" : "Captain Marvel [Captain Marvel] #Super Hero# #Hero# #Universal# #Female# #Human# #MCU# #Energy Projection# #Fast Movement# #Leadership# #Potential# #Tier3# #New#",
+"CaptainMarvel03 uniform danvers3" : "Captain Marvel [Captain Marvel] #Super Hero# #Hero# #Universal# #Female# #Human# #MCU# #Energy Projection# #Fast Movement# #Leadership# #Potential# #Tier3#",
 "Carnage00 character carnage" : "Carnage [All-New, All-Different] #Super Villain# #Villain# #Combat# #Male# #Human# #Pure Evil# #Healing# #Symbiote# #Support#",
 "Clea00 character clea" : "Clea [Modern] #Super Hero# #Hero# #Universal# #Female# #Alien# #Fast Movement# #Magic#",
 "Colossus00 character colossus" : "Colossus [Modern] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Men# #Leadership# #Strong# #Support# #Potential#",
@@ -236,7 +237,7 @@ flair.names = {
 "JeanGrey00 character jean" : "Jean Grey [Phoenix] #Super Hero# #Hero# #Blast# #Female# #Mutant# #X-Men# #Phoenix Force# #Mind# #Mind Resist#",
 "JessicaJones00 character jessica" : "Jessica Jones [Modern] #Super Hero# #Hero# #Combat# #Female# #Human# #MCU# #Defenders# #Durability# #Strong#",
 "Jocasta00 character jocasta" : "Jocasta [Jocasta] #Super Hero# #Hero# #Female# #Creature# #NPC#",
-"Juggernaut00 character juggernaut" : "Juggernaut [] #Super Villain# #Villain# #Male# #Human# #Brotherhood# #New#",
+"Juggernaut00 character juggernaut" : "Juggernaut [Brotherhood of Mutants] #Super Villain# #Villain# #Combat# #Male# #Mutant# #Brotherhood# #Strong# #Durability# #Pure Evil# #Potential# #New#",
 "Kaecilius00 character kaecilius" : "Kaecilius [Marvel's Doctor Strange] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Agility# #Magic#",
 "Karnak00 character karnak" : "Karnak [War of Kings] #Super Hero# #Hero#  #Speed# #Male# #Inhuman# #Heightened Senses#",
 "Karnak01 uniform karnak1" : "Karnak [All-New, All-Different] #Super Hero# #Hero#  #Speed# #Male# #Inhuman# #Heightened Senses#",
@@ -246,7 +247,7 @@ flair.names = {
 "Killmonger01 uniform killmonger1" : "Erik Killmonger [Black Panther] #Super Villain# #Villain# #Combat# #Male# #Human# #MCU# #Command# #Strong#",
 "Kingpin00 character kingpin" : "Kingpin [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Command# #Strong#",
 "Kingpin01 uniform kingpin1" : "Kingpin [Secret Wars: Armor Wars] #Super Villain# #Villain# #Blast# #Male# #Human# #Command# #Strong# #Machine#",
-"Korath00 character korath" : "Korath [Captain Marvel] #Super Villain# #Villain# #Speed# #Male# #Alien# #MCU# #Pure Evil# #Weapons Master# #Potential# #New#",
+"Korath00 character korath" : "Korath [Captain Marvel] #Super Villain# #Villain# #Speed# #Male# #Alien# #MCU# #Pure Evil# #Weapons Master# #Potential#",
 "KravenTheHunter00 character kraven" : "Kraven The Hunter [Modern] #Super Villain# #Villain# #Speed# #Male# #Human# #Sinister Six# #Agility# #Weapons Master#",
 "Lash00 character lash" : "Lash [Marvel's Agents of S.H.I.E.L.D.] #Super Villain# #Villain#  #Blast# #Male# #Inhuman# #MCU# #Shield# #Energy Projection#",
 "Lash01 uniform lash1" : "Lash [Modern] #Super Villain# #Villain#  #Blast# #Male# #Inhuman# #Energy Projection#",
@@ -275,8 +276,8 @@ flair.names = {
 "Medusa00 character medusa" : "Medusa [All-New, All-Different] #Super Hero# #Hero#  #Universal# #Female# #Inhuman# #Command# #Potential#",
 "Medusa01 uniform medusa1" : "Medusa [Monsters Unleashed! (MFF Variant)] #Super Hero# #Hero#  #Universal# #Female# #Inhuman# #Command# #Potential#",
 "MidgardSerpent00 character midgardserpent" : "Midgard Serpent [Midgard Serpent] #Super Villain# #Villain# #Neutral# #Alien# #Asgard# #NPC#",
-"Minn-Erva00 character erva" : "Minn-Erva [Modern] #Super Villain# #Villain# #Combat# #Female# #Alien# #Pure Evil# #Durability# #Strong# #Potential# #New#",
-"Minn-Erva01 uniform erva1" : "Minn-Erva [Captain Marvel] #Super Villain# #Villain# #Combat# #Female# #Alien# #MCU# #Pure Evil# #Durability# #Strong# #Potential# #New#",
+"Minn-Erva00 character erva" : "Minn-Erva [Modern] #Super Villain# #Villain# #Combat# #Female# #Alien# #Pure Evil# #Durability# #Strong# #Potential#",
+"Minn-Erva01 uniform erva1" : "Minn-Erva [Captain Marvel] #Super Villain# #Villain# #Combat# #Female# #Alien# #MCU# #Pure Evil# #Durability# #Strong# #Potential#",
 "MistyKnight00 character misty" : "Misty Knight [All-New, All-Different] #Super Hero# #Hero# #Speed# #Female# #Human# #Defenders# #Weapons Master# #Agent#",
 "MisterFantastic00 character reed" : "Mister Fantastic [Modern] #Super Hero# #Hero# #Combat# #Male# #Human# #Fantastic Four# #Durability# #Leadership# #Potential# #Tier3#",
 "Mockingbird00 character mockingbird" : "Mockingbird [Heroic Age] #Super Hero# #Hero# #Speed# #Female# #Human# #Shield# #Agent# #Agility#",
@@ -292,8 +293,8 @@ flair.names = {
 "Mysterio00 character mysterio" : "Mysterio [Classic] #Super Villain# #Villain# #Blast# #Male# #Human# #Sinister Six# #Mind#",
 "Nebula00 character nebula" : "Nebula [Guardians of the Galaxy] #Super Villain# #Villain# #Combat# #Female# #Alien# #MCU# #Guardians# #Weapons Master# #Shock#",
 "Nebula01 uniform nebula1" : "Nebula [Classic] #Super Villain# #Villain# #Combat# #Female# #Alien# #Weapons Master# #Shock#",
-"NickFury00 character fury" : "Nick Fury [Modern] #Super Hero# #Hero# #Speed# #Male# #Human# #Shield# #Weapons Master# #Leadership# #Agent# #Support# #New#",
-"NickFury01 uniform fury1" : "Nick Fury [Captain America] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Shield# #Weapons Master# #Leadership# #Agent# #Support# #Potential# #New#",
+"NickFury00 character fury" : "Nick Fury [Modern] #Super Hero# #Hero# #Speed# #Male# #Human# #Shield# #Weapons Master# #Leadership# #Agent# #Support#",
+"NickFury01 uniform fury1" : "Nick Fury [Captain America] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Shield# #Weapons Master# #Leadership# #Agent# #Support# #Potential#",
 "Nightcrawler00 character nightcrawler" : "Nightcrawler [Modern] #Super Hero# #Hero# #Speed# #Male# #Mutant# #X-Men# #Leadership# #Agility# #Potential#",
 "Nightcrawler01 uniform nightcrawler1" : "Nightcrawler [X-Force] #Super Hero# #Hero# #Speed# #Male# #Mutant# #X-Force# #Leadership# #Agility# #Potential# #New#",
 "NovaSamAlexander00 character samalexander" : "Nova (Sam Alexander) [All-New, All-Different] #Super Hero# #Hero# #Universal# #Male# #Human# #Energy Projection# #Fast Movement#",
@@ -324,8 +325,8 @@ flair.names = {
 "Rogue01 uniform rogue1" : "Rogue [Age of Apocalypse] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Men# #Fast Movement# #Healing#",
 "Ronan00 character ronan" : "Ronan [Guardians of the Galaxy] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Guardians# #Command# #Mind Resist# #Support#",
 "Ronan01 uniform ronan1" : "Ronan [Annihilation] #Super Villain# #Villain# #Universal# #Male# #Alien# #Guardians# #Command# #Mind Resist# #Support#",
-"Ronan02 uniform ronan2" : "Ronan [Captain Marvel] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Guardians# #Command# #Mind Resist# #Support# #Potential# #New#",
-"Sabretooth00 character sabretooth" : "Sabretooth [] #Super Villain# #Villain# #Male# #Mutant# #Brotherhood# #New#",
+"Ronan02 uniform ronan2" : "Ronan [Captain Marvel] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Guardians# #Command# #Mind Resist# #Support# #Potential#",
+"Sabretooth00 character sabretooth" : "Sabretooth [Brotherhood of Mutants] #Super Villain# #Villain# #Combat# #Male# #Mutant# #Brotherhood# #Pure Evil# #Agility# #Potential# #New#",
 "Sandman00 character sandman" : "Sandman [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Sinister Six# #Durability#",
 "Satana00 character satana" : "Satana [Modern] #Super Hero# #Hero# #Universal# #Female# #Human# #Flame# #Magic#",
 "Satana01 uniform satana1" : "Satana [Marvel Legacy] #Super Hero# #Hero# #Universal# #Female# #Human# #Flame# #Magic#",
@@ -402,7 +403,7 @@ flair.names = {
 "WarMachine02 uniform wm2" : "War Machine [Avengers: The Initiative] #Super Hero# #Hero# #Blast# #Male# #Human# #Avengers# #Leadership# #Machine# #Potential#",
 "WarMachine03 uniform wm3" : "War Machine [Captain America: Civil War] #Super Hero# #Hero# #Blast# #Male# #Human# #MCU# #Avengers# #Leadership# #Machine# #Potential#",
 "WarMachine04 uniform wm4" : "War Machine [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Human# #MCU# #Avengers# #Leadership# #Machine# #Potential#",
-"Warpath00 character warpath" : "Warpath [X-Force] #Super Hero# #Hero# #Male# #Mutant# #X-Force# #New#",
+"Warpath00 character warpath" : "Warpath [X-Force] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Force# #Leadership# #Strong# #Potential# #New#",
 "Warwolf00 character warwolf" : "Warwolf [The Howling Commandos of S.H.I.E.L.D.] #Super Hero# #Hero# #Combat# #Male# #Human# #Shield# #Agent# #Healing# #Support#",
 "Wasp00 character wasp" : "Wasp [Modern] #Super Hero# #Hero# #Blast# #Female# #Human# #Fast Movement# #Support# #Potential#",
 "Wasp01 uniform wasp1" : "Wasp [All-New, All-Different] #Super Hero# #Hero# #Blast# #Female# #Human# #Fast Movement# #Support# #Potential#",
@@ -420,7 +421,7 @@ flair.names = {
 "Wolverine00 character wolverine" : "Wolverine [Classic] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Men# #Healing# #Weapons Master#",
 "Wolverine01 uniform wolverine1" : "Wolverine [Age of Apocalypse] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Men# #Healing# #Weapons Master#",
 "Wolverine02 uniform wolverine2" : "Wolverine [All-New Marvel NOW!] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Men# #Healing# #Weapons Master#",
-"Wolverine03 uniform wolverine3" : "Wolverine [X-Force] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Force# #Healing# #Weapons Master# #New#",
+"Wolverine03 uniform wolverine3" : "Wolverine [X-Force] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Force# #Healing# #Weapons Master# #Potential# #Tier3# #New#",
 "Wong00 character wong" : "Wong [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Human# #Weapons Master#",
 "Wong01 uniform wong1" : "Wong [Marvel's Doctor Strange] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Weapons Master#",
 "X2300 character laura" : "X-23 [Classic] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Men# #Healing# #Agility# #Potential#",
@@ -431,6 +432,8 @@ flair.names = {
 "Yondu00 character yondu" : "Yondu [Guardians of the Galaxy] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
 "Yondu01 uniform yondu1" : "Yondu [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Alien# #Weapons Master# #Command#",
 "Yondu02 uniform yondu2" : "Yondu [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
+
+
 
 
 };
