@@ -55,6 +55,7 @@ flair.names = {
 
 
 
+
 "logo tierlist logo" : "Logo [] #Combat ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat ",
@@ -96,8 +97,8 @@ flair.names = {
 "cyclops tierlist cyclops" : "Cyclops [Age of Apocalypse] #Blast #Support #Leader ",
 "daisy tierlist daisy" : "Daisy Johnson [A.O.S (Quake)] #Blast #Buff ",
 "daredevil tierlist daredevil" : "Daredevil [All-New, All-Different] #Speed ",
-"deadpool-t2 tierlist deadpool-t2" : "Deadpool [] #Speed ",
-"deadpool-t3 tierlist deadpool-t3" : "Deadpool [] #Speed ",
+"deadpool-t2 tierlist deadpool-t2" : "Deadpool [X-Force] #Speed ",
+"deadpool-t3 tierlist deadpool-t3" : "Deadpool [X-Force] #Speed ",
 "deathlok tierlist deathlok" : "Deathlok [Modern] #Blast ",
 "destroyer tierlist destroyer" : "Destroyer [Prometheus] #Universal ",
 "doctordoom tierlist doctordoom" : "Doctor Doom [] #Universal #Leader ",
@@ -247,8 +248,8 @@ flair.names = {
 "whitetiger tierlist whitetiger" : "White Tiger [] #Combat ",
 "wiccan tierlist wiccan" : "Wiccan [] #Blast ",
 "wintersoldier tierlist wintersoldier" : "Winter Soldier [Infinity War] #Speed ",
-"Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [Age of Apocalypse] #Combat ",
-"Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [] #Combat ",
+"Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [X-Force] #Combat ",
+"Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [X-Force] #Combat ",
 "wong tierlist wong" : "Wong [] #Speed ",
 "x23 tierlist x23" : "X-23 [X-Force] #Speed ",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Marvel Now] #Blast ",
@@ -260,6 +261,8 @@ flair.names = {
 "juggernaut tierlist juggernaut" : "Juggernaut [] #Combat ",
 "warpath tierlist warpath" : "Warpath [] #Combat ",
 "sabretooth tierlist sabretooth" : "Sabretooth [] #Combat ",
+
+
 
 
 
