@@ -54,7 +54,8 @@ flair.names = {
 
 
 
-"logo tierlist logo" : "Logo [] #None ",
+
+"logo tierlist logo" : "Logo [] #Combat ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat ",
 "adamwarlock tierlist adamwarlock" : "Adam Warlock [] #Blast ",
@@ -246,7 +247,8 @@ flair.names = {
 "whitetiger tierlist whitetiger" : "White Tiger [] #Combat ",
 "wiccan tierlist wiccan" : "Wiccan [] #Blast ",
 "wintersoldier tierlist wintersoldier" : "Winter Soldier [Infinity War] #Speed ",
-"wolverine tierlist wolverine" : "Wolverine [Age of Apocalypse] #Combat ",
+"Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [Age of Apocalypse] #Combat ",
+"Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [] #Combat ",
 "wong tierlist wong" : "Wong [] #Speed ",
 "x23 tierlist x23" : "X-23 [X-Force] #Speed ",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Marvel Now] #Blast ",
@@ -255,6 +257,11 @@ flair.names = {
 "minnerva-t2 tierlist minnerva-t2" : "Minn-Erva [Captain Marvel] #Combat ",
 "minnerva-t3 tierlist minnerva-t3" : "Minn-Erva [Captain Marvel] #Combat ",
 "korath tierlist korath" : "Korath [] #Speed ",
+"juggernaut tierlist juggernaut" : "Juggernaut [] #Combat ",
+"warpath tierlist warpath" : "Warpath [] #Combat ",
+"sabretooth tierlist sabretooth" : "Sabretooth [] #Combat ",
+
+
 
 
 
