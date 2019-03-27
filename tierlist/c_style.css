@@ -6,7 +6,19 @@ html {
 	overflow-y: scroll;
 }
 
-@media only screen and (min-device-width: 481px) {
+@media only screen and (min-width: 478px) {
+    .mobileversion{
+        margin-top:-1176px;
+    }   
+}
+
+@media only screen and (max-width: 478px) {
+    .mobileversion{
+        margin-top:-1250px;
+    }   
+}
+
+@media only screen and (min-device-width: 480px) {
 
 .show.type.attributes {
 	display: -webkit-inline-flex;
@@ -26,9 +38,6 @@ html {
 }
 }
 @media only screen and (max-device-width: 480px) {
-    .mobileversion{
-        margin-top: -200px;
-    }
     
     .minus18 {
         margin-top: -6px;
