@@ -26,6 +26,9 @@ html {
 }
 }
 @media only screen and (max-device-width: 480px) {
+    .mobileversion{
+        margin-top: -30px;
+    }
     
     .minus18 {
         margin-top: -6px;
