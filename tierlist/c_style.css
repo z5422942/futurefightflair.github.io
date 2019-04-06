@@ -28,13 +28,13 @@ html {
 	-webkit-justify-content: center;
 	justify-content: center;
 	width: 100px;
-	height: 100px;
+	height: 128px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin: -48px -27px !important;
+	margin: -79px -27px !important;
 	position: relative;
 	top: 47px;
-	border: 1px solid #363a41;
+	border: none;
 }
 }
 @media only screen and (max-device-width: 480px) {
