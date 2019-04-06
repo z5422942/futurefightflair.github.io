@@ -61,11 +61,11 @@ html {
 	-webkit-justify-content: center;
 	justify-content: center;
 	width: 100px;
-	height: 100px;
+	height: 128px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin-top: -48px!important;
-	margin-bottom: -47px!important;
+	margin-top: -79px!important;
+	margin-bottom: -78px!important;
 	margin-left: -27px!important;
 	margin-right: -27px!important;
 	position: relative;
