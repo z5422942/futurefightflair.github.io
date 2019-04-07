@@ -191,7 +191,7 @@ flair.names = {
 "punisher tierlist punisher" : "Punisher [Marvel Legacy] #Combat# #Destruction#",
 "quasar tierlist quasar" : "Quasar [] #Universal# ",
 "quicksilver tierlist quicksilver" : "Quicksilver [Marvel Legacy] #Speed# #Energy#",
-"redhulk tierlist redhulk" : "Red Hulk [Marvel Now] #Combat# ",
+"redhulk tierlist redhulk" : "Red Hulk [Marvel Now] #Combat# #Leader# ",
 "redskull tierlist redskull" : "Red Skull [] #Blast# #Leader# ",
 "rhino tierlist rhino" : "Rhino [] #Combat# #Leader# ",
 "robbiereyes tierlist robbiereyes" : "Robbie Reyes [] #Universal# #Leader# ",
