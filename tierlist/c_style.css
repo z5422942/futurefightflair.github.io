@@ -514,6 +514,6 @@ button:hover, input[type=submit]:hover {
 	padding: 0 4px;
 }
 .column img {
-	margin-top: 8px;
+	margin-top: 0px;
 	vertical-align: middle;
 }

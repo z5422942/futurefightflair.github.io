@@ -159,7 +159,7 @@ flair.selectChoice = function (hero_id, key) {
     flair.current_choice = key;
 
 
-    flair.by_id[hero_id].hero_attribute = flair.by_id[hero_id].hero_name.replace(/ *\#[^)]*\# */g, "");
+    flair.by_id[hero_id].hero_attribute = flair.by_id[hero_id].hero_name.replace(/.*?(\#[^)]*\#).*?/g, "$1").replace(/#Combat#/g, "").replace(/#Blast#/g, "").replace(/#Speed#/g, "").replace(/#Universal#/g, "").replace(/#None#/g, "").replace(/#Buff#/g, "<img src='icons/buff.png' style='height:20px;' title='Buff'></img>").replace(/#Leader#/g, "<img src='icons/leadership.png' style='height:20px;' title='Leadership'></img>").replace(/#Support#/g, "<img src='icons/support.png' style='height:20px;' title='Team Support'></img>").replace(/#Energy#/g, "<img src='icons/ctp_energy.png' style='height:20px;' title='CTP of Energy'></img>").replace(/#Transcendence#/g, "<img src='icons/ctp_transcendence.png' style='height:20px;' title='CTP of Transcendence'></img>").replace(/#Regeneration#/g, "<img src='icons/ctp_regeneration.png' style='height:20px;' title='CTP of Regeneration'></img>").replace(/#Refinement#/g, "<img src='icons/ctp_refinement.png' style='height:20px;' title='CTP of Refinement'></img>").replace(/#Rage#/g, "<img src='icons/ctp_rage.png' style='height:20px;' title='CTP of Rage'></img>").replace(/#Patience#/g, "<img src='icons/ctp_patience.png' style='height:20px;' title='CTP of Patience'></img>").replace(/#Destruction#/g, "<img src='icons/ctp_destruction.png' style='height:20px;' title='CTP of Destruction'></img>").replace(/#Authority#/g, "<img src='icons/ctp_authority.png' style='height:20px;' title='CTP of Authority'></img>").replace(/#Veteran#/g, "<img src='icons/ctp_veteran.png' style='height:20px;' title='CTP of Veteran'></img>");
     flair.by_id[hero_id].hero_name1 = flair.by_id[hero_id].hero_name.replace(/ *\[[^]*\ */g, "");
     flair.by_id[hero_id].uni_name1 = flair.by_id[hero_id].hero_name.replace(/.*?(\[[^]*\]).*?/g, "$1").replace(/\[/g, '').replace(/]/g, '').replace(/ *\#[^]*\ */g, "<br>");
 
@@ -168,6 +168,8 @@ flair.selectChoice = function (hero_id, key) {
 
     document.getElementById('flair-selection-name').innerHTML = flair.by_id[hero_id].hero_name1;
     document.getElementById('flair-selection-uniname').innerHTML = flair.by_id[hero_id].uni_name1;
+    document.getElementById('flair-selection-attribute').innerHTML = flair.by_id[hero_id].hero_attribute;
+
 
 }
 
