@@ -38,6 +38,12 @@ html {
 }
 }
 @media only screen and (max-device-width: 480px) {
+    .flair-selection-attribute {
+        top:-2px;
+    }
+    .flair-selection-uniname {
+        top:-2px;
+    }
         .mobileversion{
         margin-top:-1250px;
     }   
