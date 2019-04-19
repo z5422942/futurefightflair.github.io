@@ -54,7 +54,6 @@ flair.names = {
 
 
 
-
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Agent1300 character sharon" : "Agent 13 [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agent#",
@@ -164,10 +163,10 @@ flair.names = {
 "EmmaFrost00 character emma" : "Emma Frost [Modern] #Super Hero# #Hero# #Blast# #Female# #Mutant# #Durability# #Mind Resist# #Potential#",
 "EmmaFrost01 uniform emma1" : "Emma Frost [Marvel NOW!] #Super Hero# #Hero# #Blast# #Female# #Mutant# #Durability# #Mind Resist# #Potential#",
 "Enchantress00 character enchantress" : "Enchantress [Modern] #Super Villain# #Villain# #Blast# #Female# #Alien# #Asgard# #Mind# #Magic#",
-"Falcon00 character falcon" : "Falcon [Captain America: The Winter Soldier] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Leadership# #Fast Movement#",
-"Falcon01 uniform falcon1" : "Falcon [All-New Captain America] #Super Hero# #Hero# #Speed# #Male# #Human# #Leadership# #Fast Movement#",
-"Falcon02 uniform falcon2" : "Falcon [Captain America: Civil War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Leadership# #Fast Movement#",
-"Falcon03 uniform falcon3" : "Falcon [Marvel Legacy] #Super Hero# #Hero# #Speed# #Male# #Human# #Leadership# #Fast Movement#",
+"Falcon00 character falcon" : "Falcon [Captain America: The Winter Soldier] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Avengers# #Leadership# #Fast Movement#",
+"Falcon01 uniform falcon1" : "Falcon [All-New Captain America] #Super Hero# #Hero# #Speed# #Male# #Human# #Avengers# #Leadership# #Fast Movement#",
+"Falcon02 uniform falcon2" : "Falcon [Captain America: Civil War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Avengers# #Leadership# #Fast Movement#",
+"Falcon03 uniform falcon3" : "Falcon [Marvel Legacy] #Super Hero# #Hero# #Speed# #Male# #Human# #Avengers# #Leadership# #Fast Movement#",
 "Fandral00 character fandral" : "Fandral [Modern] #Super Hero# #Hero# #Speed# #Male# #Alien# #Asgard# #Agility#",
 "Fantomex00 character fantomex" : "Fantomex [X-Force] #Super Hero# #Hero# #Speed# #Male# #Mutant# #X-Force# #Weapons Master# #Agility# #Potential#",
 "Fenris00 character fenris" : "Fenris Wolf [Fenris Wolf] #Super Villain# #Villain# #Genderless# #Alien# #Asgard# #NPC#",
@@ -193,7 +192,7 @@ flair.names = {
 "Groot00 character groot" : "Groot [Guardians of the Galaxy] #Super Hero# #Hero# #Combat# #Male# #Alien# #MCU# #Guardians# #Healing# #Support# #Potential#",
 "Groot01 uniform groot1" : "Groot [Secret Wars: Thors] #Super Hero# #Hero# #Universal# #Male# #Alien# #Guardians# #Healing# #Support# #Potential#",
 "Groot02 uniform groot2" : "Groot [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Healing# #Support# #Potential#",
-"Groot03 uniform groot3" : "Groot [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Combat# #Male# #Alien# #MCU# #Avengers# #Guardians# #Healing# #Support# #Potential#",
+"Groot03 uniform groot3" : "Groot [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Combat# #Male# #Alien# #MCU# #Avengers# #-# #Guardians# #Healing# #Support# #Potential#",
 "Gwenpool00 character gwenpool" : "Gwenpool [All-New, All-Different] #Super Hero# #Hero# #Speed# #Female# #Human# #Agility#",
 "Gwenpool01 uniform gwenpool1" : "Gwenpool [Gwen Poole] #Super Hero# #Hero# #Speed# #Female# #Human# #Agility#",
 "Hawkeye00 character hawkeye" : "Hawkeye [The Avengers] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Avengers# #Agent# #Weapons Master#",
@@ -320,7 +319,7 @@ flair.names = {
 "RocketRaccoon00 character rocket" : "Rocket Raccoon [Guardians of the Galaxy] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Potential#",
 "RocketRaccoon01 uniform rocket1" : "Rocket Raccoon [All-New, All-Different] #Super Hero# #Hero# #Blast# #Male# #Alien# #Guardians# #Weapons Master# #Potential#",
 "RocketRaccoon02 uniform rocket2" : "Rocket Raccoon [Guardians of the Galaxy 2] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Potential#",
-"RocketRaccoon03 uniform rocket3" : "Rocket Raccoon [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Avengers# #Guardians# #Weapons Master# #Potential#",
+"RocketRaccoon03 uniform rocket3" : "Rocket Raccoon [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Avengers# #-# #Guardians# #Weapons Master# #Potential#",
 "Rogue00 character rogue" : "Rogue [Classic] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Men# #Fast Movement# #Healing#",
 "Rogue01 uniform rogue1" : "Rogue [Age of Apocalypse] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Men# #Fast Movement# #Healing#",
 "Ronan00 character ronan" : "Ronan [Guardians of the Galaxy] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Guardians# #Command# #Mind Resist# #Support#",
@@ -356,7 +355,7 @@ flair.names = {
 "SpiderMan02 uniform spidey2" : "Spider-Man [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
 "SpiderMan03 uniform spidey3" : "Spider-Man [Captain America: Civil War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
 "SpiderMan04 uniform spidey4" : "Spider-Man [Spider-Man: Homecoming Homemade Suit] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
-"SpiderMan05 uniform spidey5" : "Spider-Man [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #Avengers# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
+"SpiderMan05 uniform spidey5" : "Spider-Man [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #-# #Avengers# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
 "SpiderMan209900 character spidey2099" : "Spider-Man 2099 [Modern] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Agility# #Leadership# #Spider-Sense#",
 "SpiderManMilesMorales00 character miles" : "Spider-Man (Miles Morales) [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Leadership# #Agility# #Spider-Sense# #Potential#",
 "SpiderManMilesMorales01 uniform miles1" : "Spider-Man (Miles Morales) [Into The Spider-Verse] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Leadership# #Agility# #Spider-Sense# #Potential#",
@@ -365,7 +364,7 @@ flair.names = {
 "StarLord00 character star" : "Star-Lord [Guardians of the Galaxy] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Command# #Weapons Master# #Potential#",
 "StarLord01 uniform star1" : "Star-Lord [Space Armor] #Super Hero# #Hero# #Blast# #Male# #Alien# #Guardians# #Command# #Weapons Master# #Potential#",
 "StarLord02 uniform star2" : "Star-Lord [Guardians of the Galaxy 2] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Command# #Weapons Master# #Potential#",
-"StarLord03 uniform star3" : "Star-Lord [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Avengers# #Guardians# #Command# #Weapons Master# #Potential#",
+"StarLord03 uniform star3" : "Star-Lord [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Avengers# #-# #Guardians# #Command# #Weapons Master# #Potential#",
 "Storm00 character storm" : "Storm [Modern] #Super Hero# #Hero# #Blast# #Female# #Mutant# #X-Men# #Command# #Shock# #Support#",
 "Stryfe00 character stryfe" : "Stryfe [Modern] #Super Villain# #Villain# #Blast# #Male# #Mutant# #Energy Projection# #Pure Evil# #Potential#",
 "Supergiant00 character supergiant" : "Supergiant [Infinity] #Super Villain# #Villain# #Universal# #Female# #Alien# #Black Order# #Mind Resist# #Mind#",
@@ -375,11 +374,11 @@ flair.names = {
 "Thanos01 uniform thanos1" : "Thanos [Secret Wars: Infinity] #Super Villain# #Villain# #Universal# #Male# #Alien# #Pure Evil# #Durability# #Strong# #Potential#",
 "Thanos02 uniform thanos2" : "Thanos [Marvel's Avengers: Infinity War] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Pure Evil# #Durability# #Strong# #Potential#",
 "Thing00 character thing" : "Thing [Modern] #Super Hero# #Hero# #Combat# #Male# #Human# #Fantastic Four# #Durability# #Strong# #Support# #Potential#",
-"Thor00 character thor" : "Thor [The Avengers] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
-"Thor01 uniform thor1" : "Thor [Avengers: Age of Ultron] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
+"Thor00 character thor" : "Thor [The Avengers] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #-# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
+"Thor01 uniform thor1" : "Thor [Avengers: Age of Ultron] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #-# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
 "Thor02 uniform thor2" : "Thor [Unworthy] #Super Hero# #Hero# #Universal# #Male# #Alien# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
-"Thor03 uniform thor3" : "Thor [Marvel's Thor: Ragnarok] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
-"Thor04 uniform thor4" : "Thor [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
+"Thor03 uniform thor3" : "Thor [Marvel's Thor: Ragnarok] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #-# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
+"Thor04 uniform thor4" : "Thor [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #-# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
 "ThorJaneFoster00 character jane" : "Thor (Jane Foster) [All-New, All-Different] #Super Hero# #Hero# #Universal# #Female# #Alien# #Asgard# #Fast Movement# #Shock#",
 "Titania00 character titania" : "Titania [Modern] #Super Villain# #Villain# #Combat# #Female# #Human# #Strong#",
 "Ulik00 character ulik" : "Ulik [Modern] #Super Villain# #Villain# #Combat# #Male# #Alien# #Asgard# #Durability# #Strong#",
@@ -432,6 +431,7 @@ flair.names = {
 "Yondu00 character yondu" : "Yondu [Guardians of the Galaxy] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
 "Yondu01 uniform yondu1" : "Yondu [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Alien# #Weapons Master# #Command#",
 "Yondu02 uniform yondu2" : "Yondu [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
+
 
 
 
