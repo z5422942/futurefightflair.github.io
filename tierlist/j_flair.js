@@ -51,6 +51,11 @@ flair.names = {
 	/* [STANDARD] */
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 94861b446d401df222f5771d3dedfb72c1d7cc7b
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -218,8 +223,8 @@ flair.names = {
 "storm tierlist storm" : "Storm [] #Blast# ",
 "stryfe tierlist stryfe" : "Stryfe [] #Blast# #Leader# #Authority#",
 "supergiant tierlist supergiant" : "Supergiant [] #Universal# #Leader# ",
-"thanos-t2 tierlist thanos-t2" : "Thanos [Endgame] #Universal# #Leader# #Authority#",
-"thanos-t3 tierlist thanos-t3" : "Thanos [Endgame] #Universal# #Leader# #Authority#",
+"thanos-t2 tierlist thanos-t2" : "Thanos [Endgame] #Universal# #Leader# #Regeneration#",
+"thanos-t3 tierlist thanos-t3" : "Thanos [Endgame] #Universal# #Leader# #Regeneration#",
 "thing tierlist thing" : "Thing [] #Combat# #Support# #Refinement#",
 "thor-t2 tierlist thor-t2" : "Thor [Infinity War] #Universal# #Rage#",
 "thor-t3 tierlist thor-t3" : "Thor [Infinity War] #Universal# #Rage#",
@@ -255,9 +260,6 @@ flair.names = {
 "juggernaut tierlist juggernaut" : "Juggernaut [] #Combat# #Rage#",
 "warpath tierlist warpath" : "Warpath [] #Combat# #Rage#",
 "sabretooth tierlist sabretooth" : "Sabretooth [] #Combat# #Rage#",
-
-
-
 
 
 
