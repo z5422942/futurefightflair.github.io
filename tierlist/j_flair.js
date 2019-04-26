@@ -223,7 +223,7 @@ flair.names = {
 "thanos-t3 tierlist thanos-t3" : "Thanos [Endgame] #Universal# #PVE4##PVP5##Leader# ",
 "thing tierlist thing" : "Thing [] #Combat# #Support# ",
 "thor-t2 tierlist thor-t2" : "Thor [Infinity War] #Universal# ",
-"thor-t3 tierlist thor-t3" : "Thor [Infinity War] #Universal# #PVE4##PVP3#",
+"thor-t3 tierlist thor-t3" : "Thor [Infinity War] #Universal# #PVE4##PVP2#",
 "titania tierlist titania" : "Titania [] #Combat# #Leader# ",
 "ulik tierlist ulik" : "Ulik [] #Combat# ",
 "ultron tierlist ultron" : "Ultron Mark 3 [Age of Ultron] #Universal# ",
