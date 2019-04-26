@@ -50,12 +50,6 @@ flair.by_id = {};
 flair.names = {
 	/* [STANDARD] */
 
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 94861b446d401df222f5771d3dedfb72c1d7cc7b
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
