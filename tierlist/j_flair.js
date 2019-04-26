@@ -52,6 +52,7 @@ flair.names = {
 
 
 
+
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -138,8 +139,8 @@ flair.names = {
 "ironfist tierlist ironfist" : "Iron Fist [Iron Fist] #Combat# ",
 "ironhammer tierlist ironhammer" : "Iron Hammer [] #Universal# #Leader# #Energy#",
 "ironheart tierlist ironheart" : "Ironheart [] #Blast# #Leader# ",
-"ironman-t2 tierlist ironman-t2" : "Iron Man [Endgame] #Blast# #Synergy##Energy#",
-"ironman-t3 tierlist ironman-t3" : "Iron Man [Endgame] #Blast# #Synergy##Energy#",
+"ironman-t2 tierlist ironman-t2" : "Iron Man [Endgame] #Blast# #Synergy##Rage#",
+"ironman-t3 tierlist ironman-t3" : "Iron Man [Endgame] #Blast# #Synergy##Rage#",
 "janefoster tierlist janefoster" : "Jane Foster [] #Universal# ",
 "jeangrey tierlist jeangrey" : "Jean Grey [] #Blast# #Leader# #Energy#",
 "jessicajones tierlist jessicajones" : "Jessica Jones [] #Combat# ",
@@ -166,8 +167,8 @@ flair.names = {
 "maximus tierlist maximus" : "Maximus [] #Blast# ",
 "medusa tierlist medusa" : "Medusa [Monsters Unleashed] #Universal# #Leader# #Energy#",
 "milesmorales tierlist milesmorales" : "Miles Morales [Into the Spider-Verse] #Speed# #Energy#",
-"misterfantastic-t2 tierlist misterfantastic-t2" : "Mister Fantastic [] #Combat# #Leader# #Energy#",
-"misterfantastic-t3 tierlist misterfantastic-t3" : "Mister Fantastic [] #Combat# #Leader# #Energy#",
+"misterfantastic-t2 tierlist misterfantastic-t2" : "Mister Fantastic [] #Combat# #Leader# #Rage#",
+"misterfantastic-t3 tierlist misterfantastic-t3" : "Mister Fantastic [] #Combat# #Leader# #Rage#",
 "mistyknight tierlist mistyknight" : "Misty Knight [] #Speed# ",
 "mockingbird tierlist mockingbird" : "Mockingbird [All-New, All-Different] #Speed# ",
 "modok tierlist modok" : "M.O.D.O.K [CAPDOC] #Blast# ",
@@ -243,8 +244,8 @@ flair.names = {
 "whitetiger tierlist whitetiger" : "White Tiger [] #Combat# ",
 "wiccan tierlist wiccan" : "Wiccan [] #Blast# ",
 "wintersoldier tierlist wintersoldier" : "Winter Soldier [Infinity War] #Speed# #Energy#",
-"Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [X-Force] #Combat# #Rage#",
-"Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [X-Force] #Combat# #Rage#",
+"Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [X-Force] #Combat# #Regeneration#",
+"Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [X-Force] #Combat# #Regeneration#",
 "wong tierlist wong" : "Wong [Doctor Strange] #Speed# ",
 "x23 tierlist x23" : "X-23 [X-Force] #Speed# #Authority#",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Marvel Now] #Blast# ",
@@ -256,9 +257,6 @@ flair.names = {
 "juggernaut tierlist juggernaut" : "Juggernaut [] #Combat# #Rage#",
 "warpath tierlist warpath" : "Warpath [] #Combat# #Rage#",
 "sabretooth tierlist sabretooth" : "Sabretooth [] #Combat# #Rage#",
-
-
-
 
 
 
