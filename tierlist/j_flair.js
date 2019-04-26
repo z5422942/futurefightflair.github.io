@@ -52,7 +52,6 @@ flair.names = {
 
 
 
-
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
