@@ -72,8 +72,8 @@ flair.names = {
 "blackbolt tierlist blackbolt" : "Black Bolt [Attilan Rising] #Universal# ",
 "blackcat tierlist blackcat" : "Black Cat [All-New, All-Different] #Speed# ",
 "blackdwarf tierlist blackdwarf" : "Cull Obsidian [Infinity War] #Universal# ",
-"blackpanther-t2 tierlist blackpanther-t2" : "Black Panther [Black Panther] #Combat# #PVE3##PVP3#",
-"blackpanther-t3 tierlist blackpanther-t3" : "Black Panther [Black Panther] #Combat# #PVE4##PVP3#",
+"blackpanther-t2 tierlist blackpanther-t2" : "Black Panther [Black Panther] #Combat# #PVE3##PVP2#",
+"blackpanther-t3 tierlist blackpanther-t3" : "Black Panther [Black Panther] #Combat# #PVE3##PVP3#",
 "blackwidow tierlist blackwidow" : "Black Widow [Endgame] #Speed# #Synergy#",
 "blade tierlist blade" : "Blade [70's Classic] #Combat# ",
 "bluemarvel tierlist bluemarvel" : "Blue Marvel [] #Universal# #PVE2##PVP3##Leader# ",
@@ -128,7 +128,7 @@ flair.names = {
 "hellcat tierlist hellcat" : "Hellcat [] #Speed# ",
 "hellstorm tierlist hellstorm" : "Hellstorm [] #Universal# ",
 "hogun tierlist hogun" : "Hogun [] #Combat# ",
-"hulk tierlist hulk" : "Hulk [Endgame] #Combat# #PVE3##PVP2##Synergy#",
+"hulk tierlist hulk" : "Hulk [Endgame] #Combat# #PVE2##PVP1##Synergy#",
 "hulkbuster tierlist hulkbuster" : "Hulkbuster 2.0 [Infinity War] #Combat# ",
 "hulkling tierlist hulkling" : "Hulkling [] #Combat# ",
 "humantorch tierlist humantorch" : "Human Torch [] #Blast# ",
@@ -157,7 +157,7 @@ flair.names = {
 "loki tierlist loki" : "Loki [Ragnarok] #Universal# ",
 "lukecage tierlist lukecage" : "Luke Cage [Luke Cage] #Combat# ",
 "lunasnow-t2 tierlist lunasnow-t2" : "Luna Snow [Andromeda Suit] #Speed# #PVE4##PVP3#",
-"lunasnow-t3 tierlist lunasnow-t3" : "Luna Snow [Andromeda Suit] #Speed# #PVP5##PVP3#",
+"lunasnow-t3 tierlist lunasnow-t3" : "Luna Snow [Andromeda Suit] #Speed# #PVE5##PVP3#",
 "magik tierlist magik" : "Magik [] #Blast# ",
 "magneto-t2 tierlist magneto-t2" : "Magneto [Marvel Now] #Blast# #Leader# ",
 "magneto-t3 tierlist magneto-t3" : "Magneto [Marvel Now] #Blast# #PVE3##PVP3##Leader# ",
@@ -253,9 +253,10 @@ flair.names = {
 "minnerva-t2 tierlist minnerva-t2" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP3#",
 "minnerva-t3 tierlist minnerva-t3" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP3#",
 "korath tierlist korath" : "Korath [] #Speed# ",
-"juggernaut tierlist juggernaut" : "Juggernaut [] #Combat# #PVE4##PVP2#",
+"juggernaut tierlist juggernaut" : "Juggernaut [] #Combat# #PVE3##PVP2#",
 "warpath tierlist warpath" : "Warpath [] #Combat# ",
 "sabretooth tierlist sabretooth" : "Sabretooth [] #Combat# #PVE4##PVP3#",
+
 
 
 
