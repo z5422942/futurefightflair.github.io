@@ -511,6 +511,8 @@ button:hover, input[type=submit]:hover {
 }
 /* Create two equal columns that sits next to each other */
 .column {
+    -webkit-flex: 10%; /* Safari 6.1+ */
+    -ms-flex: 10%; /* IE 10 */ 
 	flex: 10%;
 	padding: 0 4px;
 }
