@@ -22,10 +22,13 @@ html {
 
 .show.type.attributes {
 	display: -webkit-inline-flex;
+    display: -ms-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
+    -ms-align-items: center;
 	align-items: center;
 	-webkit-justify-content: center;
+    -ms-justify-content: center;
 	justify-content: center;
 	width: 100px;
 	height: 128px;
@@ -56,10 +59,13 @@ html {
     
 .show.type.attributes {
 	display: -webkit-inline-flex;
+	display: -ms-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
+	-ms-align-items: center;
 	align-items: center;
 	-webkit-justify-content: center;
+	-ms-justify-content: center;
 	justify-content: center;
 	width: 100px;
 	height: 128px;
@@ -179,20 +185,26 @@ select, input[type=text], input[type=number] {
 }
 .center {
 	display: -webkit-flex;
+	display: -ms-flex;
 	display: flex;
 	-webkit-align-items: center;
+	-ms-align-items: center;
 	align-items: center;
 	-webkit-justify-content: center;
+	-ms-justify-content: center;
 	justify-content: center;
 }
 .left {
 	display: -webkit-block;
+	display: -ms-block;
 	display: block;
 }
 label {
 	display: -webkit-inline-flex;
+	display: -ms-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
+	-ms-align-items: center;
 	align-items: center;
 }
 label input[type=checkbox] + span {
@@ -200,6 +212,7 @@ label input[type=checkbox] + span {
 }
 #subreddit-selection {
 	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 }
 #subreddit-selection .sr-sep {
@@ -274,10 +287,13 @@ button:hover, input[type=submit]:hover {
 
 .flair {
 	display: -webkit-inline-flex;
+	display: -ms-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
+	-ms-align-items: center;
 	align-items: center;
 	-webkit-justify-content: center;
+	-ms-justify-content: center;
 	justify-content: center;
 	width: 100px;
 	height: 100px;
@@ -289,10 +305,13 @@ button:hover, input[type=submit]:hover {
 }
 .flair1 {
 	display: -webkit-inline-flex;
+	display: -ms-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
+    -ms-align-items: center;
 	align-items: center;
 	-webkit-justify-content: center;
+	-ms-justify-content: center;
 	justify-content: center;
 	width: 100px;
 	height: 100px;
