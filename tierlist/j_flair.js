@@ -50,8 +50,7 @@ flair.by_id = {};
 flair.names = {
 	/* [STANDARD] */
 
-    
-
+  
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -74,7 +73,7 @@ flair.names = {
 "blackdwarf tierlist blackdwarf" : "Cull Obsidian [Infinity War] #Universal# ",
 "blackpanther-t2 tierlist blackpanther-t2" : "Black Panther [Black Panther] #Combat# #PVE3##PVP2#",
 "blackpanther-t3 tierlist blackpanther-t3" : "Black Panther [Black Panther] #Combat# #PVE3##PVP3#",
-"blackwidow tierlist blackwidow" : "Black Widow [Endgame] #Speed# #Synergy#",
+"blackwidow tierlist blackwidow" : "Black Widow [Endgame] #Speed# #PVE3##PVP2##Synergy#",
 "blade tierlist blade" : "Blade [70's Classic] #Combat# ",
 "bluemarvel tierlist bluemarvel" : "Blue Marvel [] #Universal# #PVE2##PVP3##Leader# ",
 "bullseye tierlist bullseye" : "Bullseye [Secret Wars: 1872] #Combat# #Leader# ",
@@ -246,7 +245,7 @@ flair.names = {
 "Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [X-Force] #Combat# #PVE4##PVP4#",
 "Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [X-Force] #Combat# #PVE4##PVP5#",
 "wong tierlist wong" : "Wong [Doctor Strange] #Speed# ",
-"x23 tierlist x23" : "X-23 [X-Force] #Speed# #PVE4##PVP2#",
+"x23 tierlist x23" : "X-23 [X-Force] #Speed# #PVE3##PVP2#",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Marvel Now] #Blast# ",
 "yondu tierlist yondu" : "Yondu [Guardians of the Galaxy 2] #Speed# ",
 "nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE4##PVP2##Support# #Leader# ",
