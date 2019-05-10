@@ -34,9 +34,9 @@ html {
 	height: 128px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin: -79px -27px !important;
+	margin: -4.94rem -1.7rem !important;
 	position: relative;
-	top: 47px;
+	top: 2.95rem;
 	border: none;
 }
 }
@@ -71,12 +71,9 @@ html {
 	height: 128px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin-top: -79px!important;
-	margin-bottom: -79px!important;
-	margin-left: -27px!important;
-	margin-right: -27px!important;
+	margin: -4.94rem -1.7rem !important;
 	position: relative;
-	top: 48px;
+	top: 3rem;
 	border: none;
 }
 .ismobile {
