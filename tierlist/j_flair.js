@@ -51,6 +51,7 @@ flair.names = {
 	/* [STANDARD] */
 
   
+
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -80,8 +81,8 @@ flair.names = {
 "cable tierlist cable" : "Cable [X-Force] #Blast# #PVE5##PVP2##Leader# ",
 "captainamerica-t2 tierlist captainamerica-t2" : "Captain America [Endgame] #Combat# #PVE4##PVP3##Synergy#",
 "captainamerica-t3 tierlist captainamerica-t3" : "Captain America [Endgame] #Combat# #PVE4##PVP3##Synergy#",
-"captainmarvel-t2 tierlist captainmarvel-t2" : "Captain Marvel [Captain Marvel] #Universal# #PVE3##PVP4#",
-"captainmarvel-t3 tierlist captainmarvel-t3" : "Captain Marvel [Captain Marvel] #Universal# #PVE3##PVP5#",
+"captainmarvel-t2 tierlist captainmarvel-t2" : "Captain Marvel [Endgame] #Universal# #PVE4##PVP4##Synergy#",
+"captainmarvel-t3 tierlist captainmarvel-t3" : "Captain Marvel [Endgame] #Universal# #PVE5##PVP5##Synergy#",
 "carnage tierlist carnage" : "Carnage [] #Combat# ",
 "clea tierlist clea" : "Clea [] #Universal# ",
 "colossus tierlist colossus" : "Colossus [X-Force] #Combat# #Support# ",
@@ -218,11 +219,11 @@ flair.names = {
 "storm tierlist storm" : "Storm [] #Blast# ",
 "stryfe tierlist stryfe" : "Stryfe [] #Blast# #PVE3##PVP4##Leader# ",
 "supergiant tierlist supergiant" : "Supergiant [] #Universal# #Leader# ",
-"thanos-t2 tierlist thanos-t2" : "Thanos [Endgame] #Universal# #PVE3##PVP4##Leader# ",
-"thanos-t3 tierlist thanos-t3" : "Thanos [Endgame] #Universal# #PVE4##PVP5##Leader# ",
+"thanos-t2 tierlist thanos-t2" : "Thanos [Endgame] #Universal# #PVE4##PVP4##Leader# ",
+"thanos-t3 tierlist thanos-t3" : "Thanos [Endgame] #Universal# #PVE5##PVP5##Leader# ",
 "thing tierlist thing" : "Thing [] #Combat# #Support# ",
-"thor-t2 tierlist thor-t2" : "Thor [Infinity War] #Universal# ",
-"thor-t3 tierlist thor-t3" : "Thor [Infinity War] #Universal# #PVE4##PVP2#",
+"thor-t2 tierlist thor-t2" : "Thor [Endgame] #Universal# #Synergy#",
+"thor-t3 tierlist thor-t3" : "Thor [Endgame] #Universal# #PVE4##PVP2##Synergy#",
 "titania tierlist titania" : "Titania [] #Combat# #Leader# ",
 "ulik tierlist ulik" : "Ulik [] #Combat# ",
 "ultron tierlist ultron" : "Ultron Mark 3 [Age of Ultron] #Universal# ",
