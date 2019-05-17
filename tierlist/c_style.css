@@ -35,9 +35,11 @@ html {
 	height: 128px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin: -4.94rem -1.7rem !important;
-	position: relative;
-	top: 2.95rem;
+    margin-top: -4.94rem !important;
+    margin-bottom: -0rem !important;
+    margin-right: -1.7rem !important;
+    margin-left: -1.7rem !important;
+    top:2.95rem;
 	border: none;
 }
 }
@@ -72,14 +74,15 @@ html {
 	height: 128px;
 	transform: scale(0.36);
 	cursor: pointer;
-	margin: -4.94rem -1.7rem !important;
-	position: relative;
-	top: 3rem;
+    margin-top: -4.94rem !important;
+    margin-bottom: -0rem !important;
+    margin-right: -1.7rem !important;
+    margin-left: -1.7rem !important;
+    top:2.95rem;
 	border: none;
 }
 .ismobile {
-	top: -5px;
-	position: relative;
+
 }
 .ismobilebanner {
 	top: -1px;
@@ -524,14 +527,14 @@ button:hover, input[type=submit]:hover {
 }
 .row {
 	display: inline-block;
-	padding: 0 4px;
+	padding: 0 0.1rem;
 }
 /* Create two equal columns that sits next to each other */
 .column {
     -webkit-flex: 10%; /* Safari 6.1+ */
     -ms-flex: 10%; /* IE 10 */ 
 	flex: 10%;
-	padding: 0 4px;
+	padding: 0rem 0.1rem;
 }
 .column img {
 	margin-top: 0px;
