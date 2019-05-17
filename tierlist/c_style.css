@@ -1,4 +1,4 @@
-fr * {
+'fr * {
 	padding: 0;
 	margin: 0;
 }
@@ -82,7 +82,8 @@ html {
 	border: none;
 }
 .ismobile {
-
+    	top: -5px;
+		position: relative;
 }
 .ismobilebanner {
 	top: -1px;
