@@ -169,7 +169,7 @@ flair.names = {
 "milesmorales tierlist milesmorales" : "Miles Morales [Into the Spider-Verse] #Speed# ",
 "misterfantastic-t2 tierlist misterfantastic-t2" : "Mister Fantastic [] #Combat# #Leader# ",
 "misterfantastic-t3 tierlist misterfantastic-t3" : "Mister Fantastic [] #Combat# #PVE4##PVP3##Leader# ",
-"mistyknight tierlist mistyknight" : "Misty Knight [] #Speed# ",
+"mistyknight tierlist mistyknight" : "Misty Knight [] #Speed# #Leader# ",
 "mockingbird tierlist mockingbird" : "Mockingbird [All-New, All-Different] #Speed# ",
 "modok tierlist modok" : "M.O.D.O.K [CAPDOC] #Blast# ",
 "moongirl tierlist moongirl" : "Moon Girl [Monsters Unleashed] #Blast# #Leader# ",
