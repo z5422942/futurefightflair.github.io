@@ -52,6 +52,7 @@ flair.names = {
 
   
 
+    
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -256,6 +257,7 @@ flair.names = {
 "juggernaut tierlist juggernaut" : "Juggernaut [] #Combat# #PVE3##PVP2#",
 "warpath tierlist warpath" : "Warpath [] #Combat# ",
 "sabretooth tierlist sabretooth" : "Sabretooth [] #Combat# #PVE4##PVP3#",
+"rescue tierlist rescue" : "Rescue [] #Blast# ",
 
 
 
