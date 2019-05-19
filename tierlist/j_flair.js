@@ -52,7 +52,6 @@ flair.names = {
 
   
 
-    
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -65,7 +64,7 @@ flair.names = {
 "angela tierlist angela" : "Angela [All-New, All-Different] #Universal# ",
 "antiman tierlist antiman" : "Anti-Man [] #Universal# #Leader# ",
 "antman-t2 tierlist antman-t2" : "Ant-Man [Endgame] #Speed# #Synergy#",
-"antman-t3 tierlist antman-t3" : "Ant-Man [Endgame] #Speed# #PVE4##PVP3##Synergy#",
+"antman-t3 tierlist antman-t3" : "Ant-Man [Endgame] #Speed# #PVE3##PVP3##Synergy#",
 "apocalypse tierlist apocalypse" : "Apocalypse [] #Combat# ",
 "arachknight tierlist arachknight" : "Arachknight [] #Speed# ",
 "mordo tierlist mordo" : "Baron Mordo [] #Blast# ",
@@ -80,7 +79,7 @@ flair.names = {
 "bluemarvel tierlist bluemarvel" : "Blue Marvel [] #Universal# #PVE2##PVP3##Leader# ",
 "bullseye tierlist bullseye" : "Bullseye [Secret Wars: 1872] #Combat# #Leader# ",
 "cable tierlist cable" : "Cable [X-Force] #Blast# #PVE5##PVP2##Leader# ",
-"captainamerica-t2 tierlist captainamerica-t2" : "Captain America [Endgame] #Combat# #PVE4##PVP3##Synergy#",
+"captainamerica-t2 tierlist captainamerica-t2" : "Captain America [Endgame] #Combat# #PVE5##PVP4##Synergy#",
 "captainamerica-t3 tierlist captainamerica-t3" : "Captain America [Endgame] #Combat# #PVE5##PVP4##Synergy#",
 "captainmarvel-t2 tierlist captainmarvel-t2" : "Captain Marvel [Endgame] #Universal# #PVE4##PVP4##Synergy#",
 "captainmarvel-t3 tierlist captainmarvel-t3" : "Captain Marvel [Endgame] #Universal# #PVE5##PVP5##Synergy#",
@@ -123,7 +122,7 @@ flair.names = {
 "greengoblin tierlist greengoblin" : "Green Goblin [] #Speed# ",
 "groot tierlist groot" : "Groot [Infinity War] #Combat# #Support# ",
 "gwenpool tierlist gwenpool" : "Gwenpool [Gwen Poole] #Speed# ",
-"hawkeye tierlist hawkeye" : "Ronin [Endgame] #Speed# #PVE4##PVP3#",
+"hawkeye tierlist hawkeye" : "Ronin [Endgame] #Speed# #PVE3##PVP3#",
 "heimdall tierlist heimdall" : "Heimdall [] #Universal# ",
 "hela tierlist hela" : "Hela [Ragnarok] #Universal# #Leader# ",
 "hellcat tierlist hellcat" : "Hellcat [] #Speed# ",
@@ -213,7 +212,7 @@ flair.names = {
 "songbird tierlist songbird" : "Songbird [] #Blast# ",
 "spidergwen tierlist spidergwen" : "Spider Gwen [Gwendolyne Stacy] #Speed# ",
 "spiderman-t2 tierlist spiderman-t2" : "Spider-Man [Infinity War] #Speed# ",
-"spiderman-t3 tierlist spiderman-t3" : "Spider-Man [Infinity War] #Speed# #PVE3##PVP4#",
+"spiderman-t3 tierlist spiderman-t3" : "Spider-Man [Infinity War] #Speed# #PVE3##PVP3#",
 "spiderman2099 tierlist spiderman2099" : "Spider-Man 2099 [] #Speed# #Leader# ",
 "squirrelgirl tierlist squirrelgirl" : "Squirrel Girl [Marvel Now] #Speed# ",
 "starlord tierlist starlord" : "Star Lord [Infinity War] #Blast# #Leader# ",
@@ -250,7 +249,7 @@ flair.names = {
 "x23 tierlist x23" : "X-23 [X-Force] #Speed# #PVE3##PVP2#",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Marvel Now] #Blast# ",
 "yondu tierlist yondu" : "Yondu [Guardians of the Galaxy 2] #Speed# ",
-"nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE4##PVP2##Support# #Leader# ",
+"nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE3##PVP2##Support# #Leader# ",
 "minnerva-t2 tierlist minnerva-t2" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP3#",
 "minnerva-t3 tierlist minnerva-t3" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP3#",
 "korath tierlist korath" : "Korath [] #Speed# ",
