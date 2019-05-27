@@ -249,7 +249,7 @@ flair.names = {
 "x23 tierlist x23" : "X-23 [X-Force] #Speed# #PVE1##PVP2#",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Marvel Now] #Blast# ",
 "yondu tierlist yondu" : "Yondu [Guardians of the Galaxy 2] #Speed# ",
-"nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE2##PVP1##Support# #Leader# ",
+"nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE4##PVP1##Support# #Leader# ",
 "minnerva-t2 tierlist minnerva-t2" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP1#",
 "minnerva-t3 tierlist minnerva-t3" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP1#",
 "korath tierlist korath" : "Korath [] #Speed# ",
