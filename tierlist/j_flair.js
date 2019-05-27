@@ -78,7 +78,7 @@ flair.names = {
 "blade tierlist blade" : "Blade [70's Classic] #Combat# ",
 "bluemarvel tierlist bluemarvel" : "Blue Marvel [] #Universal# #PVE1##PVP2##Leader# ",
 "bullseye tierlist bullseye" : "Bullseye [Secret Wars: 1872] #Combat# #Leader# ",
-"cable tierlist cable" : "Cable [X-Force] #Blast# #PVE4##PVP3##Leader# ",
+"cable tierlist cable" : "Cable [X-Force] #Blast# #PVE4##PVP2##Leader# ",
 "captainamerica-t2 tierlist captainamerica-t2" : "Captain America [Endgame] #Combat# #PVE5##PVP4##Synergy#",
 "captainamerica-t3 tierlist captainamerica-t3" : "Captain America [Endgame] #Combat# #PVE5##PVP4##Synergy#",
 "captainmarvel-t2 tierlist captainmarvel-t2" : "Captain Marvel [Endgame] #Universal# #PVE4##PVP4##Synergy#",
