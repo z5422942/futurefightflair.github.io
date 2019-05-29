@@ -389,7 +389,7 @@ flair.names = {
 "StarLord02 uniform star2" : "Star-Lord [Guardians of the Galaxy 2] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Command# #Weapons Master# #Potential#",
 "StarLord03 uniform star3" : "Star-Lord [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Avengers# #-# #Guardians# #Command# #Weapons Master# #Potential#",
 "Storm00 character storm" : "Storm [Modern] #Super Hero# #Hero# #Blast# #Female# #Mutant# #X-Men# #Command# #Shock# #Support# #Potential# #New#",
-"Storm01 uniform storm1" : "Storm [Modern] #Super Hero# #Hero# #Blast# #Female# #Mutant# #X-Men# #Command# #Shock# #Support# #Potential# #New#",
+"Storm01 uniform storm1" : "Storm [X-Men Red] #Super Hero# #Hero# #Blast# #Female# #Mutant# #X-Men# #Command# #Shock# #Support# #Potential# #New#",
 "Stryfe00 character stryfe" : "Stryfe [Modern] #Super Villain# #Villain# #Blast# #Male# #Mutant# #Energy Projection# #Pure Evil# #Potential#",
 "Supergiant00 character supergiant" : "Supergiant [Infinity] #Super Villain# #Villain# #Universal# #Female# #Alien# #Black Order# #Mind Resist# #Mind#",
 "Surtur00 character surtur" : "Surtur [Surtur] #Super Villain# #Villain# #Male# #Alien# #Asgard# #NPC#",
