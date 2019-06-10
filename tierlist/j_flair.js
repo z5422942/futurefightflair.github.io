@@ -51,7 +51,6 @@ flair.names = {
 	/* [STANDARD] */
 
   
-
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Excelsior] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -79,7 +78,7 @@ flair.names = {
 "bluemarvel tierlist bluemarvel" : "Blue Marvel [] #Universal# #PVE1##PVP2##Leader# ",
 "bullseye tierlist bullseye" : "Bullseye [Secret Wars: 1872] #Combat# #Leader# ",
 "cable tierlist cable" : "Cable [X-Force] #Blast# #PVE4##PVP2##Leader# ",
-"captainamerica-t2 tierlist captainamerica-t2" : "Captain America [Endgame] #Combat# #PVE5##PVP4##Synergy#",
+"captainamerica-t2 tierlist captainamerica-t2" : "Captain America [Endgame] #Combat# #PVE1##PVP1##Synergy#",
 "captainamerica-t3 tierlist captainamerica-t3" : "Captain America [Endgame] #Combat# #PVE5##PVP4##Synergy#",
 "captainmarvel-t2 tierlist captainmarvel-t2" : "Captain Marvel [Endgame] #Universal# #PVE4##PVP4##Synergy#",
 "captainmarvel-t3 tierlist captainmarvel-t3" : "Captain Marvel [Endgame] #Universal# #PVE5##PVP5##Synergy#",
@@ -138,10 +137,11 @@ flair.names = {
 "ironfist tierlist ironfist" : "Iron Fist [Iron Fist] #Combat# ",
 "ironhammer tierlist ironhammer" : "Iron Hammer [] #Universal# #Leader# ",
 "ironheart tierlist ironheart" : "Ironheart [] #Blast# #Leader# ",
-"ironman-t2 tierlist ironman-t2" : "Iron Man [Endgame] #Blast# #Synergy#",
+"ironman-t2 tierlist ironman-t2" : "Iron Man [Endgame] #Blast# #PVE1##PVP1##Synergy#",
 "ironman-t3 tierlist ironman-t3" : "Iron Man [Endgame] #Blast# #PVE4##PVP1##Synergy#",
 "janefoster tierlist janefoster" : "Jane Foster [] #Universal# ",
-"jeangrey tierlist jeangrey" : "Jean Grey [] #Blast# #PVE3##PVP3##Leader# ",
+"jeangrey-t2 tierlist jeangrey-t2" : "Jean Grey [] #Blast# #PVE3##PVP3##Leader# ",
+"jeangrey-t3 tierlist jeangrey-t3" : "Jean Grey [X-Men Red] #Blast# #PVE5##PVP5##Leader# ",
 "jessicajones tierlist jessicajones" : "Jessica Jones [] #Combat# ",
 "kaecilius tierlist kaecilius" : "Kaecilius [] #Blast# ",
 "msmarvel tierlist msmarvel" : "Ms. Marvel [Karachi Costume] #Speed# ",
@@ -182,7 +182,7 @@ flair.names = {
 "odin tierlist odin" : "Odin [] #Universal# #Leader# ",
 "philcoulson tierlist philcoulson" : "Phil Coulson [A.O.S Season 3] #Blast# #Support# ",
 "proximamidnight tierlist proximamidnight" : "Proxima Midnight [Infinity War] #Universal# ",
-"psylocke tierlist psylocke" : "Psylocke [] #Blast# #PVE1##PVP2#",
+"psylocke tierlist psylocke" : "Psylocke [] #Blast# #PVE4##PVP1#",
 "punisher tierlist punisher" : "Punisher [Marvel Legacy] #Combat# ",
 "quasar tierlist quasar" : "Quasar [] #Universal# ",
 "quicksilver tierlist quicksilver" : "Quicksilver [Marvel Legacy] #Speed# #PVE4##PVP4#",
@@ -199,7 +199,7 @@ flair.names = {
 "sentinel tierlist sentinel" : "Sentinel [] #Universal# #Leader# ",
 "shangchi tierlist shangchi" : "Shang Chi [] #Combat# ",
 "agent13 tierlist agent13" : "Agent 13 [Civil War] #Speed# ",
-"sharonrogers-t2 tierlist sharonrogers-t2" : "Sharon Rogers [Dark Star Armor] #Blast# #PVE4##PVP2#",
+"sharonrogers-t2 tierlist sharonrogers-t2" : "Sharon Rogers [Dark Star Armor] #Blast# #PVE4##PVP1#",
 "sharonrogers-t3 tierlist sharonrogers-t3" : "Sharon Rogers [Dark Star Armor] #Blast# #PVE5##PVP2#",
 "shehulk tierlist shehulk" : "She Hulk [Fantastic Four] #Combat# #Leader# ",
 "shuri tierlist shuri" : "Shuri [Black Panther] #Speed# #Support# ",
@@ -257,6 +257,9 @@ flair.names = {
 "warpath tierlist warpath" : "Warpath [] #Combat# ",
 "sabretooth tierlist sabretooth" : "Sabretooth [] #Combat# #PVE3##PVP1#",
 "rescue tierlist rescue" : "Rescue [] #Blast# ",
+"jubilee tierlist jubilee" : "Jubilee [] #Blast# ",
+"iceman tierlist iceman" : "Iceman [] #Blast# ",
+"bishop tierlist bishop" : "Bishop [] #Blast# ",
 
 
 
