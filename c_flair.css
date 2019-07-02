@@ -400,6 +400,12 @@ e.flair-angela {
 .flair-spidey5 {
 	background-position: -150px -1080px
 }
+.flair-spidey6 {
+	background-position: -180px -1080px
+}
+.flair-spidey7 {
+	background-position: -210px -1080px
+}
 .flair-star {
 	background-position: 0 -1110px
 }
@@ -955,6 +961,9 @@ e.flair-angela {
 .flair-mysterio {
 	background-position: 0 -3900px
 }
+.flair-mysterio1 {
+	background-position: -30px -3900px
+}
 .flair-rhino {
 	background-position: 0 -3930px
 }
@@ -969,6 +978,9 @@ e.flair-angela {
 }
 .flair-spidey2099 {
 	background-position: 0 -4020px
+}
+.flair-spidey20991 {
+	background-position: -30px -4020px
 }
 .flair-absorbingman {
 	background-position: 0 -4050px
@@ -1215,6 +1227,15 @@ e.flair-angela {
 }
 .flair-iceman{
 	background-position: 0 -6420px
+}
+.flair-moltenman{
+	background-position: 0 -6450px
+}
+.flair-hydroman{
+	background-position: 0 -6480px
+}
+.flair-electro{
+	background-position: 0 -6510px
 }
 .comment .flair {left: 67px}
 .link .flair {left: 145px}
@@ -1472,6 +1493,7 @@ e.flair-angela {
 .flair1-moonknight1 {background-position:-11100px -100px}
 .flair1-morgan {background-position:-11200px 0px}
 .flair1-mysterio {background-position:-11300px 0px}
+.flair1-mysterio1 {background-position:-11300px -100px}
 .flair1-nadiavan {background-position:-11400px 0px}
 .flair1-nebula {background-position:-11500px 0px}
 .flair1-nebula1 {background-position:-11500px -100px}
@@ -1548,9 +1570,12 @@ e.flair-angela {
 .flair1-spidey1 {background-position:-14900px -100px}
 .flair1-spidey2 {background-position:-14900px -200px}
 .flair1-spidey2099 {background-position:-15000px 0px}
+.flair1-spidey20991 {background-position:-15000px -100px}
 .flair1-spidey3 {background-position:-14900px -300px}
 .flair1-spidey4 {background-position:-14900px -400px}
 .flair1-spidey5 {background-position:-14900px -500px}
+.flair1-spidey6 {background-position:-14900px -600px}
+.flair1-spidey7 {background-position:-14900px -700px}
 .flair1-squirrel {background-position:-15100px 0px}
 .flair1-squirrel1 {background-position:-15100px -100px}
 .flair1-star {background-position:-15200px 0px}
@@ -1637,4 +1662,8 @@ e.flair-angela {
 .flair1-bishop {background-position:-19000px 0px}
 .flair1-iceman {background-position:-19100px 0px}
 .flair1-jubilee {background-position:-19200px 0px}
+.flair1-moltenman {background-position:-19300px 0px}
+.flair1-hydroman {background-position:-19400px 0px}
+.flair1-electro {background-position:-19500px 0px}
+
 
