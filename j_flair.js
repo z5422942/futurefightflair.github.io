@@ -52,7 +52,6 @@ flair.names = {
 
 
 
-
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Agent1300 character sharon" : "Agent 13 [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agent#",
@@ -196,8 +195,8 @@ flair.names = {
 "GiantMan02 uniform giant2" : "Giant-Man [Ultron Pym] #Super Villain# #Villain# #Universal# #Male# #Human# #Strong# #Potential#",
 "Goliath00 character goliath" : "Goliath [Classic] #Super Hero# #Hero# #Combat# #Male# #Human# #Durability# #Strong#",
 "Gorgon00 character gorgon" : "Gorgon [War of Kings] #Super Hero# #Hero#  #Combat# #Male# #Inhuman# #Strong#",
-"GreenGoblin00 character goblin" : "Green Goblin [Classic] #Super Villain# #Villain# #Speed# #Male# #Human# #Sinister Six# #Fast Movement# #Poison#",
-"GreenGoblin01 uniform goblin1" : "Green Goblin [Ultimate] #Super Villain# #Villain# #Combat# #Male# #Human# #Sinister Six# #Fast Movement# #Flame#",
+"GreenGoblin00 character goblin" : "Green Goblin [Classic] #Super Villain# #Villain# #Speed# #Male# #Human# #Fast Movement# #Poison#",
+"GreenGoblin01 uniform goblin1" : "Green Goblin [Ultimate] #Super Villain# #Villain# #Combat# #Male# #Human# #Fast Movement# #Flame#",
 "Groot00 character groot" : "Groot [Guardians of the Galaxy] #Super Hero# #Hero# #Combat# #Male# #Alien# #MCU# #Guardians# #Healing# #Support# #Potential#",
 "Groot01 uniform groot1" : "Groot [Secret Wars: Thors] #Super Hero# #Hero# #Universal# #Male# #Alien# #Guardians# #Healing# #Support# #Potential#",
 "Groot02 uniform groot2" : "Groot [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Healing# #Support# #Potential#",
@@ -269,7 +268,7 @@ flair.names = {
 "Lash00 character lash" : "Lash [Marvel's Agents of S.H.I.E.L.D.] #Super Villain# #Villain#  #Blast# #Male# #Inhuman# #MCU# #Shield# #Energy Projection#",
 "Lash01 uniform lash1" : "Lash [Modern] #Super Villain# #Villain#  #Blast# #Male# #Inhuman# #Energy Projection#",
 "Lincoln00 character lincoln" : "Lincoln [Marvel's Agents of S.H.I.E.L.D.] #Super Hero# #Hero#  #Blast# #Male# #Inhuman# #MCU# #Shield# #Shock#",
-"Lizard00 character lizard" : "Lizard [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Sinister Six# #Healing# #Potential# #New#",
+"Lizard00 character lizard" : "Lizard [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Healing# #Potential# #New#",
 "Loki00 character loki" : "Loki [The Avengers] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Asgard# #Chill# #Mind#",
 "Loki01 uniform loki1" : "Loki [Lady Loki] #Super Villain# #Villain# #Universal# #Female# #Alien# #Asgard# #Chill# #Mind#",
 "Loki02 uniform loki2" : "Loki [Marvel's Thor: Ragnarok] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Asgard# #Chill# #Mind#",
@@ -339,7 +338,7 @@ flair.names = {
 "RedSkull00 character skull" : "Red Skull [Captain America: The First Avenger] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Command# #Pure Evil# #Potential#",
 "RedSkull01 uniform skull1" : "Red Skull [Secret Wars: Red Skull] #Super Villain# #Villain# #Speed# #Male# #Human# #Command# #Pure Evil# #Potential#",
 "Rescue00 character rescue" : "Rescue [Marvel's Avengers: Endgame] #Super Hero# #Hero# #Blast# #Female# #Human# #MCU# #Avengers# #Leadership# #Machine# #Potential#",
-"Rhino00 character rhino" : "Rhino [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Sinister Six# #Durability# #Strong# #Potential# #New#",
+"Rhino00 character rhino" : "Rhino [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Durability# #Strong# #Potential# #New#",
 "RocketRaccoon00 character rocket" : "Rocket Raccoon [Guardians of the Galaxy] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Potential#",
 "RocketRaccoon01 uniform rocket1" : "Rocket Raccoon [All-New, All-Different] #Super Hero# #Hero# #Blast# #Male# #Alien# #Guardians# #Weapons Master# #Potential#",
 "RocketRaccoon02 uniform rocket2" : "Rocket Raccoon [Guardians of the Galaxy 2] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Potential#",
@@ -466,7 +465,6 @@ flair.names = {
 "Yondu00 character yondu" : "Yondu [Guardians of the Galaxy] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
 "Yondu01 uniform yondu1" : "Yondu [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Alien# #Weapons Master# #Command#",
 "Yondu02 uniform yondu2" : "Yondu [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapons Master# #Command#",
-
 
 
 
