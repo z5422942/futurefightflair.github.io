@@ -7,15 +7,15 @@ html {
     min-height: 100% 
 }
 
-@media only screen and (min-width: 478px) {
+@media only screen and (min-width: 628px) {
     .mobileversion{
         margin-top:-1346px;
     }   
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 628px) {
     .mobileversion{
-        margin-top:-1820px;
+        margin-top:-1410px;
     }   
 }
 
