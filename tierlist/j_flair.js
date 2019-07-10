@@ -266,7 +266,7 @@ flair.names = {
 "bishop tierlist bishop" : "Bishop [] #Blast# ",
 "moltenman tierlist moltenman" : "Molten Man [] #Combat# ",
 "hydroman tierlist hydroman" : "Hydro-Man [] #Blast# ",
-"electro tierlist electro" : "Electro [] #Speed# ",
+"electro tierlist electro" : "Electro [] #Speed# #Leader#",
 
 
 
