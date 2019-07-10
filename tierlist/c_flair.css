@@ -44,9 +44,11 @@
 .flair-deadpool-t3 {background-position: -3700px -128px}
 .flair-deathlok {background-position: -3800px 0px}
 .flair-destroyer {background-position: -3900px 0px}
-.flair-doctordoom {background-position: -4000px 0px}
+.flair-doctordoom-t2 {background-position: -4000px 0px}
+.flair-doctordoom-t3 {background-position: -4000px 0px}
 .flair-doctoroctopus {background-position: -4100px 0px}
-.flair-drstrange {background-position: -4200px 0px}
+.flair-drstrange-t2 {background-position: -4200px 0px}
+.flair-drstrange-t3 {background-position: -4200px -128px}
 .flair-domino {background-position: -4300px 0px}
 .flair-dormammu {background-position: -4400px 0px}
 .flair-drax {background-position: -4500px 0px}
@@ -208,6 +210,10 @@
 .flair-jubilee {background-position: -19000px 0px}
 .flair-iceman {background-position: -19100px 0px}
 .flair-bishop {background-position: -19200px 0px}
+.flair-moltenman {background-position: -19300px 0px}
+.flair-hydroman {background-position: -19400px 0px}
+.flair-electro {background-position: -19500px 0px}
+
 
 
 
