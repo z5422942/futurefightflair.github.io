@@ -9,13 +9,13 @@ html {
 
 @media only screen and (min-width: 628px) {
 .mobileversion {
-    margin-top: -1405px;
+    margin-top: -40px;
 }
 }
 
 @media only screen and (max-width: 628px) {
 .mobileversion {
-    margin-top: -1405px;
+    margin-top: -40px;
 }
 }
 
