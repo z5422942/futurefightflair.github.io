@@ -166,7 +166,6 @@ body {
     font-size: 12px;
 }
 #flair-filter {
-    flex-direction: column;
 }
 #flair-filter label[for=flair-filter-sheet] {
     margin-top: 4px;
