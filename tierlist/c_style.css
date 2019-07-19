@@ -157,7 +157,7 @@ html {
 body {
     font-family: 'Exo', sans-serif;
     font-size: 16px;
-    padding: 0 0px 20px 0px;
+    padding: 0px 0px 20px 0px;
     background:   repeating-linear-gradient(#070C1E, #5561A2, #070C1E) no-repeat;
     background-attachment: fixed;
     height: 100%;
@@ -201,6 +201,7 @@ a {
     width: 350px;
     min-width: 350px;
     position: relative;
+    margin: 0 auto;
     margin-top: 20px;
     box-sizing: border-box;
 }
