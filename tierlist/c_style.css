@@ -209,7 +209,7 @@ a {
     padding: 10px;
     border-radius: 0px;
     border: 2px solid #D8D0EC;
-    background: #0e1320;
+    background: none;
     color: white;
 }
 .wrapper.no-margin {
