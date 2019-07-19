@@ -568,7 +568,7 @@ button:hover, input[type=submit]:hover {
 }
 .row {
     display: inline-block;
-    padding: 0 0.1rem;
+    padding: 0rem 0.1rem;
 }
 /* Create two equal columns that sits next to each other */
 .column {
