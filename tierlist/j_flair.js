@@ -52,6 +52,7 @@ flair.names = {
 
     
     
+
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Forever] #None# ",
 "absorbingman tierlist absorbingman" : "Absorbing Man [] #Combat# ",
@@ -59,7 +60,7 @@ flair.names = {
 "agentvenom tierlist agentvenom" : "Agent Venom [Agent Anti-Venom] #Combat# ",
 "amadeuscho tierlist amadeuscho" : "Amadeus Cho [Monsters Unleashed] #Combat# ",
 "americachavez tierlist americachavez" : "America Chavez [] #Combat# #Leader# ",
-"ancientone tierlist ancientone" : "Ancient One [Doctor Strange] #Blast# #Support# #Leader# ",
+"ancientone tierlist ancientone" : "Ancient One [Doctor Strange] #Blast# #Buff# #Support# #Leader# ",
 "angel tierlist angel" : "Archangel [X-Force] #Speed# #Leader# ",
 "angela tierlist angela" : "Angela [All-New, All-Different] #Universal# ",
 "antiman tierlist antiman" : "Anti-Man [] #Universal# #Leader# ",
@@ -122,7 +123,7 @@ flair.names = {
 "goliath tierlist goliath" : "Goliath [] #Combat# #Leader# ",
 "gorgon tierlist gorgon" : "Gorgon [] #Combat# #Leader# ",
 "greengoblin tierlist greengoblin" : "Green Goblin [] #Speed# ",
-"groot tierlist groot" : "Groot [Infinity War] #Combat# #Support# ",
+"groot tierlist groot" : "Groot [Infinity War] #Combat# #Buff# #Support# ",
 "gwenpool tierlist gwenpool" : "Gwenpool [Gwen Poole] #Speed# ",
 "hawkeye tierlist hawkeye" : "Ronin [Endgame] #Speed# #PVE3##PVP1#",
 "heimdall tierlist heimdall" : "Heimdall [] #Universal# ",
@@ -232,7 +233,7 @@ flair.names = {
 "ultron tierlist ultron" : "Ultron Mark 3 [Age of Ultron] #Universal# ",
 "ulyssesklaue tierlist ulyssesklaue" : "Ulysses Klaue [] #Blast# #Support# ",
 "valkyrie tierlist valkyrie" : "Valkyrie [] #Combat# #Support# ",
-"venom tierlist venom" : "Venom [Anti-Venom] #Combat# #Support# ",
+"venom tierlist venom" : "Venom [Anti-Venom] #Combat# #Buff# #Support# ",
 "victorious tierlist victorious" : "Victorious [] #Universal# #PVE2##PVP1##Leader# ",
 "vision tierlist vision" : "Vision [Age of Ultron] #Universal# ",
 "volstagg tierlist volstagg" : "Volstagg [] #Combat# #Support# ",
@@ -244,7 +245,7 @@ flair.names = {
 "whiplash tierlist whiplash" : "Whiplash [] #Blast# ",
 "whitefox tierlist whitefox" : "White Fox [] #Speed# #Support# ",
 "whitetiger tierlist whitetiger" : "White Tiger [] #Combat# ",
-"wiccan tierlist wiccan" : "Wiccan [] #Blast# #Leader# ",
+"wiccan tierlist wiccan" : "Wiccan [] #Blast# #Buff# #Leader# ",
 "wintersoldier tierlist wintersoldier" : "Winter Soldier [Infinity War] #Speed# #PVE2##PVP3#",
 "Wolverine-t2 tierlist Wolverine-t2" : "Wolverine [X-Force] #Combat# #PVE4##PVP4#",
 "Wolverine-t3 tierlist Wolverine-t3" : "Wolverine [X-Force] #Combat# #PVE4##PVP5#",
@@ -252,7 +253,7 @@ flair.names = {
 "x23 tierlist x23" : "X-23 [X-Force] #Speed# ",
 "yellowjacket tierlist yellowjacket" : "Yellow Jacket [Now] #Blast# ",
 "yondu tierlist yondu" : "Yondu [Guardians of the Galaxy 2] #Speed# ",
-"nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE4##PVP1##Support# #Leader# ",
+"nickfury tierlist nickfury" : "Nick Fury [Captain Marvel] #Speed# #PVE4##PVP1##Buff# #Support# #Leader# ",
 "minnerva-t2 tierlist minnerva-t2" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP1#",
 "minnerva-t3 tierlist minnerva-t3" : "Minn-Erva [Captain Marvel] #Combat# #PVE4##PVP1#",
 "korath tierlist korath" : "Korath [] #Speed# ",
