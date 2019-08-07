@@ -52,6 +52,7 @@ flair.names = {
 
 
 
+
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Agent1300 character sharon" : "Agent 13 [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agent#",
@@ -228,7 +229,7 @@ flair.names = {
 "Hulkbuster02 uniform hb2" : "Hulkbuster 2.0 [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Combat# #Male# #Creature# #MCU# #Avengers# #Machine# #Strong#",
 "Hulkling00 character hulkling" : "Hulkling [New Avengers] #Super Hero# #Hero# #Combat# #Male# #Alien# #Durability# #Strong#",
 "HumanTorch00 character torch" : "Human Torch [Modern] #Super Hero# #Hero# #Blast# #Male# #Human# #Fantastic Four# #Fast Movement# #Flame# #Potential#",
-"HumanTorch01 uniform torch2" : "Human Torch [Future Foundation] #Super Hero# #Hero# #Blast# #Male# #Human# #Fantastic Four# #Fast Movement# #Flame# #Potential# #New#",
+"HumanTorch01 uniform torch1" : "Human Torch [Future Foundation] #Super Hero# #Hero# #Blast# #Male# #Human# #Fantastic Four# #Fast Movement# #Flame# #Potential# #New#",
 "HydroMan00 character hydroman" : "Hydro-Man [Spider-Man: Far From Home] #Super Villain# #Villain# #Blast# #Male# #Other# #MCU# #Pure Evil# #Potential#",
 "Hyperion00 character hyperion" : "Hyperion [All-New, All-Different] #Super Hero# #Hero# #Universal# #Male# #Alien# #Energy Projection# #Leadership# #Potential#",
 "Hyperion01 uniform hyperion1" : "Hyperion [Classic] #Super Hero# #Hero# #Universal# #Male# #Alien# #Energy Projection# #Leadership# #Potential#",
@@ -312,7 +313,7 @@ flair.names = {
 "MsMarvelKamalaKhan01 uniform kamala1" : "Ms. Marvel (Kamala Khan) [Karachi Costume] #Super Hero# #Hero# #Speed# #Female# #Inhuman# #Healing# #Strong#",
 "Mysterio00 character mysterio" : "Mysterio [Classic] #Super Villain# #Villain# #Blast# #Male# #Human# #Sinister Six# #Mind# #Potential#",
 "Mysterio01 uniform mysterio1" : "Mysterio [Spider-Man: Far From Home] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Sinister Six# #Mind# #Potential#",
-"Namor0 character namor" : "Namor [Classic] #Super Hero# #Hero# #Combat# #Male# #Mutant# #Durability# #Strong# #Potential# #Tier3# #New#",
+"Namor00 character namor" : "Namor [Classic] #Super Hero# #Hero# #Combat# #Male# #Mutant# #Durability# #Strong# #Potential# #Tier3# #New#",
 "Nebula00 character nebula" : "Nebula [Guardians of the Galaxy] #Super Villain# #Villain# #Combat# #Female# #Alien# #MCU# #Guardians# #Weapons Master# #Shock# #Potential#",
 "Nebula01 uniform nebula1" : "Nebula [Classic] #Super Villain# #Villain# #Combat# #Female# #Alien# #Weapons Master# #Shock# #Potential#",
 "Nebula02 uniform nebula2" : "Nebula [Marvel's Avengers: Endgame] #Super Hero# #Hero# #Combat# #Female# #Alien# #Avengers# #-# #Guardians# #Weapons Master# #Shock# #Potential#",
@@ -387,7 +388,7 @@ flair.names = {
 "SpiderMan04 uniform spidey4" : "Spider-Man [Spider-Man: Homecoming Homemade Suit] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
 "SpiderMan05 uniform spidey5" : "Spider-Man [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #-# #Avengers# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
 "SpiderMan06 uniform spidey6" : "Spider-Man [Spider-Man: Far From Home] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #-# #Avengers# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
-"SpiderMan06 uniform spidey7" : "Spider-Man [Spider-Man: Far From Home (Stealth Suit)] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #-# #Avengers# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
+"SpiderMan07 uniform spidey7" : "Spider-Man [Spider-Man: Far From Home (Stealth Suit)] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Spidey# #-# #Avengers# #Agility# #Leadership# #Spider-Sense# #Potential# #Tier3#",
 "SpiderMan209900 character spidey2099" : "Spider-Man 2099 [Modern] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Agility# #Leadership# #Spider-Sense# #Potential#",
 "SpiderMan209901 uniform spidey20991" : "Spider-Man 2099 [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Agility# #Leadership# #Spider-Sense# #Potential#",
 "SpiderManMilesMorales00 character miles" : "Spider-Man (Miles Morales) [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Human# #Spidey# #Leadership# #Agility# #Spider-Sense# #Potential#",
@@ -409,7 +410,7 @@ flair.names = {
 "Thanos02 uniform thanos2" : "Thanos [Marvel's Avengers: Infinity War] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Pure Evil# #Durability# #Strong# #Potential# #Tier3#",
 "Thanos03 uniform thanos3" : "Thanos [Marvel's Avengers: Endgame] #Super Villain# #Villain# #Universal# #Male# #Alien# #MCU# #Pure Evil# #Durability# #Strong# #Potential# #Tier3#",
 "Thing00 character thing" : "Thing [Modern] #Super Hero# #Hero# #Combat# #Male# #Human# #Fantastic Four# #Durability# #Strong# #Support# #Potential#",
-"Thing00 character thing2" : "Thing [Future Foundation] #Super Hero# #Hero# #Combat# #Male# #Human# #Fantastic Four# #Durability# #Strong# #Support# #Potential# #New#",
+"Thing01 uniform thing1" : "Thing [Future Foundation] #Super Hero# #Hero# #Combat# #Male# #Human# #Fantastic Four# #Durability# #Strong# #Support# #Potential# #New#",
 "Thor00 character thor" : "Thor [The Avengers] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #-# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
 "Thor01 uniform thor1" : "Thor [Avengers: Age of Ultron] #Super Hero# #Hero# #Universal# #Male# #Alien# #MCU# #Avengers# #-# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
 "Thor02 uniform thor2" : "Thor [Unworthy] #Super Hero# #Hero# #Universal# #Male# #Alien# #Asgard# #Leadership# #Shock# #Potential# #Tier3#",
