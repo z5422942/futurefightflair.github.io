@@ -1177,14 +1177,26 @@ e.flair-angela {
 .flair-reed{
 	background-position: 0 -5970px
 }
+.flair-reed{
+	background-position: -30px -5970px
+}
 .flair-sue{
 	background-position: 0 -6000px
+}
+.flair-sue1{
+	background-position: -30px -6000px
 }
 .flair-torch{
 	background-position: 0 -6030px
 }
+.flair-torch1{
+	background-position: -30px -6030px
+}
 .flair-thing{
 	background-position: 0 -6060px
+}
+.flair-thing1{
+	background-position: -30px -6060px
 }
 .flair-doom{
 	background-position: 0 -6090px
@@ -1236,6 +1248,15 @@ e.flair-angela {
 }
 .flair-electro{
 	background-position: 0 -6510px
+}
+.flair-namor{
+	background-position: 0 -6540px
+}
+.flair-wave{
+	background-position: 0 -6570px
+}
+.flair-surfer{
+	background-position: 0 -6600px
 }
 .comment .flair {left: 67px}
 .link .flair {left: 145px}
@@ -1418,11 +1439,13 @@ e.flair-angela {
 .flair1-hb2 {background-position:-7200px -200px}
 .flair1-hulkling {background-position:-7300px 0px}
 .flair1-torch {background-position:-7400px 0px}
+.flair1-torch1 {background-position:-7400px -100px}
 .flair1-hyperion {background-position:-7500px 0px}
 .flair1-hyperion1 {background-position:-7500px -100px}
 .flair1-inferno {background-position:-7600px 0px}
 .flair1-inferno1 {background-position:-7600px -100px}
 .flair1-sue {background-position:-7700px 0px}
+.flair1-sue1 {background-position:-7700px -100px}
 .flair1-fist {background-position:-7800px 0px}
 .flair1-fist1 {background-position:-7800px -100px}
 .flair1-fist2 {background-position:-7800px -200px}
@@ -1480,6 +1503,7 @@ e.flair-angela {
 .flair1-miles {background-position:-10500px 0px}
 .flair1-miles1 {background-position:-10500px -100px}
 .flair1-reed {background-position:-10600px 0px}
+.flair1-reed1 {background-position:-10600px -100px}
 .flair1-misty {background-position:-10700px 0px}
 .flair1-mockingbird {background-position:-10800px 0px}
 .flair1-mockingbird1 {background-position:-10800px -100px}
@@ -1592,6 +1616,7 @@ e.flair-angela {
 .flair1-thanos2 {background-position:-15600px -200px}
 .flair1-thanos3 {background-position:-15600px -300px}
 .flair1-thing {background-position:-15700px 0px}
+.flair1-thing1 {background-position:-15700px -100px}
 .flair1-thor {background-position:-15800px 0px}
 .flair1-thor1 {background-position:-15800px -100px}
 .flair1-thor2 {background-position:-15800px -200px}
@@ -1665,5 +1690,7 @@ e.flair-angela {
 .flair1-moltenman {background-position:-19300px 0px}
 .flair1-hydroman {background-position:-19400px 0px}
 .flair1-electro {background-position:-19500px 0px}
-
+.flair1-namor {background-position:-19600px 0px}
+.flair1-wave {background-position:-19700px 0px}
+.flair1-surfer {background-position:-19800px 0px}
 
