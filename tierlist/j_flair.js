@@ -270,7 +270,9 @@ flair.names = {
 "namor-t2 tierlist namor-t2" : "Namor [] #Combat# #PVE3##PVP1#",
 "namor-t3 tierlist namor-t3" : "Namor [] #Combat# #PVE5##PVP1#",
 "wave tierlist wave" : "Wave [] #Speed# #Support# ",
-"silversurfer tierlist silversurfer" : "Silver Surfer [] #Universal# #Leader# ",
+"silversurfer-t2 tierlist silversurfer-t2" : "Silver Surfer [] #Universal# #PVE4##PVP4##Leader# ",
+"silversurfer-t3 tierlist silversurfer-t3" : "Silver Surfer [] #Universal# #PVE4##PVP4##Leader# ",
+
 
 
 
