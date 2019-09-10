@@ -907,6 +907,9 @@ e.flair-angela {
 .flair-cyclops2 {
 	background-position: -60px -3630px
 }
+.flair-cyclops3 {
+	background-position: -90px -3630px
+}
 .flair-jean {
 	background-position: 0 -3660px
 }
@@ -1096,14 +1099,23 @@ e.flair-angela {
 .flair-colossus1 {
 	background-position: -30px -4860px
 }
+.flair-colossus2 {
+	background-position: -60px -4860px
+}
 .flair-emma {
 	background-position: 0 -4890px
 }
 .flair-emma1 {
 	background-position: -30px -4890px
 }
+.flair-emma2 {
+	background-position: -60px -4890px
+}
 .flair-magik {
 	background-position: 0 -4920px
+}
+.flair-magik1 {
+	background-position: -30 -4920px
 }
 .flair-mbaku {
 	background-position: 0 -4950px
@@ -1252,11 +1264,23 @@ e.flair-angela {
 .flair-namor{
 	background-position: 0 -6540px
 }
+.flair-namor1{
+	background-position: -30px -6540px
+}
 .flair-wave{
 	background-position: 0 -6570px
 }
 .flair-surfer{
 	background-position: 0 -6600px
+}
+.flair-rachel{
+	background-position: 0 -6630px
+}
+.flair-kitty{
+	background-position: 0 -6660px
+}
+.flair-kido{
+	background-position: 0 -6690px
 }
 .comment .flair {left: 67px}
 .link .flair {left: 145px}
@@ -1343,6 +1367,7 @@ e.flair-angela {
 .flair1-clea {background-position:-2600px 0px}
 .flair1-colossus {background-position:-2700px 0px}
 .flair1-colossus1 {background-position:-2700px -100px}
+.flair1-colossus2 {background-position:-2700px -200px}
 .flair1-corvus {background-position:-2800px 0px}
 .flair1-corvus1 {background-position:-2800px -100px}
 .flair1-crescent {background-position:-2900px 0px}
@@ -1354,6 +1379,7 @@ e.flair-angela {
 .flair1-cyclops {background-position:-3200px 0px}
 .flair1-cyclops1 {background-position:-3200px -100px}
 .flair1-cyclops2 {background-position:-3200px -200px}
+.flair1-cyclops3 {background-position:-3200px -300px}
 .flair1-daisy {background-position:-3300px 0px}
 .flair1-daisy1 {background-position:-3300px -100px}
 .flair1-daisy2 {background-position:-3300px -200px}
@@ -1385,6 +1411,7 @@ e.flair-angela {
 .flair1-elsa2 {background-position:-4600px -200px}
 .flair1-emma {background-position:-4700px 0px}
 .flair1-emma1 {background-position:-4700px -100px}
+.flair1-emma2 {background-position:-4700px -200px}
 .flair1-enchantress {background-position:-4800px 0px}
 .flair1-falcon {background-position:-4900px 0px}
 .flair1-falcon1 {background-position:-4900px -100px}
@@ -1491,6 +1518,7 @@ e.flair-angela {
 .flair1-luna {background-position:-9800px 0px}
 .flair1-luna1 {background-position:-9800px -100px}
 .flair1-magik {background-position:-9900px 0px}
+.flair1-magik1 {background-position:-9900px -100px}
 .flair1-magneto {background-position:-10000px 0px}
 .flair1-magneto1 {background-position:-10000px -100px}
 .flair1-malekith {background-position:-10100px 0px}
@@ -1691,6 +1719,9 @@ e.flair-angela {
 .flair1-hydroman {background-position:-19400px 0px}
 .flair1-electro {background-position:-19500px 0px}
 .flair1-namor {background-position:-19600px 0px}
+.flair1-namor1 {background-position:-19600px -100px}
 .flair1-wave {background-position:-19700px 0px}
 .flair1-surfer {background-position:-19800px 0px}
-
+.flair1-rachel {background-position:-19900px 0px}
+.flair1-kitty {background-position:-20000px 0px}
+.flair1-kido {background-position:-20100px 0px}
