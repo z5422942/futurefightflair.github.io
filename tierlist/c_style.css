@@ -1,4 +1,4 @@
-'fr * {
+m'fr * {
  padding: 0;
  margin: 0;
 }
@@ -20,6 +20,23 @@ html {
 }
 
 @media only screen and (min-device-width: 480px) {
+
+.row {
+    display: inline-block;
+    padding: 0rem 0.1rem;
+}
+/* Create two equal columns that sits next to each other */
+.column {
+    -webkit-flex: 10%; /* Safari 6.1+ */
+    -ms-flex: 10%; /* IE 10 */
+    flex: 10%;
+    padding: 0rem 1rem;
+}
+.column img {
+    margin-top: 0px;
+    vertical-align: middle;
+}
+    
 .show.type.attributes {
     display: -webkit-inline-flex;
     display: -ms-inline-flex;
@@ -65,6 +82,24 @@ html {
 }
 
 @media only screen and (max-device-width: 480px) {
+    
+.row {
+    display: inline-block;
+    padding: 0rem 0.1rem;
+}
+/* Create two equal columns that sits next to each other */
+.column {
+    -webkit-flex: 10%; /* Safari 6.1+ */
+    -ms-flex: 10%; /* IE 10 */
+    flex: 10%;
+    padding: 0rem 0.1rem;
+}
+.column img {
+    margin-top: 0px;
+    vertical-align: middle;
+}    
+    
+    
 .mobileflair {
     position: relative;
     top: -1px;
@@ -76,7 +111,7 @@ html {
     margin-top: -10px;
 }
 .plus2 {
-    margin-top: 2px;
+    margin-top: 0px;
 }
 .show.type.attributes {
     display: -webkit-inline-flex;
@@ -565,19 +600,4 @@ button:hover, input[type=submit]:hover {
 .dropdown1:hover .btn3 {
     background: #070708;
     border: 1px solid #25282c;
-}
-.row {
-    display: inline-block;
-    padding: 0rem 0.1rem;
-}
-/* Create two equal columns that sits next to each other */
-.column {
-    -webkit-flex: 10%; /* Safari 6.1+ */
-    -ms-flex: 10%; /* IE 10 */
-    flex: 10%;
-    padding: 0rem 0.1rem;
-}
-.column img {
-    margin-top: 0px;
-    vertical-align: middle;
 }
