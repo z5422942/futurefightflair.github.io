@@ -1,4 +1,5 @@
 
+
 .flair-logo {background-position: 0px 0px}
 .flair-stanlee {background-position: -100px 0px}
 .flair-absorbingman {background-position: -200px 0px}
@@ -32,12 +33,14 @@
 .flair-captainmarvel-t3 {background-position: -2600px -128px}
 .flair-carnage {background-position: -2700px 0px}
 .flair-clea {background-position: -2800px 0px}
-.flair-colossus {background-position: -2900px 0px}
+.flair-colossus-t3 {background-position: -2900px 0px}
+.flair-colossus-t2 {background-position: -2900px 0px}
 .flair-corvus {background-position: -3000px 0px}
 .flair-crescent {background-position: -3100px 0px}
 .flair-crossbones {background-position: -3200px 0px}
 .flair-crystal {background-position: -3300px 0px}
 .flair-cyclops {background-position: -3400px 0px}
+.flair-cyclops-t3 {background-position: -3400px -128px}
 .flair-daisy {background-position: -3500px 0px}
 .flair-daredevil {background-position: -3600px 0px}
 .flair-deadpool-t2 {background-position: -3700px 0px}
@@ -218,9 +221,11 @@
 .flair-wave {background-position: -19700px 0px}
 .flair-silversurfer-t2 {background-position: -19800px 0px}
 .flair-silversurfer-t3 {background-position: -19800px 0px}
-.flair-rachelgrey {background-position: -19900px 0px}
+.flair-rachelsummers {background-position: -19900px 0px}
 .flair-kittypryde {background-position: -20000px 0px}
 .flair-kidomega {background-position: -20100px 0px}
+
+
 
 
 

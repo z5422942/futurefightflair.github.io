@@ -65,8 +65,8 @@ html {
     cursor: pointer;
     margin-top: -4.94rem !important;
     margin-bottom: -0rem !important;
-    margin-right: -1.7rem !important;
-    margin-left: -1.7rem !important;
+    margin-right: -1.9rem !important;
+    margin-left: -1.9rem !important;
     top: 2.95rem;
     border: none;
 }
@@ -86,8 +86,8 @@ html {
     cursor: pointer;
     margin-top: -4.94rem !important;
     margin-bottom: -0rem !important;
-    margin-right: -1.7rem !important;
-    margin-left: -1.7rem !important;
+    margin-right: -1.9rem !important;
+    margin-left: -1.9rem !important;
     top: 2.95rem;
     box-shadow: 0px 0px 9px 3px #fff;
 }
@@ -152,8 +152,8 @@ html {
     cursor: pointer;
     margin-top: -4.94rem !important;
     margin-bottom: -0rem !important;
-    margin-right: -1.7rem !important;
-    margin-left: -1.7rem !important;
+    margin-right: -1.9rem !important;
+    margin-left: -1.9rem !important;
     top: 2.95rem;
     border: none;
 }
@@ -173,8 +173,8 @@ html {
     cursor: pointer;
     margin-top: -4.94rem !important;
     margin-bottom: -0rem !important;
-    margin-right: -1.7rem !important;
-    margin-left: -1.7rem !important;
+    margin-right: -2rem !important;
+    margin-left: -2rem !important;
     top: 2.95rem;
     border: none;
     box-shadow: 0px 0px 9px 3px #fff;
@@ -626,7 +626,7 @@ button:hover, input[type=submit]:hover {
 }
 .row {
     display: inline-block;
-    padding: 0rem 0.1rem;
+    padding: 0rem 0.1em;
 }
 /* Create two equal columns that sits next to each other */
 .column {
