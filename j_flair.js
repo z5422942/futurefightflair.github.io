@@ -346,7 +346,7 @@ flair.names = {
 "QuasarAvrilKincaid00 character avril" : "Quasar (Avril Kincaid) [All-New, All-Different] #Super Hero# #Hero# #Universal# #Female# #Human# #Energy Projection# #Heightened Senses#",
 "Quicksilver00 character quicksilver" : "Quicksilver [Classic] #Super Hero# #Hero# #Speed# #Male# #Other# #Agility# #Fast Movement#",
 "Quicksilver01 uniform quicksilver1" : "Quicksilver [Marvel Legacy] #Super Hero# #Hero# #Speed# #Male# #Other# #Agility# #Fast Movement#",
-"RachelGrey00 character rachel" : "Rachel Grey [Modern] #Super Hero# #Hero# #Blast# #Female# #Mutant# #Phoenix Force# #Fast Movement# #Potential# #New#",
+"RachelSummers00 character rachel" : "Rachel Summers [Modern] #Super Hero# #Hero# #Blast# #Female# #Mutant# #Phoenix Force# #Fast Movement# #Potential# #New#",
 "RedHulk00 character rulk" : "Red Hulk [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Flame# #Durability#",
 "RedHulk01 uniform rulk1" : "Red Hulk [Marvel NOW!] #Super Hero# #Hero# #Combat# #Male# #Human# #Flame# #Durability#",
 "RedSkull00 character skull" : "Red Skull [Captain America: The First Avenger] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Command# #Pure Evil# #Potential#",
