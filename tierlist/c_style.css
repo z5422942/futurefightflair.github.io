@@ -11,15 +11,15 @@ html {
 
 @media only screen and (min-device-width: 480px) {
 #CombatList {
-    margin-top: 0.5em
+    margin-top: 3.6rem
 }
 
 #BlastList, #SpeedList, #UniversalList {
-        margin-top: -8.2em!important
+        margin-top: -5.7rem!important
 }
 
 #A3Combat, #A3Blast, #A3Speed, #A3Universal {
-    margin-top: 1em;
+    margin-top: 1.2em;
 }
 
 #B3Combat, #B3Blast, #B3Speed, #B3Universal {
@@ -64,7 +64,6 @@ html {
     cursor: pointer;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 3.34rem!important;
     border: none;
 }
 .show.type.attributes.selected {
@@ -82,7 +81,6 @@ html {
     cursor: pointer;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 3.34rem!important;
     box-shadow: 0px 0px 9px 3px #fff;
 }
 }
@@ -90,15 +88,15 @@ html {
 @media only screen and (max-device-width: 480px) {
     
 #CombatList {
-    margin-top: 0.5em
+    margin-top: 3.6rem
 }
 
 #BlastList, #SpeedList, #UniversalList {
-        margin-top: -8.4em!important
+        margin-top: -5.7rem!important
 }
 
 #A3Combat, #A3Blast, #A3Speed, #A3Universal {
-    margin-top: 1.3em;
+    margin-top: 1.4em;
 }
 
 #B3Combat, #B3Blast, #B3Speed, #B3Universal {
@@ -157,7 +155,6 @@ html {
     cursor: pointer;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 3.32rem!important;
     border: none;
 }
 .show.type.attributes.selected {
@@ -175,7 +172,6 @@ html {
     cursor: pointer;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 3.32rem!important;
     border: none;
     box-shadow: 0px 0px 9px 3px #fff;
 }
