@@ -53,11 +53,9 @@ html {
     height: 128px;
     transform: scale(0.36);
     cursor: pointer;
-    margin-top: -4.94rem!important;
-    margin-bottom: -0rem!important;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 2.95rem!important;
+    top: 3.34rem!important;
     border: none;
 }
 .show.type.attributes.selected {
@@ -74,11 +72,9 @@ html {
     height: 128px;
     transform: scale(0.36);
     cursor: pointer;
-    margin-top: -4.94rem!important;
-    margin-bottom: -0rem!important;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 2.95rem;
+    top: 3.34rem!important;
     box-shadow: 0px 0px 9px 3px #fff;
 }
 }
@@ -140,11 +136,9 @@ html {
     height: 128px;
     transform: scale(0.36);
     cursor: pointer;
-    margin-top: -4.94rem!important;
-    margin-bottom: -0rem!important;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 2.95rem;
+    top: 3.34rem!important;
     border: none;
 }
 .show.type.attributes.selected {
@@ -161,11 +155,9 @@ html {
     height: 128px;
     transform: scale(0.36);
     cursor: pointer;
-    margin-top: -4.94rem!important;
-    margin-bottom: -0rem!important;
     margin-right: -1.9rem!important;
     margin-left: -1.9rem!important;
-    top: 2.95rem;
+    top: 3.34rem!important;
     border: none;
     box-shadow: 0px 0px 9px 3px #fff;
 }
@@ -614,14 +606,15 @@ button:hover, input[type=submit]:hover {
 }
 .row {
     display: inline-block;
-    padding: 0rem 0.1em;
 }
 /* Create two equal columns that sits next to each other */
 .column {
     -webkit-flex: 10%; /* Safari 6.1+ */
     -ms-flex: 10%; /* IE 10 */
     flex: 10%;
-    padding: 0rem 0.1rem;
+    margin: -5.69rem auto;
+
+
 }
 .column img {
     margin-top: 0px;
