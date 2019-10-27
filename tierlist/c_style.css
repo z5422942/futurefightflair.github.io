@@ -44,6 +44,10 @@ html {
     flex: 10%;
     margin: -5.69rem auto;
 }
+	.ismobile {
+    top: 6.1rem;
+    position: absolute;
+}
 	
 .show.type.attributes {
     display: -webkit-inline-flex;
@@ -176,8 +180,8 @@ html {
     box-shadow: 0px 0px 9px 3px #fff;
 }
 .ismobile {
-    top: -3px;
-    position: relative;
+    top: 6.1rem;
+    position: absolute;
 }
 .ismobilebanner {
     top: -1px;
