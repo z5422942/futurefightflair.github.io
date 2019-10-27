@@ -137,7 +137,7 @@ html {
 }
 	
 .tlvers {
-    top:-10px;
+    top:-10px!important;
 }	
 	
 .show.type.attributes {
