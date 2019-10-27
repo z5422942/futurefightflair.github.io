@@ -136,6 +136,10 @@ html {
     margin: -5.75rem auto;
 }
 	
+.tlvers {
+    top:-10px;
+}	
+	
 .show.type.attributes {
     display: -webkit-inline-flex;
     display: -ms-inline-flex;
