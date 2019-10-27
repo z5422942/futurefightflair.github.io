@@ -227,5 +227,5 @@
 
 
 
-.flair-tierlist {background-image:url(flairs.jpg)!important}
+.flair-tierlist {background-image:url(flairs.jpg)!important; transform: scale(0.36);}
 .flair1-tierlist {background-image:url(flairs.jpg)!important}
