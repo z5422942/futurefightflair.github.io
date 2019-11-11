@@ -51,7 +51,6 @@ flair.names = {
 	/* [STANDARD] */
 
     
-    
 
 "logo tierlist logo" : "Logo [] #Combat# ",
 "stanlee tierlist stanlee" : "Stan Lee [Forever] #None# ",
@@ -86,9 +85,9 @@ flair.names = {
 "captainmarvel-t3 tierlist captainmarvel-t3" : "Captain Marvel [Endgame] #Universal# #PVE5##PVP5##Synergy#",
 "carnage tierlist carnage" : "Carnage [] #Combat# ",
 "clea tierlist clea" : "Clea [] #Universal# ",
-"colossus tierlist colossus" : "Colossus [Phoenix Five] #Combat# #PVE3##PVP4##Support# ",
+"colossus tierlist colossus" : "Colossus [Phoenix Five] #Combat# #Support# ",
 "corvus tierlist corvus" : "Corvus Glaive [Infinity War] #Universal# ",
-"crescent tierlist crescent" : "Crescent [] #Combat# #Leader# ",
+"crescent tierlist crescent" : "Crescent [Lifestyle Series 1] #Combat# #Leader# ",
 "crossbones tierlist crossbones" : "Crossbones [Modern] #Combat# ",
 "crystal tierlist crystal" : "Crystal [Fantastic Four] #Blast# ",
 "cyclops-t2 tierlist cyclops-t2" : "Cyclops [Phoenix Five] #Blast# #Support# #Leader# ",
@@ -161,8 +160,8 @@ flair.names = {
 "lizard tierlist lizard" : "Lizard [] #Combat# ",
 "loki tierlist loki" : "Loki [Ragnarok] #Universal# ",
 "lukecage tierlist lukecage" : "Luke Cage [Luke Cage] #Combat# ",
-"lunasnow-t2 tierlist lunasnow-t2" : "Luna Snow [Andromeda Suit] #Speed# #PVE4##PVP2#",
-"lunasnow-t3 tierlist lunasnow-t3" : "Luna Snow [Andromeda Suit] #Speed# #PVE5##PVP3#",
+"lunasnow-t2 tierlist lunasnow-t2" : "Luna Snow [Lifestyle Series 1] #Speed# #PVE4##PVP2#",
+"lunasnow-t3 tierlist lunasnow-t3" : "Luna Snow [Lifestyle Series 1] #Speed# #PVE5##PVP3#",
 "magik tierlist magik" : "Magik [Phoenix Five] #Blast# ",
 "magneto-t2 tierlist magneto-t2" : "Magneto [Now] #Blast# #Leader# ",
 "magneto-t3 tierlist magneto-t3" : "Magneto [Now] #Blast# #Leader# ",
@@ -190,17 +189,18 @@ flair.names = {
 "psylocke tierlist psylocke" : "Psylocke [Disassembled] #Blast# #PVE4##PVP1#",
 "punisher tierlist punisher" : "Punisher [Legacy] #Combat# ",
 "quasar tierlist quasar" : "Quasar [] #Universal# ",
-"quicksilver tierlist quicksilver" : "Quicksilver [Legacy] #Speed# #PVE3##PVP4#",
+"quicksilver-t2 tierlist quicksilver-t2" : "Quicksilver [Uncanny Avengers] #Speed# #PVE4##PVP4#",
+"quicksilver-t3 tierlist quicksilver-t3" : "Quicksilver [Uncanny Avengers] #Speed# #PVE5##PVP5#",
 "redhulk tierlist redhulk" : "Red Hulk [Now] #Combat# #Leader# ",
 "redskull tierlist redskull" : "Red Skull [] #Blast# ",
 "rhino tierlist rhino" : "Rhino [] #Combat# #Leader# ",
 "robbiereyes tierlist robbiereyes" : "Robbie Reyes [] #Universal# #Leader# ",
 "rocketraccoon tierlist rocketraccoon" : "Rocket Raccoon [Endgame] #Blast# #Synergy#",
-"rogue tierlist rogue" : "Rogue [] #Speed# ",
+"rogue tierlist rogue" : "Rogue [Uncanny Avengers] #Speed# #PVE4##PVP2#",
 "ronan tierlist ronan" : "Ronan [Captain Marvel] #Universal# #Support# #Leader# ",
 "sandman tierlist sandman" : "Sandman [] #Combat# ",
 "satana tierlist satana" : "Satana [Legacy] #Universal# #Leader# ",
-"scarletwitch tierlist scarletwitch" : "Scarlet Witch [Infinity War] #Blast# #PVE4##PVP3##Leader# ",
+"scarletwitch tierlist scarletwitch" : "Scarlet Witch [Uncanny Avengers] #Blast# #PVE4##PVP3##Leader# ",
 "sentinel tierlist sentinel" : "Sentinel [] #Universal# #Leader# ",
 "shangchi tierlist shangchi" : "Shang Chi [] #Combat# ",
 "agent13 tierlist agent13" : "Agent 13 [Civil War] #Speed# ",
@@ -236,7 +236,7 @@ flair.names = {
 "valkyrie tierlist valkyrie" : "Valkyrie [] #Combat# #Support# ",
 "venom tierlist venom" : "Venom [Anti-Venom] #Combat# #Buff# #Support# ",
 "victorious tierlist victorious" : "Victorious [] #Universal# #PVE2##PVP1##Leader# ",
-"vision tierlist vision" : "Vision [Age of Ultron] #Universal# ",
+"vision tierlist vision" : "Vision [Uncanny Avengers] #Blast# ",
 "volstagg tierlist volstagg" : "Volstagg [] #Combat# #Support# ",
 "vulture tierlist vulture" : "Vulture [Homecoming] #Speed# ",
 "warmachine tierlist warmachine" : "War Machine [Endgame] #Blast# #Synergy#",
@@ -244,7 +244,7 @@ flair.names = {
 "wasp tierlist wasp" : "Wasp [Ant-Man and the Wasp] #Blast# #Support# #Leader# ",
 "weaponhex tierlist weaponhex" : "Weapon Hex [] #Blast# #Support# ",
 "whiplash tierlist whiplash" : "Whiplash [] #Blast# ",
-"whitefox tierlist whitefox" : "White Fox [] #Speed# #Support# ",
+"whitefox tierlist whitefox" : "White Fox [Lifestyle Series 1] #Speed# #Support# ",
 "whitetiger tierlist whitetiger" : "White Tiger [] #Combat# ",
 "wiccan tierlist wiccan" : "Wiccan [] #Blast# #Buff# #Support# #Leader# ",
 "wintersoldier tierlist wintersoldier" : "Winter Soldier [Infinity War] #Speed# ",
@@ -260,7 +260,7 @@ flair.names = {
 "korath tierlist korath" : "Korath [] #Speed# ",
 "juggernaut tierlist juggernaut" : "Juggernaut [] #Combat# ",
 "warpath tierlist warpath" : "Warpath [] #Combat# ",
-"sabretooth tierlist sabretooth" : "Sabretooth [] #Combat# ",
+"sabretooth tierlist sabretooth" : "Sabretooth [Uncanny Avengers] #Combat# ",
 "rescue tierlist rescue" : "Rescue [] #Blast# ",
 "jubilee tierlist jubilee" : "Jubilee [] #Blast# ",
 "iceman tierlist iceman" : "Iceman [] #Blast# ",
@@ -276,6 +276,11 @@ flair.names = {
 "rachelsummers tierlist rachelsummers" : "Rachel Summers [] #Blast# ",
 "kittypryde tierlist kittypryde" : "Kitty Pryde [] #Speed# #Leader# ",
 "kidomega tierlist kidomega" : "Kid Omega [] #Blast# #Leader# ",
+"aero tierlist aero" : "Aero [] #Speed# ",
+"voodoo tierlist voodoo" : "Doctor Voodoo [] #Universal# ",
+"swordmaster tierlist swordmaster" : "Sword Master [] #Combat# ",
+
+
 
 
 
