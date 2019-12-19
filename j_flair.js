@@ -154,6 +154,7 @@ flair.names = {
 "Deadpool00 character deadpool" : "Deadpool [Modern] #Super Hero# #Hero# #Speed# #Male# #Mutant# #Healing# #Weapon Master# #Potential# #Tier3#",
 "Deadpool01 uniform deadpool1" : "Deadpool [X-Force] #Super Hero# #Hero# #Speed# #Male# #Mutant# #X-Force# #Healing# #Weapon Master# #Potential# #Tier3#",
 "Deadpool02 uniform deadpool2" : "Deadpool [Lady Deadpool] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Force# #Healing# #Weapon Master# #Potential# #Tier3# #New#",
+"Deadpool03 uniform deadpool3" : "Lady Deadpool [Holiday Party] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Force# #Healing# #Weapon Master# #Potential# #Tier3# #New#",
 "Deathlok00 character deathlok" : "Deathlok [Marvel's Agents of S.H.I.E.L.D.] #Super Hero# #Hero# #Combat# #Male# #Human# #MCU# #Shield# #Agent# #Machine#",
 "Deathlok01 uniform deathlok1" : "Deathlok [Modern] #Super Hero# #Hero# #Blast# #Male# #Human# #Shield# #Agent# #Machine#",
 "Destroyer00 character destroyer" : "Destroyer [Classic] #Neutral# #Universal# #Genderless# #Creature# #Asgard# #Flame#",
@@ -215,6 +216,7 @@ flair.names = {
 "Groot03 uniform groot3" : "Groot [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Combat# #Male# #Alien# #MCU# #Avengers# #-# #Guardians# #Healing# #Support# #Potential#",
 "Gwenpool00 character gwenpool" : "Gwenpool [All-New, All-Different] #Super Hero# #Hero# #Speed# #Female# #Human# #Agility#",
 "Gwenpool01 uniform gwenpool1" : "Gwenpool [Gwen Poole] #Super Hero# #Hero# #Speed# #Female# #Human# #Agility#",
+"Gwenpool02 uniform gwenpool2" : "Gwenpool [Holiday Party] #Super Hero# #Hero# #Speed# #Female# #Human# #Agility#",
 "Hawkeye00 character hawkeye" : "Hawkeye [The Avengers] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Avengers# #Agent# #Weapon Master#",
 "Hawkeye01 uniform hawkeye1" : "Hawkeye [Avengers: Age of Ultron] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Avengers# #Agent# #Weapon Master#",
 "Hawkeye02 uniform hawkeye2" : "Hawkeye [Captain America: Civil War] #Super Hero# #Hero# #Speed# #Male# #Human# #MCU# #Avengers# #Agent# #Weapon Master#",
@@ -499,6 +501,7 @@ flair.names = {
 "Yondu00 character yondu" : "Yondu [Guardians of the Galaxy] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapon Master# #Command#",
 "Yondu01 uniform yondu1" : "Yondu [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Alien# #Weapon Master# #Command#",
 "Yondu02 uniform yondu2" : "Yondu [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapon Master# #Command#",
+
 
 
 
