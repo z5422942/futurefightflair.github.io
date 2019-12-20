@@ -167,7 +167,7 @@ flair.names = {
 "DoctorStrange02 uniform strange2" : "Doctor Strange [Marvel's Avengers: Infinity War] #Super Hero# #Hero# #Blast# #Male# #Human# #MCU# #Avengers# #Fast Movement# #Magic# #Potential# #Tier3#",
 "DoctorVoodoo00 character voodoo" : "Doctor Voodoo [Modern] #Super Hero# #Hero# #Universal# #Male# #Human# #Magic# #Command# #Potential#",
 "Domino00 character domino" : "Domino [X-Force] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Force# #Weapon Master# #Agility# #Potential#",
-"Domino00 character domino1" : "Domino [Marvel NOW!] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Force# #-#  #Mercs For Money# #Weapon Master# #Agility# #Potential# #New#",
+"Domino01 character domino1" : "Domino [Marvel NOW!] #Super Hero# #Hero# #Speed# #Female# #Mutant# #X-Force# #-#  #Mercs For Money# #Weapon Master# #Agility# #Potential# #New#",
 "Dormammu00 character dormammu" : "Dormammu [Classic] #Super Villain# #Villain# #Universal# #Male# #Alien# #Pure Evil# #Magic#",
 "Drax00 character drax" : "Drax [Guardians of the Galaxy] #Super Hero# #Hero# #Combat# #Male# #Alien# #MCU# #Guardians# #Healing# #Potential#",
 "Drax01 uniform drax1" : "Drax [All-New, All-Different] #Super Hero# #Hero# #Combat# #Male# #Alien# #Guardians# #Healing# #Potential#",
