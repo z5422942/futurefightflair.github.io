@@ -143,7 +143,7 @@ flair.names = {
 "ironhammer tierlist ironhammer" : "Iron Hammer [] #Universal# #Leader# ",
 "ironheart tierlist ironheart" : "Ironheart [] #Blast# #Leader# ",
 "ironman-t2 tierlist ironman-t2" : "Iron Man [Endgame] #Blast# #Synergy#",
-"ironman-t3 tierlist ironman-t3" : "Iron Man [Endgame] #Blast# #PVE4##PVP1##Synergy#",
+"ironman-t3 tierlist ironman-t3" : "Iron Man [Endgame] #Blast# #PVE5##PVP1##Synergy#",
 "janefoster tierlist janefoster" : "Jane Foster [] #Universal# ",
 "jeangrey-t2 tierlist jeangrey-t2" : "Jean Grey [X-Men Red] #Blast# #PVE3##PVP3##Leader# ",
 "jeangrey-t3 tierlist jeangrey-t3" : "Jean Grey [X-Men Red] #Blast# #PVE5##PVP5##Leader# ",
