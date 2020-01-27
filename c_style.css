@@ -642,6 +642,5 @@ button:hover, input[type=submit]:hover {
 .wrapperchild1 {
     z-index: 12;
     background:#0e1320;
-    width:100px;
-	min-width:100%;
+	width:100%;
 }
