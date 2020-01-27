@@ -1474,10 +1474,10 @@ e.flair-angela {
 .flair1-devil {background-position:-3400px 0px}
 .flair1-devil1 {background-position:-3400px -100px}
 .flair1-devil2 {background-position:-3400px -200px}
-.flair1-deadpool {background-position:-3500px 0px}
-.flair1-deadpool1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S01.png")}
-.flair1-deadpool2 {background-position:-3500px -200px}
-.flair1-deadpool3 {background-position:-3500px -300px}
+.flair1-deadpool {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S00.png"); background-size: 100px}
+.flair1-deadpool1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S01.png"); background-size: 100px}
+.flair1-deadpool2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S02.png"); background-size: 100px}
+.flair1-deadpool3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S03.png"); background-size: 100px}
 .flair1-deathlok {background-position:-3600px 0px}
 .flair1-deathlok1 {background-position:-3600px -100px}
 .flair1-destroyer {background-position:-3700px 0px}
