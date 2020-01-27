@@ -99,7 +99,7 @@ JavaScript is required to run this page.
 		  <div id="flair-selection-uniname" class="uni" style="font-weight:bold ; text-transform: uppercase; font-style: italic; color:lightgray;">Uniform Name</div>
         <input id="flair-selection-text" style="margin-left:-0.1px;" type="text" placeholder="Insert flair text here" />
         <div class="spacer">
-          <button class="btn" onclick="flair.sendChoice()" id="flair-select-submit">SEND FLAIR REQUEST</button>
+          <button class="btn" style="width:115px!important; height: 26px!important; font-size:7pt;" onclick="flair.sendChoice()" id="flair-select-submit">SEND FLAIR REQUEST</button>
         </div>
       </div>
         </div>
@@ -119,9 +119,11 @@ JavaScript is required to run this page.
   </div>
 <div class="wrapper" style="background:#0e1320">
  <center>
-	  <div id="filter-selection-name" style="color:white; font-size: 10pt; padding-bottom: 2px;">Filter by Abilities</div>
+
+	  <div id="filter-selection-name" style="color:white; font-size: 10pt; padding-bottom: 10px;">Filter by Abilities</div>
+
 	 		<div class="ButtonClass" id="ButtonClass">
-    <button class="btn1 active" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:24px; width:24px;" onclick="filterSelection('all')" title="All Abilities">All</button>
+	<button class="btn1 active" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:23px; width:23px; top:10px; position:absolute" onclick="filterSelection('all')" title="All Abilities">All</button>
     <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agent')" title="Agent"><div class="ability agent flair2"></div></button>
     <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Agility')" title="Agility"><div class="ability agility flair2"></div></button>
     <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Chaos Magic')" title="Chaos Magic"><div class="ability chaosmagic flair2"></div></button>
@@ -170,7 +172,6 @@ JavaScript is required to run this page.
     <label for="flair-filter-text">
       <input id="flair-filter-text" type="text" placeholder="Filter by hero name or #attribute#" onkeyup="flair.updateFilter(this.value)"
                     onchange="flair.updateFilter(this.value)" />
-      <button class="btn" style="border:none; margin-left:-1.5px;" id="searchbutton" onclick="flair.updateFilter(this.value)">SEARCH</button>
     </label>
     <div style="display: inherit;margin-right:0px;">
 <div class="dropdown1" style="padding-right: 3px;">
