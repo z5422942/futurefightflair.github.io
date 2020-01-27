@@ -1,1838 +1,912 @@
-e.flair-angela {
-	background-position: 0 0
-}
-.flair-angela1 {
-	background-position: -30px 0
-}
-.flair-angela2 {
-	background-position: -60px 0
-}
-.flair-bolt {
-	background-position: 0 -30px
-}
-.flair-bolt1 {
-	background-position: -30px -30px
-}
-.flair-bolt2 {
-	background-position: -60px -30px
-}
-.flair-cat {
-	background-position: 0 -60px
-}
-.flair-cat1 {
-	background-position: -30px -60px
-}
-.flair-cat2 {
-	background-position: -60px -60px
-}
-.flair-panther {
-	background-position: 0 -90px
-}
-.flair-panther1 {
-	background-position: -30px -90px
-}
-.flair-panther2 {
-	background-position: -60px -90px
-}
-.flair-widow {
-	background-position: 0 -120px
-}
-.flair-widow1 {
-	background-position: -30px -120px
-}
-.flair-widow2 {
-	background-position: -60px -120px
-}
-.flair-widow3 {
-	background-position: -90px -120px
-}
-.flair-widow4 {
-	background-position: -120px -120px
-}
-.flair-widow5 {
-	background-position: -150px -120px
-}
-.flair-widow6 {
-	background-position: -180px -120px
-}
-.flair-widow7 {
-	background-position: -210px -120px
-}
-.flair-blade {
-	background-position: 0 -150px
-}
-.flair-blade1 {
-	background-position: -30px -150px
-}
-.flair-bullseye {
-	background-position: 0 -180px
-}
-.flair-bullseye1 {
-	background-position: -30px -180px
-}
-.flair-cap {
-	background-position: 0 -210px
-}
-.flair-cap1 {
-	background-position: -30px -210px
-}
-.flair-cap2 {
-	background-position: -60px -210px
-}
-.flair-cap3 {
-	background-position: -90px -210px
-}
-.flair-cap4 {
-	background-position: -120px -210px
-}
-.flair-cap5 {
-	background-position: -150px -210px
-}
-.flair-cap6 {
-	background-position: -180px -210px
-}
-.flair-cap7 {
-	background-position: -210px -210px
-}
-.flair-cap8 {
-	background-position: -240px -210px
-}
-.flair-cap9 {
-	background-position: -270px -210px
-}
-.flair-danvers {
-	background-position: 0 -240px
-}
-.flair-danvers1 {
-	background-position: -30px -240px
-}
-.flair-danvers2 {
-	background-position: -60px -240px
-}
-.flair-danvers3 {
-	background-position: -90px -240px
-}
-.flair-danvers4 {
-	background-position: -120px -240px
-}
-.flair-devil {
-	background-position: 0 -270px
-}
-.flair-devil1 {
-	background-position: -30px -270px
-}
-.flair-devil2 {
-	background-position: -60px -270px
-}
-.flair-destroyer {
-	background-position: 0 -300px
-}
-.flair-destroyer1 {
-	background-position: -30px -300px
-}
-.flair-ock {
-	background-position: 0 -330px
-}
-.flair-ock1 {
-	background-position: -30px -330px
-}
-.flair-drax {
-	background-position: 0 -360px
-}
-.flair-drax1 {
-	background-position: -30px -360px
-}
-.flair-elektra {
-	background-position: 0 -390px
-}
-.flair-elektra1 {
-	background-position: -30px -390px
-}
-.flair-falcon {
-	background-position: 0 -420px
-}
-.flair-falcon1 {
-	background-position: -30px -420px
-}
-.flair-falcon2 {
-	background-position: -60px -420px
-}
-.flair-falcon3 {
-	background-position: -90px -420px
-}
-.flair-gamora {
-	background-position: 0 -450px
-}
-.flair-gamora1 {
-	background-position: -30px -450px
-}
-.flair-gamora2 {
-	background-position: -60px -450px
-}
-.flair-rider {
-	background-position: 0 -480px
-}
-.flair-rider1 {
-	background-position: -30px -480px
-}
-.flair-rider2 {
-	background-position: -60px -480px
-}
-.flair-goblin {
-	background-position: 0 -510px
-}
-.flair-goblin1 {
-	background-position: -30px -510px
-}
-.flair-groot {
-	background-position: 0 -540px
-}
-.flair-groot1 {
-	background-position: -30px -540px
-}
-.flair-groot2 {
-	background-position: -60px -540px
-}
-.flair-groot3 {
-	background-position: -90px -540px
-}
-.flair-hawkeye {
-	background-position: 0 -570px
-}
-.flair-hawkeye1 {
-	background-position: -30px -570px
-}
-.flair-hawkeye2 {
-	background-position: -60px -570px
-}
-.flair-hawkeye3 {
-	background-position: -90px -570px
-}
-.flair-hawkeye4 {
-	background-position: -120px -570px
-}
-.flair-hulk {
-	background-position: -0px -600px
-}
-.flair-hulk1 {
-	background-position: -30px -600px
-}
-.flair-hulk2 {
-	background-position: -60px -600px
-}
-.flair-hulk3 {
-	background-position: -90px -600px
-}
-.flair-hulk4 {
-	background-position: -120px -600px
-}
-.flair-hulk5 {
-	background-position: -150px -600px
-}
-.flair-fist {
-	background-position: 0 -630px
-}
-.flair-fist1 {
-	background-position: -30px -630px
-}
-.flair-fist2 {
-	background-position: -60px -630px
-}
-.flair-fist3 {
-	background-position: -90px -630px
-}
-.flair-im {
-	background-position: 0 -660px
-}
-.flair-im1 {
-	background-position: -30px -660px
-}
-.flair-im2 {
-	background-position: -60px -660px
-}
-.flair-im3 {
-	background-position: -90px -660px
-}
-.flair-im4 {
-	background-position: -120px -660px
-}
-.flair-im5 {
-	background-position: -150px -660px
-}
-.flair-im6 {
-	background-position: -180px -660px
-}
-.flair-im7 {
-	background-position: -210px -660px
-}
-.flair-hb {
-	background-position: 0 -690px
-}
-.flair-hb1 {
-	background-position: -30px -690px
-}
-.flair-hb2 {
-	background-position: -60px -690px
-}
-.flair-kingpin {
-	background-position: 0 -720px
-}
-.flair-kingpin1 {
-	background-position: -30px -720px
-}
-.flair-loki {
-	background-position: 0 -750px
-}
-.flair-loki1 {
-	background-position: -30px -750px
-}
-.flair-loki2 {
-	background-position: -60px -750px
-}
-.flair-loki3 {
-	background-position: -90px -750px
-}
-.flair-luke {
-	background-position: 0 -780px
-}
-.flair-luke1 {
-	background-position: -30px -780px
-}
-.flair-luke2 {
-	background-position: -60px -780px
-}
-.flair-malekith {
-	background-position: 0 -810px
-}
-.flair-malekith1 {
-	background-position: -30px -810px
-}
-.flair-mockingbird {
-	background-position: 0 -840px
-}
-.flair-mockingbird1 {
-	background-position: -30px -840px
-}
-.flair-mockingbird2 {
-	background-position: -60px -840px
-}
-.flair-modok {
-	background-position: 0 -870px
-}
-.flair-modok1 {
-	background-position: -30px -870px
-}
-.flair-modok2 {
-	background-position: -60px -870px
-}
-.flair-nebula {
-	background-position: 0 -900px
-}
-.flair-nebula1 {
-	background-position: -30px -900px
-}
-.flair-nebula2 {
-	background-position: -60px -900px
-}
-.flair-nebula3 {
-	background-position: -90px -900px
-}
-.flair-punisher {
-	background-position: 0 -930px
-}
-.flair-punisher1 {
-	background-position: -30px -930px
-}
-.flair-punisher2 {
-	background-position: -60px -930px
-}
-.flair-punisher3 {
-	background-position: -90px -930px
-}
-.flair-punisher4 {
-	background-position: -120px -930px
-}
-.flair-skull {
-	background-position: 0 -960px
-}
-.flair-skull1 {
-	background-position: -30px -960px
-}
-.flair-rocket {
-	background-position: 0 -990px
-}
-.flair-rocket1 {
-	background-position: -30px -990px
-}
-.flair-rocket2 {
-	background-position: -60px -990px
-}
-.flair-rocket3 {
-	background-position: -90px -990px
-}
-.flair-rocket4 {
-	background-position: -120px -990px
-}
-.flair-rocket5 {
-	background-position: -150px -990px
-}
-.flair-ronan {
-	background-position: 0 -1020px
-}
-.flair-ronan1 {
-	background-position: -30px -1020px
-}
-.flair-ronan2 {
-	background-position: -60px -1020px
-}
-.flair-sharon {
-	background-position: 0 -1050px
-}
-.flair-sharon1 {
-	background-position: -30px -1050px
-}
-.flair-spidey {
-	background-position: 0 -1080px
-}
-.flair-spidey1 {
-	background-position: -30px -1080px
-}
-.flair-spidey2 {
-	background-position: -60px -1080px
-}
-.flair-spidey3 {
-	background-position: -90px -1080px
-}
-.flair-spidey4 {
-	background-position: -120px -1080px
-}
-.flair-spidey5 {
-	background-position: -150px -1080px
-}
-.flair-spidey6 {
-	background-position: -180px -1080px
-}
-.flair-spidey7 {
-	background-position: -210px -1080px
-}
-.flair-star {
-	background-position: 0 -1110px
-}
-.flair-star1 {
-	background-position: -30px -1110px
-}
-.flair-star2 {
-	background-position: -60px -1110px
-}
-.flair-star3 {
-	background-position: -90px -1110px
-}
-.flair-thor {
-	background-position: 0 -1140px
-}
-.flair-thor1 {
-	background-position: -30px -1140px
-}
-.flair-thor2 {
-	background-position: -60px -1140px
-}
-.flair-thor3 {
-	background-position: -90px -1140px
-}
-.flair-thor4 {
-	background-position: -120px -1140px
-}
-.flair-thor5 {
-	background-position: -150px -1140px
-}
-.flair-thor6 {
-	background-position: -180px -1140px
-}
-.flair-ultron {
-	background-position: 0 -1170px
-}
-.flair-ultron1 {
-	background-position: -30px -1170px
-}
-.flair-ultron2 {
-	background-position: -60px -1170px
-}
-.flair-ultron3 {
-	background-position: -90px -1170px
-}
-.flair-venom {
-	background-position: 0 -1200px
-}
-.flair-venom1 {
-	background-position: -30px -1200px
-}
-.flair-venom2 {
-	background-position: -60px -1200px
-}
-.flair-vision {
-	background-position: 0 -1230px
-}
-.flair-vision1 {
-	background-position: -30px -1230px
-}
-.flair-vision2 {
-	background-position: -60px -1230px
-}
-.flair-wm {
-	background-position: 0 -1260px
-}
-.flair-wm1 {
-	background-position: -30px -1260px
-}
-.flair-wm2 {
-	background-position: -60px -1260px
-}
-.flair-wm3 {
-	background-position: -90px -1260px
-}
-.flair-wm4 {
-	background-position: -120px -1260px
-}
-.flair-wm5 {
-	background-position: -150px -1260px
-}
-.flair-wm6 {
-	background-position: -180px -1260px
-}
-.flair-bucky {
-	background-position: 0 -1290px
-}
-.flair-bucky1 {
-	background-position: -30px -1290px
-}
-.flair-bucky2 {
-	background-position: -60px -1290px
-}
-.flair-bucky3 {
-	background-position: -90px -1290px
-}
-.flair-yondu {
-	background-position: 0 -1320px
-}
-.flair-yondu1 {
-	background-position: -30px -1320px
-}
-.flair-yondu2 {
-	background-position: -60px -1320px
-}
-.flair-ant {
-	background-position: 0 -1350px
-}
-.flair-ant1 {
-	background-position: -30px -1350px
-}
-.flair-ant2 {
-	background-position: -60px -1350px
-}
-.flair-ant3 {
-	background-position: -90px -1350px
-}
-.flair-ant4 {
-	background-position: -120px -1350px
-}
-.flair-ant5 {
-	background-position: -150px -1350px
-}
-.flair-giant {
-	background-position: 0 -1380px
-}
-.flair-giant1 {
-	background-position: -30px -1380px
-}
-.flair-giant2 {
-	background-position: -60px -1380px
-}
-.flair-rulk {
-	background-position: 0 -1410px
-}
-.flair-rulk1 {
-	background-position: -30px -1410px
-}
-.flair-wasp {
-	background-position: 0 -1440px
-}
-.flair-wasp1 {
-	background-position: -30px -1440px
-}
-.flair-wasp2 {
-	background-position: -60px -1440px
-}
-.flair-yj {
-	background-position: 0 -1470px
-}
-.flair-yj1 {
-	background-position: -30px -1470px
-}
-.flair-shulk {
-	background-position: 0 -1500px
-}
-.flair-shulk1 {
-	background-position: -30px -1500px
-}
-.flair-shulk2 {
-	background-position: -60px -1500px
-}
-.flair-singularity {
-	background-position: 0 -1530px
-}
-.flair-grimm {
-	background-position: 0 -1560px
-}
-.flair-grimm1 {
-	background-position: -30px -1560px
-}
-.flair-daisy {
-	background-position: 0 -1590px
-}
-.flair-daisy1 {
-	background-position: -30px -1590px
-}
-.flair-daisy2 {
-	background-position: -60px -1590px
-}
-.flair-deathlok {
-	background-position: 0 -1620px
-}
-.flair-deathlok1 {
-	background-position: -30px -1620px
-}
-.flair-lincoln {
-	background-position: 0 -1650px
-}
-.flair-coulson {
-	background-position: 0 -1680px
-}
-.flair-coulson1 {
-	background-position: -30px -1680px
-}
-.flair-sif {
-	background-position: 0px -1710px
-}
-.flair-sif1 {
-	background-position: -30px -1710px
-}
-.flair-elsa {
-	background-position: 0 -1740px
-}
-.flair-elsa1 {
-	background-position: -30px -1740px
-}
-.flair-elsa2 {
-	background-position: -60px -1740px
-}
-.flair-lash {
-	background-position: 0 -1770px
-}
-.flair-lash1 {
-	background-position: -30px -1770px
-}
-.flair-warwolf {
-	background-position: 0 -1800px
-}
-.flair-jessica {
-	background-position: 0 -1830px
-}
-.flair-silk {
-	background-position: 0 -1890px
-}
-.flair-silk1 {
-	background-position: -30px -1890px
-}
-.flair-gwen {
-	background-position: 0 -1920px
-}
-.flair-gwen1 {
-	background-position: -30px -1920px
-}
-.flair-miles {
-	background-position: 0 -1950px
-}
-.flair-miles1 {
-	background-position: -30px -1950px
-}
-.flair-cho {
-	background-position: 0 -1980px
-}
-.flair-cho1 {
-	background-position: -30px -1980px
-}
-.flair-carnage {
-	background-position: 0 -2010px
-}
-.flair-kamala {
-	background-position: 0 -2040px
-}
-.flair-kamala1 {
-	background-position: -30px -2040px
-}
-.flair-jane {
-	background-position: 0 -2070px
-}
-.flair-corvus {
-	background-position: 0 -2100px
-}
-.flair-corvus1 {
-	background-position: -30px -2100px
-}
-.flair-proxima {
-	background-position: 0 -2130px
-}
-.flair-proxima1 {
-	background-position: -30px -2130px
-}
-.flair-dwarf {
-	background-position: 0 -2160px
-}
-.flair-dwarf1 {
-	background-position: -30px -2160px
-}
-.flair-thanos {
-	background-position: 0 -2190px
-}
-.flair-thanos1 {
-	background-position: -30px -2190px
-}
-.flair-thanos2 {
-	background-position: -60px -2190px
-}
-.flair-thanos3 {
-	background-position: -90px -2190px
-}
-.flair-supergiant {
-	background-position: 0 -2220px
-}
-.flair-maw {
-	background-position: 0 -2250px
-}
-.flair-maw1 {
-	background-position: -30px -2250px
-}
-.flair-crossbones {
-	background-position: 0 -2280px
-}
-.flair-crossbones1 {
-	background-position: -30px -2280px
-}
-.flair-moonknight {
-	background-position: 0 -2310px
-}
-.flair-moonknight1 {
-	background-position: -30px -2310px
-}
-.flair-hyperion {
-	background-position: 0 -2340px
-}
-.flair-hyperion1 {
-	background-position: -30px -2340px
-}
-.flair-sharonrogers {
-	background-position: 0 -2370px
-}
-.flair-sharonrogers1 {
-	background-position: -30px -2370px
-}
-.flair-sharonrogers2 {
-	background-position: -60px -2370px
-}
-.flair-sharonrogers3 {
-	background-position: -90px -2370px
-}
-.flair-sin {
-	background-position: 0 -2400px
-}
-.flair-tiger {
-	background-position: 0 -2460px
-}
-.flair-wiccan {
-	background-position: 0 -2490px
-}
-.flair-hulkling {
-	background-position: 0 -2520px
-}
-.flair-songbird {
-	background-position: 0 -2550px
-}
-.flair-squirrel {
-	background-position: 0 -2580px
-}
-.flair-squirrel1 {
-	background-position: -30px -2580px
-}
-.flair-gwenpool {
-	background-position: 0 -2610px
-}
-.flair-gwenpool1 {
-	background-position: -30px -2610px
-}
-.flair-gwenpool2 {
-	background-position: -60px -2610px
-}
-.flair-shang {
-	background-position: 0 -2640px
-}
-.flair-misty {
-	background-position: 0 -2670px
-}
-.flair-strange {
-	background-position: -30px -2700px
-}
-.flair-strange1 {
-	background-position: 0px -2700px
-}
-.flair-strange2 {
-	background-position: -60px -2700px
-}
-.flair-wong {
-	background-position: -30px -2730px
-}
-.flair-wong1 {
-	background-position: 0px -2730px
-}
-.flair-mordo {
-	background-position: -30px -2760px
-}
-.flair-mordo1 {
-	background-position: 0px -2760px
-}
-.flair-ancient {
-	background-position: -30px -2790px
-}
-.flair-ancient1 {
-	background-position: 0px -2790px
-}
-.flair-kaecilius {
-	background-position: 0 -2820px
-}
-.flair-clea {
-	background-position: 0 -2850px
-}
-.flair-satana {
-	background-position: 0 -2880px
-}
-.flair-satana1 {
-	background-position: -30px -2880px
-}
-.flair-daimon {
-	background-position: 0 -2910px
-}
-.flair-odin {
-	background-position: 0 -2940px
-}
-.flair-volstagg {
-	background-position: 0 -2970px
-}
-.flair-hogun {
-	background-position: 0 -3000px
-}
-.flair-fandral {
-	background-position: 0 -3030px
-}
-.flair-hela {
-	background-position: 0 -3060px
-}
-.flair-hela1 {
-	background-position: -30px -3060px
-}
-.flair-enchantress {
-	background-position: 0 -3090px
-}
-.flair-ulik {
-	background-position: 0 -3120px
-}
-.flair-kate {
-	background-position: 0 -3150px
-}
-.flair-ironheart {
-	background-position: 0 -3180px
-}
-.flair-medusa {
-	background-position: 0 -3210px
-}
-.flair-medusa1 {
-	background-position: -30px -3210px
-}
-.flair-moongirl {
-	background-position: 0 -3240px
-}
-.flair-moongirl1 {
-	background-position: -30px -3240px
-}
-.flair-karnak {
-	background-position: 0 -3270px
-}
-.flair-karnak1 {
-	background-position: -30px -3270px
-}
-.flair-gorgon {
-	background-position: 0 -3300px
-}
-.flair-inferno {
-	background-position: 0 -3330px
-}
-.flair-inferno1 {
-	background-position: -30px -3330px
-}
-.flair-crystal {
-	background-position: 0 -3360px
-}
-.flair-crystal1 {
-	background-position: -30px -3360px
-}
-.flair-crystal2{
-	background-position: -60px -3360px
-}
-.flair-maximus {
-	background-position: 0 -3390px
-}
-.flair-dormammu {
-	background-position: 0 -3420px
-}
-.flair-robbie {
-	background-position: 0 -3450px
-}
-.flair-hellcat {
-	background-position: 0 -3480px
-}
-.flair-kaiju {
-	background-position: 0 -3510px
-}
-.flair-kaiju1 {
-	background-position: -30px -3510px
-}
-.flair-whiplash {
-	background-position: 0 -3540px
-}
-.flair-mantis {
-	background-position: 0 -3570px
-}
-.flair-agentvenom {
-	background-position: 0 -3600px
-}
-.flair-agentvenom1 {
-	background-position: -30px -3600px
-}
-.flair-cyclops {
-	background-position: 0 -3630px
-}
-.flair-cyclops1 {
-	background-position: -30px -3630px
-}
-.flair-cyclops2 {
-	background-position: -60px -3630px
-}
-.flair-cyclops3 {
-	background-position: -90px -3630px
-}
-.flair-jean {
-	background-position: 0 -3660px
-}
-.flair-jean1 {
-	background-position: -30px -3660px
-}
-.flair-wolverine {
-	background-position: 0 -3690px
-}
-.flair-wolverine1 {
-	background-position: -30px -3690px
-}
-.flair-wolverine2 {
-	background-position: -60px -3690px
-}
-.flair-wolverine3 {
-	background-position: -90px -3690px
-}
-.flair-storm {
-	background-position: 0 -3720px
-}
-.flair-storm1 {
-	background-position: -30px -3720px
-}
-.flair-beast {
-	background-position: 0 -3750px
-}
-.flair-beast1 {
-	background-position: -30px -3750px
-}
-.flair-beast2 {
-	background-position: -60px -3750px
-}
-.flair-rogue {
-	background-position: 0 -3780px
-}
-.flair-rogue1 {
-	background-position: -30px -3780px
-}
-.flair-rogue2 {
-	background-position: -60px -3780px
-}
-.flair-magneto {
-	background-position: 0 -3810px
-}
-.flair-magneto1 {
-	background-position: -30px -3810px
-}
-.flair-kraven {
-	background-position: 0 -3840px
-}
-.flair-lizard {
-	background-position: 0 -3870px
-}
-.flair-mysterio {
-	background-position: 0 -3900px
-}
-.flair-mysterio1 {
-	background-position: -30px -3900px
-}
-.flair-rhino {
-	background-position: 0 -3930px
-}
-.flair-sandman {
-	background-position: 0 -3960px
-}
-.flair-vulture {
-	background-position: 0 -3990px
-}
-.flair-vulture1 {
-	background-position: -30px -3990px
-}
-.flair-spidey2099 {
-	background-position: 0 -4020px
-}
-.flair-spidey20991 {
-	background-position: -30px -4020px
-}
-.flair-absorbingman {
-	background-position: 0 -4050px
-}
-.flair-titania {
-	background-position: 0 -4080px
-}
-.flair-scarletwitch {
-	background-position: 0 -4110px
-}
-.flair-scarletwitch1 {
-	background-position: -30px -4110px
-}
-.flair-scarletwitch2 {
-	background-position: -60px -4110px
-}
-.flair-quicksilver {
-	background-position: 0 -4170px
-}
-.flair-quicksilver1 {
-	background-position: -30px -4170px
-}
-.flair-quicksilver2 {
-	background-position: -60px -4170px
-}
-.flair-cable {
-	background-position: 0 -4140px
-}
-.flair-cable1 {
-	background-position: -30px -4140px
-}
-.flair-cable2 {
-	background-position: -60px -4140px
-}
-.flair-apocalypse {
-	background-position: 0 -4200px
-}
-.flair-apocalypse1 {
-	background-position: -30px -4200px
-}
-.flair-heimdall {
-	background-position: 0 -4230px
-}
-.flair-skurge {
-	background-position: 0 -4260px
-}
-.flair-valkyrie {
-	background-position: 0 -4290px
-}
-.flair-america {
-	background-position: 0 -4320px
-}
-.flair-antiman {
-	background-position: 0 -4350px
-}
-.flair-bluemarvel {
-	background-position: 0 -4380px
-}
-.flair-samalexander {
-	background-position: 0 -4410px
-}
-.flair-avril {
-	background-position: 0 -4440px
-}
-.flair-adam {
-	background-position: 0 -4470px
-}
-.flair-laura {
-	background-position: 0 -4500px
-}
-.flair-laura1 {
-	background-position: -30px -4500px
-}
-.flair-fenris {
-	background-position: 0 -4530px
-}
-.flair-frostbeast {
-	background-position: 0 -4560px
-}
-.flair-midgardserpent {
-	background-position: 0 -4590px
-}
-.flair-surtur {
-	background-position: 0 -4620px
-}
-.flair-ymir {
-	background-position: 0 -4650px
-}
-.flair-jocasta {
-	background-position: 0 -4680px
-}
-.flair-talos {
-	background-position: -30px -4680px
-}
-.flair-killmonger {
-	background-position: 0 -4710px
-}
-.flair-killmonger1 {
-	background-position: -30px -4710px
-}
-.flair-shuri {
-	background-position: 0 -4740px
-}
-.flair-shuri1 {
-	background-position: -30px -4740px
-}
-.flair-klaue {
-	background-position: 0 -4770px
-}
-.flair-luna {
-	background-position: 0 -4800px
-}
-.flair-luna1 {
-	background-position: -30px -4800px
-}
-.flair-luna2 {
-	background-position: -60px -4800px
-}
-.flair-angel {
-	background-position: 0 -4830px
-}
-.flair-angel1 {
-	background-position: -30px -4830px
-}
-.flair-colossus {
-	background-position: 0 -4860px
-}
-.flair-colossus1 {
-	background-position: -30px -4860px
-}
-.flair-colossus2 {
-	background-position: -60px -4860px
-}
-.flair-emma {
-	background-position: 0 -4890px
-}
-.flair-emma1 {
-	background-position: -30px -4890px
-}
-.flair-emma2 {
-	background-position: -60px -4890px
-}
-.flair-magik {
-	background-position: 0 -4920px
-}
-.flair-magik1 {
-	background-position: -30px -4920px
-}
-.flair-mbaku {
-	background-position: 0 -4950px
-}
-.flair-ghost {
-	background-position: 0 -4980px
-}
-.flair-ghost1 {
-	background-position: -30px -4980px
-}
-.flair-goliath {
-	background-position: 0 -5010px
-}
-.flair-nadiavan {
-	background-position: 0 -5040px
-}
-.flair-deadpool {
-	background-position: 0 -5070px
-}
-.flair-deadpool1 {
-	background-position: -30px -5070px
-}
-.flair-deadpool2 {
-	background-position: -60px -5070px
-}
-.flair-deadpool3 {
-	background-position: -90px -5070px
-}
-.flair-psylocke {
-	background-position: 0 -5100px
-}
-.flair-psylocke1 {
-	background-position: -30px -5100px
-}
-.flair-fantomex {
-	background-position: 0 -5130px
-}
-.flair-domino {
-	background-position: 0 -5160px
-}
-.flair-domino1 {
-	background-position: -30px -5160px
-}
-.flair-stryfe {
-	background-position: 0 -5190px
-}
-.flair-arachknight {
-	background-position: 0 -5220px
-}
-.flair-ghostpanther {
-	background-position: 0 -5250px
-}
-.flair-ironhammer {
-	background-position: 0 -5280px
-}
-.flair-weaponhex {
-	background-position: 0 -5310px
-}
-.flair-gambit {
-	background-position: 0 -5340px
-}
-.flair-nightcrawler {
-	background-position: 0 -5370px
-}
-.flair-nightcrawler1 {
-	background-position: -30px -5370px
-}
-.flair-sentinel {
-	background-position: 0 -5400px
-}
-.flair-crescent {
-	background-position: 0 -5430px
-}
-.flair-crescent1 {
-	background-position: -30px -5430px
-}
-.flair-whitefox {
-	background-position: 0 -5460px
-}
-.flair-whitefox1 {
-	background-position: -30px -5460px
-}
-.flair-morgan {
-	background-position: 0 -5490px
-}
-.flair-reed{
-	background-position: 0 -5970px
-}
-.flair-reed1{
-	background-position: -30px -5970px
-}
-.flair-sue{
-	background-position: 0 -6000px
-}
-.flair-sue1{
-	background-position: -30px -6000px
-}
-.flair-torch{
-	background-position: 0 -6030px
-}
-.flair-torch1{
-	background-position: -30px -6030px
-}
-.flair-thing{
-	background-position: 0 -6060px
-}
-.flair-thing1{
-	background-position: -30px -6060px
-}
-.flair-doom{
-	background-position: 0 -6090px
-}
-.flair-victorious{
-	background-position: 0 -6120px
-}
-.flair-fury{
-	background-position: 0 -6150px
-}
-.flair-fury1{
-	background-position: -30px -6150px
-}
-.flair-erva{
-	background-position: 0 -6180px
-}
-.flair-erva1{
-	background-position: -30px -6180px
-}
-.flair-korath{
-	background-position: 0 -6210px
-}
-.flair-juggernaut{
-	background-position: 0 -6240px
-}
-.flair-warpath{
-	background-position: 0 -6270px
-}
-.flair-sabretooth{
-	background-position: 0 -6300px
-}
-.flair-sabretooth1{
-	background-position: -30px -6300px
-}
-.flair-rescue{
-	background-position: 0 -6330px
-}
-.flair-bishop{
-	background-position: 0 -6360px
-}
-.flair-jubilee{
-	background-position: 0 -6390px
-}
-.flair-iceman{
-	background-position: 0 -6420px
-}
-.flair-moltenman{
-	background-position: 0 -6450px
-}
-.flair-hydroman{
-	background-position: 0 -6480px
-}
-.flair-electro{
-	background-position: 0 -6510px
-}
-.flair-namor{
-	background-position: 0 -6540px
-}
-.flair-namor1{
-	background-position: -30px -6540px
-}
-.flair-wave{
-	background-position: 0 -6570px
-}
-.flair-surfer{
-	background-position: 0 -6600px
-}
-.flair-rachel{
-	background-position: 0 -6630px
-}
-.flair-kitty{
-	background-position: 0 -6660px
-}
-.flair-kido{
-	background-position: 0 -6690px
-}
-.flair-aero{
-	background-position: 0 -6720px
-}
-.flair-swordmaster{
-	background-position: 0 -6750px
-}
-.flair-voodoo{
-	background-position: 0 -6780px
-}
-.flair-slap{
-	background-position: 0 -6810px
-}
-.flair-negasonic{
-	background-position: 0 -6840px
-}
-.flair-gorilla{
-	background-position: 0 -6870px
-}
-.flair-bluedragon{
-	background-position: 0 -6900px
-}
-.flair-sunbird{
-	background-position: 0 -6930px
-}
-.flair-shadowshell{
-	background-position: 0 -6960px
-}
-.flair-wartiger{
-	background-position: 0 -6990px
-}
-.comment .flair {left: 67px}
-.link .flair {left: 145px}
-.flair:before {left: 47px}
-.flair:after {left: 245px}
-
-.flair-character {background-image:url(https://futurefightflair.github.io/flairs.png)!important}
-.flair-uniform {background-image:url(https://futurefightflair.github.io/flairs.png)!important}
-
-.flair1-character {background-image:url(https://futurefightflair.github.io/flairshq.jpg)!important}
-
-
-
-
-.flair1-absorbingman {background-position:0px 0px}
-.flair1-adam {background-position:-100px 0px}
-.flair1-agentvenom {background-position:-200px 0px}
-.flair1-agentvenom1 {background-position:-200px -100px}
-.flair1-cho {background-position:-300px 0px}
-.flair1-cho1 {background-position:-300px -100px}
-.flair1-america {background-position:-400px 0px}
-.flair1-ancient {background-position:-500px 0px}
-.flair1-ancient1 {background-position:-500px -100px}
-.flair1-angel {background-position:-600px 0px}
-.flair1-angel1 {background-position:-600px -100px}
-.flair1-angela {background-position:-700px 0px}
-.flair1-angela1 {background-position:-700px -100px}
-.flair1-angela2 {background-position:-700px -200px}
-.flair1-antiman {background-position:-800px 0px}
-.flair1-ant {background-position:-900px 0px}
-.flair1-ant1 {background-position:-900px -100px}
-.flair1-ant2 {background-position:-900px -200px}
-.flair1-ant3 {background-position:-900px -300px}
-.flair1-ant4 {background-position:-900px -400px}
-.flair1-ant5 {background-position:-900px -500px}
-.flair1-apocalypse {background-position:-1000px 0px}
-.flair1-apocalypse1 {background-position:-1000px -100px}
-.flair1-arachknight {background-position:-1100px 0px}
-.flair1-mordo {background-position:-1200px 0px}
-.flair1-mordo1 {background-position:-1200px -100px}
-.flair1-beast {background-position:-1300px 0px}
-.flair1-beast1 {background-position:-1300px -100px}
-.flair1-beast2 {background-position:-1300px -200px}
-.flair1-bolt {background-position:-1400px 0px}
-.flair1-bolt1 {background-position:-1400px -100px}
-.flair1-bolt2 {background-position:-1400px -200px}
-.flair1-cat {background-position:-1500px 0px}
-.flair1-cat1 {background-position:-1500px -100px}
-.flair1-cat2 {background-position:-1500px -200px}
-.flair1-dwarf {background-position:-1600px 0px}
-.flair1-dwarf1 {background-position:-1600px -100px}
-.flair1-panther {background-position:-1700px 0px}
-.flair1-panther1 {background-position:-1700px -100px}
-.flair1-panther2 {background-position:-1700px -200px}
-.flair1-widow {background-position:-1800px 0px}
-.flair1-widow1 {background-position:-1800px -100px}
-.flair1-widow2 {background-position:-1800px -200px}
-.flair1-widow3 {background-position:-1800px -300px}
-.flair1-widow4 {background-position:-1800px -400px}
-.flair1-widow5 {background-position:-1800px -500px}
-.flair1-widow6 {background-position:-1800px -600px}
-.flair1-widow7 {background-position:-1800px -700px}
-.flair1-blade {background-position:-1900px 0px}
-.flair1-blade1 {background-position:-1900px -100px}
-.flair1-bluemarvel {background-position:-2000px 0px}
-.flair1-bullseye {background-position:-2100px 0px}
-.flair1-bullseye1 {background-position:-2100px -100px}
-.flair1-cable {background-position:-2200px 0px}
-.flair1-cable1 {background-position:-2200px -100px}
-.flair1-cable2 {background-position:-2200px -200px}
-.flair1-cap {background-position:-2300px 0px}
-.flair1-cap1 {background-position:-2300px -100px}
-.flair1-cap2 {background-position:-2300px -200px}
-.flair1-cap3 {background-position:-2300px -300px}
-.flair1-cap4 {background-position:-2300px -400px}
-.flair1-cap5 {background-position:-2300px -500px}
-.flair1-cap6 {background-position:-2300px -600px}
-.flair1-cap7 {background-position:-2300px -700px}
-.flair1-cap8 {background-position:-2300px -800px}
-.flair1-cap9 {background-position:-2300px -900px}
-.flair1-danvers {background-position:-2400px 0px}
-.flair1-danvers1 {background-position:-2400px -100px}
-.flair1-danvers2 {background-position:-2400px -200px}
-.flair1-danvers3 {background-position:-2400px -300px}
-.flair1-danvers4 {background-position:-2400px -400px}
-.flair1-carnage {background-position:-2500px 0px}
-.flair1-clea {background-position:-2600px 0px}
-.flair1-colossus {background-position:-2700px 0px}
-.flair1-colossus1 {background-position:-2700px -100px}
-.flair1-colossus2 {background-position:-2700px -200px}
-.flair1-corvus {background-position:-2800px 0px}
-.flair1-corvus1 {background-position:-2800px -100px}
-.flair1-crescent {background-position:-2900px 0px}
-.flair1-crescent1 {background-position:-2900px -100px}
-.flair1-crossbones {background-position:-3000px 0px}
-.flair1-crossbones1 {background-position:-3000px -100px}
-.flair1-crystal {background-position:-3100px 0px}
-.flair1-crystal1 {background-position:-3100px -100px}
-.flair1-crystal2 {background-position:-3100px -200px}
-.flair1-cyclops {background-position:-3200px 0px}
-.flair1-cyclops1 {background-position:-3200px -100px}
-.flair1-cyclops2 {background-position:-3200px -200px}
-.flair1-cyclops3 {background-position:-3200px -300px}
-.flair1-daisy {background-position:-3300px 0px}
-.flair1-daisy1 {background-position:-3300px -100px}
-.flair1-daisy2 {background-position:-3300px -200px}
-.flair1-devil {background-position:-3400px 0px}
-.flair1-devil1 {background-position:-3400px -100px}
-.flair1-devil2 {background-position:-3400px -200px}
-.flair1-deadpool {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S00.png"); background-size: 100px}
+.flair1-absorbingman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_absorbingman01.png"); background-size: 100px}
+.flair-absorbingman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_absorbingman01.png"); background-size: 30px}
+.flair1-adam {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_adamwarlock01.png"); background-size: 100px}
+.flair-adam {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_adamwarlock01.png"); background-size: 30px}
+.flair1-aero {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_aero01.png"); background-size: 100px}
+.flair-aero {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_aero01.png"); background-size: 30px}
+.flair1-sharon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharoncarter01.png"); background-size: 100px}
+.flair-sharon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharoncarter01.png"); background-size: 30px}
+.flair1-sharon1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharoncarter01_S01.png"); background-size: 100px}
+.flair-sharon1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharoncarter01_S01.png"); background-size: 30px}
+.flair1-agentvenom {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_agentvenom01.png"); background-size: 100px}
+.flair-agentvenom {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_agentvenom01.png"); background-size: 30px}
+.flair1-agentvenom1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_agentvenom01_S01.png"); background-size: 100px}
+.flair-agentvenom1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_agentvenom01_S01.png"); background-size: 30px}
+.flair1-america {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_americachavez01.png"); background-size: 100px}
+.flair-america {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_americachavez01.png"); background-size: 30px}
+.flair1-ancient {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ancientone01.png"); background-size: 100px}
+.flair-ancient {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ancientone01.png"); background-size: 30px}
+.flair1-ancient1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ancientone01_S01.png"); background-size: 100px}
+.flair-ancient1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ancientone01_S01.png"); background-size: 30px}
+.flair1-angel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angel01.png"); background-size: 100px}
+.flair-angel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angel01.png"); background-size: 30px}
+.flair1-angel1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angel01_S01.png"); background-size: 100px}
+.flair-angel1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angel01_S01.png"); background-size: 30px}
+.flair1-angela {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angela01.png"); background-size: 100px}
+.flair-angela {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angela01.png"); background-size: 30px}
+.flair1-angela1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angela01_S01.png"); background-size: 100px}
+.flair-angela1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angela01_S01.png"); background-size: 30px}
+.flair1-angela2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angela01_S02.png"); background-size: 100px}
+.flair-angela2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_angela01_S02.png"); background-size: 30px}
+.flair1-antiman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_antiman01.png"); background-size: 100px}
+.flair-antiman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_antiman01.png"); background-size: 30px}
+.flair1-ant {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01.png"); background-size: 100px}
+.flair-ant {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01.png"); background-size: 30px}
+.flair1-ant1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S01.png"); background-size: 100px}
+.flair-ant1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S01.png"); background-size: 30px}
+.flair1-ant2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S02.png"); background-size: 100px}
+.flair-ant2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S02.png"); background-size: 30px}
+.flair1-ant3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S03.png"); background-size: 100px}
+.flair-ant3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S03.png"); background-size: 30px}
+.flair1-ant4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S04.png"); background-size: 100px}
+.flair-ant4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S04.png"); background-size: 30px}
+.flair1-ant5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S05.png"); background-size: 100px}
+.flair-ant5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_antman01_S05.png"); background-size: 30px}
+.flair1-apocalypse {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_apocalypse01.png"); background-size: 100px}
+.flair-apocalypse {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_apocalypse01.png"); background-size: 30px}
+.flair1-apocalypse1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_apocalypse01_S01.png"); background-size: 100px}
+.flair-apocalypse1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_apocalypse01_S01.png"); background-size: 30px}
+.flair1-arachknight {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_arachknight01.png"); background-size: 100px}
+.flair-arachknight {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_arachknight01.png"); background-size: 30px}
+.flair1-mordo {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_baronmordo01.png"); background-size: 100px}
+.flair-mordo {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_baronmordo01.png"); background-size: 30px}
+.flair1-mordo1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_baronmordo01_S01.png"); background-size: 100px}
+.flair-mordo1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_baronmordo01_S01.png"); background-size: 30px}
+.flair1-beast {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_beast01.png"); background-size: 100px}
+.flair-beast {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_beast01.png"); background-size: 30px}
+.flair1-beast1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_beast01_S01.png"); background-size: 100px}
+.flair-beast1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_beast01_S01.png"); background-size: 30px}
+.flair1-beast2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_beast01_S02.png"); background-size: 100px}
+.flair-beast2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_beast01_S02.png"); background-size: 30px}
+.flair1-bishop {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_bishop01.png"); background-size: 100px}
+.flair-bishop {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_bishop01.png"); background-size: 30px}
+.flair1-bolt {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackbolt01.png"); background-size: 100px}
+.flair-bolt {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackbolt01.png"); background-size: 30px}
+.flair1-bolt1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackbolt01_S01.png"); background-size: 100px}
+.flair-bolt1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackbolt01_S01.png"); background-size: 30px}
+.flair1-bolt2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackbolt01_S02.png"); background-size: 100px}
+.flair-bolt2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackbolt01_S02.png"); background-size: 30px}
+.flair1-cat {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackcat01.png"); background-size: 100px}
+.flair-cat {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackcat01.png"); background-size: 30px}
+.flair1-cat1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackcat01_S01.png"); background-size: 100px}
+.flair-cat1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackcat01_S01.png"); background-size: 30px}
+.flair1-cat2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackcat01_S02.png"); background-size: 100px}
+.flair-cat2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackcat01_S02.png"); background-size: 30px}
+.flair1-dwarf {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_blackdwarf01.png"); background-size: 100px}
+.flair-dwarf {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_blackdwarf01.png"); background-size: 30px}
+.flair1-dwarf1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_blackdwarf01_S01.png"); background-size: 100px}
+.flair-dwarf1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_blackdwarf01_S01.png"); background-size: 30px}
+.flair1-panther {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackpanther01.png"); background-size: 100px}
+.flair-panther {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackpanther01.png"); background-size: 30px}
+.flair1-panther1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackpanther01_S01.png"); background-size: 100px}
+.flair-panther1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackpanther01_S01.png"); background-size: 30px}
+.flair1-panther2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackpanther01_S02.png"); background-size: 100px}
+.flair-panther2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackpanther01_S02.png"); background-size: 30px}
+.flair1-widow {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01.png"); background-size: 100px}
+.flair-widow {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01.png"); background-size: 30px}
+.flair1-widow1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S01.png"); background-size: 100px}
+.flair-widow1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S01.png"); background-size: 30px}
+.flair1-widow2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S02.png"); background-size: 100px}
+.flair-widow2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S02.png"); background-size: 30px}
+.flair1-widow3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S03.png"); background-size: 100px}
+.flair-widow3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S03.png"); background-size: 30px}
+.flair1-widow4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S04.png"); background-size: 100px}
+.flair-widow4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S04.png"); background-size: 30px}
+.flair1-widow5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S05.png"); background-size: 100px}
+.flair-widow5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S05.png"); background-size: 30px}
+.flair1-widow6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S06.png"); background-size: 100px}
+.flair-widow6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S06.png"); background-size: 30px}
+.flair1-widow7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S07.png"); background-size: 100px}
+.flair-widow7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blackwidow01_S07.png"); background-size: 30px}
+.flair1-blade {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blade01.png"); background-size: 100px}
+.flair-blade {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blade01.png"); background-size: 30px}
+.flair1-blade1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blade01_S01.png"); background-size: 100px}
+.flair-blade1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_blade01_S01.png"); background-size: 30px}
+.flair1-bluedragon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_bluedragon01.png"); background-size: 100px}
+.flair-bluedragon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_bluedragon01.png"); background-size: 30px}
+.flair1-bluemarvel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_bluemarvel01.png"); background-size: 100px}
+.flair-bluemarvel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_bluemarvel01.png"); background-size: 30px}
+.flair1-bullseye {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_bullseye01.png"); background-size: 100px}
+.flair-bullseye {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_bullseye01.png"); background-size: 30px}
+.flair1-bullseye1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_bullseye01_S01.png"); background-size: 100px}
+.flair-bullseye1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_bullseye01_S01.png"); background-size: 30px}
+.flair1-cable {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cable01.png"); background-size: 100px}
+.flair-cable {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cable01.png"); background-size: 30px}
+.flair1-cable1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cable01_S01.png"); background-size: 100px}
+.flair-cable1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cable01_S01.png"); background-size: 30px}
+.flair1-cable2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cable01_S02.png"); background-size: 100px}
+.flair-cable2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cable01_S02.png"); background-size: 30px}
+.flair1-cap {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01.png"); background-size: 100px}
+.flair-cap {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01.png"); background-size: 30px}
+.flair1-cap1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S01.png"); background-size: 100px}
+.flair-cap1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S01.png"); background-size: 30px}
+.flair1-cap2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S02.png"); background-size: 100px}
+.flair-cap2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S02.png"); background-size: 30px}
+.flair1-cap3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S03.png"); background-size: 100px}
+.flair-cap3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S03.png"); background-size: 30px}
+.flair1-cap4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S04.png"); background-size: 100px}
+.flair-cap4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S04.png"); background-size: 30px}
+.flair1-cap5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S05.png"); background-size: 100px}
+.flair-cap5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S05.png"); background-size: 30px}
+.flair1-cap6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S06.png"); background-size: 100px}
+.flair-cap6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S06.png"); background-size: 30px}
+.flair1-cap7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S07.png"); background-size: 100px}
+.flair-cap7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S07.png"); background-size: 30px}
+.flair1-cap8 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S08.png"); background-size: 100px}
+.flair-cap8 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S08.png"); background-size: 30px}
+.flair1-cap9 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S09.png"); background-size: 100px}
+.flair-cap9 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainAmerica01_S09.png"); background-size: 30px}
+.flair1-sharonrogers {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01.png"); background-size: 100px}
+.flair-sharonrogers {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01.png"); background-size: 30px}
+.flair1-sharonrogers1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01_S01.png"); background-size: 100px}
+.flair-sharonrogers1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01_S01.png"); background-size: 30px}
+.flair1-sharonrogers2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01_S02.png"); background-size: 100px}
+.flair-sharonrogers2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01_S02.png"); background-size: 30px}
+.flair1-sharonrogers3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01_S03.png"); background-size: 100px}
+.flair-sharonrogers3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sharonrogers01_S03.png"); background-size: 30px}
+.flair1-danvers {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01.png"); background-size: 100px}
+.flair-danvers {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01.png"); background-size: 30px}
+.flair1-danvers1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S01.png"); background-size: 100px}
+.flair-danvers1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S01.png"); background-size: 30px}
+.flair1-danvers2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S02.png"); background-size: 100px}
+.flair-danvers2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S02.png"); background-size: 30px}
+.flair1-danvers3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S03.png"); background-size: 100px}
+.flair-danvers3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S03.png"); background-size: 30px}
+.flair1-danvers4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S04.png"); background-size: 100px}
+.flair-danvers4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_captainmarvel01_S04.png"); background-size: 30px}
+.flair1-carnage {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_carnage01.png"); background-size: 100px}
+.flair-carnage {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_carnage01.png"); background-size: 30px}
+.flair1-clea {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_clea01.png"); background-size: 100px}
+.flair-clea {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_clea01.png"); background-size: 30px}
+.flair1-colossus {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_colossus01.png"); background-size: 100px}
+.flair-colossus {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_colossus01.png"); background-size: 30px}
+.flair1-colossus1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_colossus01_S01.png"); background-size: 100px}
+.flair-colossus1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_colossus01_S01.png"); background-size: 30px}
+.flair1-colossus2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_colossus01_S02.png"); background-size: 100px}
+.flair-colossus2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_colossus01_S02.png"); background-size: 30px}
+.flair1-corvus {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_corvusglaive01.png"); background-size: 100px}
+.flair-corvus {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_corvusglaive01.png"); background-size: 30px}
+.flair1-corvus1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_corvusglaive01_s01.png"); background-size: 100px}
+.flair-corvus1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_corvusglaive01_s01.png"); background-size: 30px}
+.flair1-crescent {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crescent01.png"); background-size: 100px}
+.flair-crescent {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crescent01.png"); background-size: 30px}
+.flair1-crescent1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crescent01_S01.png"); background-size: 100px}
+.flair-crescent1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crescent01_S01.png"); background-size: 30px}
+.flair1-crossbones {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_CrossBones01.png"); background-size: 100px}
+.flair-crossbones {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_CrossBones01.png"); background-size: 30px}
+.flair1-crossbones1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_crossbones01_s01.png"); background-size: 100px}
+.flair-crossbones1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_crossbones01_s01.png"); background-size: 30px}
+.flair1-crystal {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crystal01.png"); background-size: 100px}
+.flair-crystal {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crystal01.png"); background-size: 30px}
+.flair1-crystal1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crystal01_S01.png"); background-size: 100px}
+.flair-crystal1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crystal01_S01.png"); background-size: 30px}
+.flair1-crystal2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crystal01_S02.png"); background-size: 100px}
+.flair-crystal2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_crystal01_S02.png"); background-size: 30px}
+.flair1-cyclops {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01.png"); background-size: 100px}
+.flair-cyclops {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01.png"); background-size: 30px}
+.flair1-cyclops1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01_S01.png"); background-size: 100px}
+.flair-cyclops1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01_S01.png"); background-size: 30px}
+.flair1-cyclops2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01_S02.png"); background-size: 100px}
+.flair-cyclops2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01_S02.png"); background-size: 30px}
+.flair1-cyclops3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01_S03.png"); background-size: 100px}
+.flair-cyclops3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_cyclops01_S03.png"); background-size: 30px}
+.flair1-daisy {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daisyjohnson01.png"); background-size: 100px}
+.flair-daisy {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daisyjohnson01.png"); background-size: 30px}
+.flair1-daisy1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daisyjohnson01_S01.png"); background-size: 100px}
+.flair-daisy1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daisyjohnson01_S01.png"); background-size: 30px}
+.flair1-daisy2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daisyjohnson01_S02.png"); background-size: 100px}
+.flair-daisy2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daisyjohnson01_S02.png"); background-size: 30px}
+.flair1-devil {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daredevil01.png"); background-size: 100px}
+.flair-devil {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daredevil01.png"); background-size: 30px}
+.flair1-devil1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daredevil01_S01.png"); background-size: 100px}
+.flair-devil1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daredevil01_S01.png"); background-size: 30px}
+.flair1-devil2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daredevil01_S02.png"); background-size: 100px}
+.flair-devil2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_daredevil01_S02.png"); background-size: 30px}
+.flair1-deadpool {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01.png"); background-size: 100px}
+.flair-deadpool {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01.png"); background-size: 30px}
 .flair1-deadpool1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S01.png"); background-size: 100px}
+.flair-deadpool1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S01.png"); background-size: 30px}
 .flair1-deadpool2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S02.png"); background-size: 100px}
+.flair-deadpool2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S02.png"); background-size: 30px}
 .flair1-deadpool3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S03.png"); background-size: 100px}
-.flair1-deathlok {background-position:-3600px 0px}
-.flair1-deathlok1 {background-position:-3600px -100px}
-.flair1-destroyer {background-position:-3700px 0px}
-.flair1-destroyer1 {background-position:-3700px -100px}
-.flair1-doom {background-position:-3800px 0px}
-.flair1-ock {background-position:-3900px 0px}
-.flair1-ock1 {background-position:-3900px -100px}
-.flair1-strange {background-position:-4000px 0px}
-.flair1-strange1 {background-position:-4000px -100px}
-.flair1-strange2 {background-position:-4000px -200px}
-.flair1-domino {background-position:-4100px 0px}
-.flair1-domino1 {background-position:-4100px -100px}
-.flair1-dormammu {background-position:-4200px 0px}
-.flair1-drax {background-position:-4300px 0px}
-.flair1-drax1 {background-position:-4300px -100px}
-.flair1-maw {background-position:-4400px 0px}
-.flair1-maw1 {background-position:-4400px -100px}
-.flair1-elektra {background-position:-4500px 0px}
-.flair1-elektra1 {background-position:-4500px -100px}
-.flair1-elsa {background-position:-4600px 0px}
-.flair1-elsa1 {background-position:-4600px -100px}
-.flair1-elsa2 {background-position:-4600px -200px}
-.flair1-emma {background-position:-4700px 0px}
-.flair1-emma1 {background-position:-4700px -100px}
-.flair1-emma2 {background-position:-4700px -200px}
-.flair1-enchantress {background-position:-4800px 0px}
-.flair1-falcon {background-position:-4900px 0px}
-.flair1-falcon1 {background-position:-4900px -100px}
-.flair1-falcon2 {background-position:-4900px -200px}
-.flair1-falcon3 {background-position:-4900px -300px}
-.flair1-fandral {background-position:-5000px 0px}
-.flair1-fantomex {background-position:-5100px 0px}
-.flair1-fenris {background-position:-5200px 0px}
-.flair1-frostbeast {background-position:-5200px -100px}
-.flair1-gambit {background-position:-5400px 0px}
-.flair1-gamora {background-position:-5500px 0px}
-.flair1-gamora1 {background-position:-5500px -100px}
-.flair1-gamora2 {background-position:-5500px -200px}
-.flair1-ghost {background-position:-5600px 0px}
-.flair1-ghost1 {background-position:-5600px -100px}
-.flair1-ghostpanther {background-position:-5700px 0px}
-.flair1-rider {background-position:-5800px 0px}
-.flair1-rider1 {background-position:-5800px -100px}
-.flair1-rider2 {background-position:-5800px -200px}
-.flair1-giant {background-position:-5900px 0px}
-.flair1-giant1 {background-position:-5900px -100px}
-.flair1-giant2 {background-position:-5900px -200px}
-.flair1-goliath {background-position:-6000px 0px}
-.flair1-gorgon {background-position:-6100px 0px}
-.flair1-goblin {background-position:-6200px 0px}
-.flair1-goblin1 {background-position:-6200px -100px}
-.flair1-groot {background-position:-6300px 0px}
-.flair1-groot1 {background-position:-6300px -100px}
-.flair1-groot2 {background-position:-6300px -200px}
-.flair1-groot3 {background-position:-6300px -300px}
-.flair1-gwenpool {background-position:-6400px 0px}
-.flair1-gwenpool1 {background-position:-6400px -100px}
-.flair1-gwenpool2 {background-position:-6400px -200px}
-.flair1-hawkeye {background-position:-6500px 0px}
-.flair1-hawkeye1 {background-position:-6500px -100px}
-.flair1-hawkeye2 {background-position:-6500px -200px}
-.flair1-hawkeye3 {background-position:-6500px -300px}
-.flair1-hawkeye4 {background-position:-6500px -400px}
-.flair1-heimdall {background-position:-6600px 0px}
-.flair1-hela {background-position:-6700px 0px}
-.flair1-hela1 {background-position:-6700px -100px}
-.flair1-hellcat {background-position:-6800px 0px}
-.flair1-daimon {background-position:-6900px 0px}
-.flair1-hogun {background-position:-7000px 0px}
-.flair1-hulk {background-position:-7100px 0px}
-.flair1-hulk1 {background-position:-7100px -100px}
-.flair1-hulk2 {background-position:-7100px -200px}
-.flair1-hulk3 {background-position:-7100px -300px}
-.flair1-hulk4 {background-position:-7100px -400px}
-.flair1-hulk5 {background-position:-7100px -500px}
-.flair1-hb {background-position:-7200px 0px}
-.flair1-hb1 {background-position:-7200px -100px}
-.flair1-hb2 {background-position:-7200px -200px}
-.flair1-hulkling {background-position:-7300px 0px}
-.flair1-torch {background-position:-7400px 0px}
-.flair1-torch1 {background-position:-7400px -100px}
-.flair1-hyperion {background-position:-7500px 0px}
-.flair1-hyperion1 {background-position:-7500px -100px}
-.flair1-inferno {background-position:-7600px 0px}
-.flair1-inferno1 {background-position:-7600px -100px}
-.flair1-sue {background-position:-7700px 0px}
-.flair1-sue1 {background-position:-7700px -100px}
-.flair1-fist {background-position:-7800px 0px}
-.flair1-fist1 {background-position:-7800px -100px}
-.flair1-fist2 {background-position:-7800px -200px}
-.flair1-fist3 {background-position:-7800px -300px}
-.flair1-ironhammer {background-position:-7900px 0px}
-.flair1-ironheart {background-position:-8000px 0px}
-.flair1-im {background-position:-8100px 0px}
-.flair1-im1 {background-position:-8100px -100px}
-.flair1-im2 {background-position:-8100px -200px}
-.flair1-im3 {background-position:-8100px -300px}
-.flair1-im4 {background-position:-8100px -400px}
-.flair1-im5 {background-position:-8100px -500px}
-.flair1-im6 {background-position:-8100px -600px}
-.flair1-im7 {background-position:-8100px -700px}
-.flair1-jane {background-position:-8200px 0px}
-.flair1-jean {background-position:-8300px 0px}
-.flair1-jean1 {background-position:-8300px -100px}
-.flair1-jessica {background-position:-8400px 0px}
-.flair1-jocasta {background-position:-5200px -400px}
-.flair1-kaecilius {background-position:-8500px 0px}
-.flair1-kamala {background-position:-8600px 0px}
-.flair1-kamala1 {background-position:-8600px -100px}
-.flair1-karnak {background-position:-8700px 0px}
-.flair1-karnak1 {background-position:-8700px -100px}
-.flair1-kate {background-position:-8800px 0px}
-.flair1-kaiju {background-position:-8900px 0px}
-.flair1-kaiju1 {background-position:-8900px -100px}
-.flair1-killmonger {background-position:-9000px 0px}
-.flair1-killmonger1 {background-position:-9000px -100px}
-.flair1-kingpin {background-position:-9100px 0px}
-.flair1-kingpin1 {background-position:-9100px -100px}
-.flair1-kraven {background-position:-9200px 0px}
-.flair1-lash {background-position:-9300px 0px}
-.flair1-lash1 {background-position:-9300px -100px}
-.flair1-lincoln {background-position:-9400px 0px}
-.flair1-lizard {background-position:-9500px 0px}
-.flair1-loki {background-position:-9600px 0px}
-.flair1-loki1 {background-position:-9600px -100px}
-.flair1-loki2 {background-position:-9600px -200px}
-.flair1-loki3 {background-position:-9600px -300px}
-.flair1-luke {background-position:-9700px 0px}
-.flair1-luke1 {background-position:-9700px -100px}
-.flair1-luke2 {background-position:-9700px -200px}
-.flair1-luna {background-position:-9800px 0px}
-.flair1-luna1 {background-position:-9800px -100px}
-.flair1-luna2 {background-position:-9800px -200px}
-.flair1-magik {background-position:-9900px 0px}
-.flair1-magik1 {background-position:-9900px -100px}
-.flair1-magneto {background-position:-10000px 0px}
-.flair1-magneto1 {background-position:-10000px -100px}
-.flair1-malekith {background-position:-10100px 0px}
-.flair1-malekith1 {background-position:-10100px -100px}
-.flair1-mantis {background-position:-10200px 0px}
-.flair1-maximus {background-position:-10300px 0px}
-.flair1-medusa {background-position:-10400px 0px}
-.flair1-medusa1 {background-position:-10400px -100px}
-.flair1-melindamay {background-position:-5300px -100px}
-.flair1-miles {background-position:-10500px 0px}
-.flair1-miles1 {background-position:-10500px -100px}
-.flair1-reed {background-position:-10600px 0px}
-.flair1-reed1 {background-position:-10600px -100px}
-.flair1-misty {background-position:-10700px 0px}
-.flair1-mockingbird {background-position:-10800px 0px}
-.flair1-mockingbird1 {background-position:-10800px -100px}
-.flair1-mockingbird2 {background-position:-10800px -200px}
-.flair1-modok {background-position:-10900px 0px}
-.flair1-modok1 {background-position:-10900px -100px}
-.flair1-modok2 {background-position:-10900px -200px}
-.flair1-moongirl {background-position:-11000px 0px}
-.flair1-moongirl1 {background-position:-11000px -100px}
-.flair1-moonknight {background-position:-11100px 0px}
-.flair1-moonknight1 {background-position:-11100px -100px}
-.flair1-morgan {background-position:-11200px 0px}
-.flair1-mysterio {background-position:-11300px 0px}
-.flair1-mysterio1 {background-position:-11300px -100px}
-.flair1-nadiavan {background-position:-11400px 0px}
-.flair1-nebula {background-position:-11500px 0px}
-.flair1-nebula1 {background-position:-11500px -100px}
-.flair1-nebula2 {background-position:-11500px -200px}
-.flair1-nebula3 {background-position:-11500px -300px}
-.flair1-talos {background-position:-5300px -200px}
-.flair1-mbaku {background-position:-5300px -300px}
-.flair1-nightcrawler {background-position:-11600px 0px}
-.flair1-nightcrawler1 {background-position:-11600px -100px}
-.flair1-samalexander {background-position:-11700px 0px}
-.flair1-odin {background-position:-11800px 0px}
-.flair1-coulson {background-position:-11900px 0px}
-.flair1-coulson1 {background-position:-11900px -100px}
-.flair1-proxima {background-position:-12000px 0px}
-.flair1-proxima1 {background-position:-12000px -100px}
-.flair1-psylocke {background-position:-12100px 0px}
-.flair1-psylocke1 {background-position:-12100px -100px}
-.flair1-punisher {background-position:-12200px 0px}
-.flair1-punisher1 {background-position:-12200px -100px}
-.flair1-punisher2 {background-position:-12200px -200px}
-.flair1-punisher3 {background-position:-12200px -300px}
-.flair1-punisher4 {background-position:-12200px -400px}
-.flair1-avril {background-position:-12300px 0px}
-.flair1-quicksilver {background-position:-12400px 0px}
-.flair1-quicksilver1 {background-position:-12400px -100px}
-.flair1-quicksilver2 {background-position:-12400px -200px}
-.flair1-rulk {background-position:-12500px 0px}
-.flair1-rulk1 {background-position:-12500px -100px}
-.flair1-skull {background-position:-12600px 0px}
-.flair1-skull1 {background-position:-12600px -100px}
-.flair1-rhino {background-position:-12700px 0px}
-.flair1-robbie {background-position:-12800px 0px}
-.flair1-rocket {background-position:-12900px 0px}
-.flair1-rocket1 {background-position:-12900px -100px}
-.flair1-rocket2 {background-position:-12900px -200px}
-.flair1-rocket3 {background-position:-12900px -300px}
-.flair1-rocket4 {background-position:-12900px -400px}
-.flair1-rocket5 {background-position:-12900px -500px}
-.flair1-rogue {background-position:-13000px 0px}
-.flair1-rogue1 {background-position:-13000px -100px}
-.flair1-rogue2 {background-position:-13000px -200px}
-.flair1-ronan {background-position:-13100px 0px}
-.flair1-ronan1 {background-position:-13100px -100px}
-.flair1-ronan2 {background-position:-13100px -200px}
-.flair1-sandman {background-position:-13200px 0px}
-.flair1-satana {background-position:-13300px 0px}
-.flair1-satana1 {background-position:-13300px -100px}
-.flair1-scarletwitch {background-position:-13400px 0px}
-.flair1-scarletwitch1 {background-position:-13400px -100px}
-.flair1-scarletwitch2 {background-position:-13400px -200px}
-.flair1-sentinel {background-position:-13500px 0px}
-.flair1-midgardserpent {background-position:-5200px -200px}
-.flair1-shang {background-position:-13600px 0px}
-.flair1-sharon {background-position:-13700px 0px}
-.flair1-sharon1 {background-position:-13700px -100px}
-.flair1-sharonrogers {background-position:-13800px 0px}
-.flair1-sharonrogers1 {background-position:-13800px -100px}
-.flair1-sharonrogers2 {background-position:-13800px -200px}
-.flair1-sharonrogers3 {background-position:-13800px -300px}
-.flair1-shulk {background-position:-13900px 0px}
-.flair1-shulk1 {background-position:-13900px -100px}
-.flair1-shulk2 {background-position:-13900px -200px}
-.flair1-shuri {background-position:-14000px 0px}
-.flair1-shuri1 {background-position:-14000px -100px}
-.flair1-sif {background-position:-14100px 0px}
-.flair1-sif1 {background-position:-14100px -100px}
-.flair1-silk {background-position:-14200px 0px}
-.flair1-silk1 {background-position:-14200px -100px}
-.flair1-sin {background-position:-14300px 0px}
-.flair1-singularity {background-position:-14400px 0px}
-.flair1-grimm {background-position:-14500px 0px}
-.flair1-grimm1 {background-position:-14500px -100px}
-.flair1-skurge {background-position:-14600px 0px}
-.flair1-songbird {background-position:-14700px 0px}
-.flair1-gwen {background-position:-14800px 0px}
-.flair1-gwen1 {background-position:-14800px -100px}
-.flair1-spidey {background-position:-14900px 0px}
-.flair1-spidey1 {background-position:-14900px -100px}
-.flair1-spidey2 {background-position:-14900px -200px}
-.flair1-spidey2099 {background-position:-15000px 0px}
-.flair1-spidey20991 {background-position:-15000px -100px}
-.flair1-spidey3 {background-position:-14900px -300px}
-.flair1-spidey4 {background-position:-14900px -400px}
-.flair1-spidey5 {background-position:-14900px -500px}
-.flair1-spidey6 {background-position:-14900px -600px}
-.flair1-spidey7 {background-position:-14900px -700px}
-.flair1-squirrel {background-position:-15100px 0px}
-.flair1-squirrel1 {background-position:-15100px -100px}
-.flair1-star {background-position:-15200px 0px}
-.flair1-star1 {background-position:-15200px -100px}
-.flair1-star2 {background-position:-15200px -200px}
-.flair1-star3 {background-position:-15200px -300px}
-.flair1-storm {background-position:-15300px 0px}
-.flair1-storm1 {background-position:-15300px -100px}
-.flair1-stryfe {background-position:-15400px 0px}
-.flair1-supergiant {background-position:-15500px 0px}
-.flair1-surtur {background-position:-5300px 0px}
-.flair1-thanos {background-position:-15600px 0px}
-.flair1-thanos1 {background-position:-15600px -100px}
-.flair1-thanos2 {background-position:-15600px -200px}
-.flair1-thanos3 {background-position:-15600px -300px}
-.flair1-thing {background-position:-15700px 0px}
-.flair1-thing1 {background-position:-15700px -100px}
-.flair1-thor {background-position:-15800px 0px}
-.flair1-thor1 {background-position:-15800px -100px}
-.flair1-thor2 {background-position:-15800px -200px}
-.flair1-thor3 {background-position:-15800px -300px}
-.flair1-thor4 {background-position:-15800px -400px}
-.flair1-thor5 {background-position:-15800px -500px}
-.flair1-thor6 {background-position:-15800px -600px}
-.flair1-titania {background-position:-15900px 0px}
-.flair1-ulik {background-position:-16000px 0px}
-.flair1-ultron {background-position:-16100px 0px}
-.flair1-ultron1 {background-position:-16100px -100px}
-.flair1-ultron2 {background-position:-16100px -200px}
-.flair1-ultron3 {background-position:-16100px -300px}
-.flair1-klaue {background-position:-16200px 0px}
-.flair1-valkyrie {background-position:-16300px 0px}
-.flair1-venom {background-position:-16400px 0px}
-.flair1-venom1 {background-position:-16400px -100px}
-.flair1-venom2 {background-position:-16400px -200px}
-.flair1-victorious {background-position:-16500px 0px}
-.flair1-vision {background-position:-16600px 0px}
-.flair1-vision1 {background-position:-16600px -100px}
-.flair1-vision2 {background-position:-16600px -200px}
-.flair1-volstagg {background-position:-16700px 0px}
-.flair1-vulture {background-position:-16800px 0px}
-.flair1-vulture1 {background-position:-16800px -100px}
-.flair1-wm {background-position:-16900px 0px}
-.flair1-wm1 {background-position:-16900px -100px}
-.flair1-wm2 {background-position:-16900px -200px}
-.flair1-wm3 {background-position:-16900px -300px}
-.flair1-wm4 {background-position:-16900px -400px}
-.flair1-wm5 {background-position:-16900px -500px}
-.flair1-wm6 {background-position:-16900px -600px}
-.flair1-warwolf {background-position:-17000px 0px}
-.flair1-wasp {background-position:-17100px 0px}
-.flair1-wasp1 {background-position:-17100px -100px}
-.flair1-wasp2 {background-position:-17100px -200px}
-.flair1-weaponhex {background-position:-17200px 0px}
-.flair1-whiplash {background-position:-17300px 0px}
-.flair1-whitefox {background-position:-17400px 0px}
-.flair1-whitefox1 {background-position:-17400px -100px}
-.flair1-tiger {background-position:-17500px 0px}
-.flair1-wiccan {background-position:-17600px 0px}
-.flair1-bucky {background-position:-17700px 0px}
-.flair1-bucky1 {background-position:-17700px -100px}
-.flair1-bucky2 {background-position:-17700px -200px}
-.flair1-bucky3 {background-position:-17700px -300px}
-.flair1-wolverine {background-position:-17800px 0px}
-.flair1-wolverine1 {background-position:-17800px -100px}
-.flair1-wolverine2 {background-position:-17800px -200px}
-.flair1-wolverine3 {background-position:-17800px -300px}
-.flair1-wong {background-position:-17900px 0px}
-.flair1-wong1 {background-position:-17900px -100px}
-.flair1-laura {background-position:-18000px 0px}
-.flair1-laura1 {background-position:-18000px -100px}
-.flair1-yj {background-position:-18100px 0px}
-.flair1-yj1 {background-position:-18100px -100px}
-.flair1-ymir {background-position:-5200px -300px}
-.flair1-yondu {background-position:-18200px 0px}
-.flair1-yondu1 {background-position:-18200px -100px}
-.flair1-yondu2 {background-position:-18200px -200px}
-.flair1-fury {background-position:-18300px 0px}
-.flair1-fury1 {background-position:-18300px -100px}
-.flair1-erva {background-position:-18400px 0px}
-.flair1-erva1 {background-position:-18400px -100px}
-.flair1-korath {background-position:-18500px 0px}
-.flair1-juggernaut {background-position:-18600px 0px}
-.flair1-warpath {background-position:-18700px 0px}
-.flair1-sabretooth {background-position:-18800px 0px}
-.flair1-sabretooth1 {background-position:-18800px -100px}
-.flair1-rescue {background-position:-18900px 0px}
-.flair1-bishop {background-position:-19000px 0px}
-.flair1-iceman {background-position:-19100px 0px}
-.flair1-jubilee {background-position:-19200px 0px}
-.flair1-moltenman {background-position:-19300px 0px}
-.flair1-hydroman {background-position:-19400px 0px}
-.flair1-electro {background-position:-19500px 0px}
-.flair1-namor {background-position:-19600px 0px}
-.flair1-namor1 {background-position:-19600px -100px}
-.flair1-wave {background-position:-19700px 0px}
-.flair1-surfer {background-position:-19800px 0px}
-.flair1-rachel {background-position:-19900px 0px}
-.flair1-kitty {background-position:-20000px 0px}
-.flair1-kido {background-position:-20100px 0px}
-.flair1-aero {background-position:-20200px 0px}
-.flair1-swordmaster {background-position:-20300px 0px}
-.flair1-voodoo {background-position:-20400px 0px}
-.flair1-slap {background-position:-20500px 0px}
-.flair1-negasonic {background-position:-20600px 0px}
-.flair1-gorilla {background-position:-20700px 0px}
-.flair1-bluedragon {background-position:-20800px 0px}
-.flair1-sunbird {background-position:-20900px 0px}
-.flair1-shadowshell {background-position:-21000px 0px}
-.flair1-wartiger {background-position:-21100px 0px}
+.flair-deadpool3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deadpool01_S03.png"); background-size: 30px}
+.flair1-deathlok {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deathlok01.png"); background-size: 100px}
+.flair-deathlok {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deathlok01.png"); background-size: 30px}
+.flair1-deathlok1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deathlok01_S01.png"); background-size: 100px}
+.flair-deathlok1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_deathlok01_S01.png"); background-size: 30px}
+.flair1-destroyer {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_destroyer01.png"); background-size: 100px}
+.flair-destroyer {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_destroyer01.png"); background-size: 30px}
+.flair1-destroyer1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_destroyer01_S01.png"); background-size: 100px}
+.flair-destroyer1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_destroyer01_S01.png"); background-size: 30px}
+.flair1-doom {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctordoom01.png"); background-size: 100px}
+.flair-doom {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctordoom01.png"); background-size: 30px}
+.flair1-ock {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctoroctopus01.png"); background-size: 100px}
+.flair-ock {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctoroctopus01.png"); background-size: 30px}
+.flair1-ock1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctoroctopus01_S01.png"); background-size: 100px}
+.flair-ock1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctoroctopus01_S01.png"); background-size: 30px}
+.flair1-strange {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorstrange01.png"); background-size: 100px}
+.flair-strange {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorstrange01.png"); background-size: 30px}
+.flair1-strange1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorstrange01_S01.png"); background-size: 100px}
+.flair-strange1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorstrange01_S01.png"); background-size: 30px}
+.flair1-strange2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorstrange01_S02.png"); background-size: 100px}
+.flair-strange2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorstrange01_S02.png"); background-size: 30px}
+.flair1-voodoo {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorvoodoo01.png"); background-size: 100px}
+.flair-voodoo {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_doctorvoodoo01.png"); background-size: 30px}
+.flair1-domino {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_domino01.png"); background-size: 100px}
+.flair-domino {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_domino01.png"); background-size: 30px}
+.flair1-domino1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_domino01_S01.png"); background-size: 100px}
+.flair-domino1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_domino01_S01.png"); background-size: 30px}
+.flair1-dormammu {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_dormmamu01.png"); background-size: 100px}
+.flair-dormammu {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_dormmamu01.png"); background-size: 30px}
+.flair1-drax {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_drax01.png"); background-size: 100px}
+.flair-drax {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_drax01.png"); background-size: 30px}
+.flair1-drax1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_drax01_S01.png"); background-size: 100px}
+.flair-drax1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_drax01_S01.png"); background-size: 30px}
+.flair1-maw {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_EbonyMaw01.png"); background-size: 100px}
+.flair-maw {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_EbonyMaw01.png"); background-size: 30px}
+.flair1-maw1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ebonymaw01_S01.png"); background-size: 100px}
+.flair-maw1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ebonymaw01_S01.png"); background-size: 30px}
+.flair1-electro {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_electro01.png"); background-size: 100px}
+.flair-electro {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_electro01.png"); background-size: 30px}
+.flair1-elektra {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elektra01.png"); background-size: 100px}
+.flair-elektra {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elektra01.png"); background-size: 30px}
+.flair1-elektra1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elektra01_S01.png"); background-size: 100px}
+.flair-elektra1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elektra01_S01.png"); background-size: 30px}
+.flair1-elsa {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elsabloodstone01.png"); background-size: 100px}
+.flair-elsa {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elsabloodstone01.png"); background-size: 30px}
+.flair1-elsa1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elsabloodstone01_S01.png"); background-size: 100px}
+.flair-elsa1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elsabloodstone01_S01.png"); background-size: 30px}
+.flair1-elsa2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elsabloodstone01_S02.png"); background-size: 100px}
+.flair-elsa2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_elsabloodstone01_S02.png"); background-size: 30px}
+.flair1-emma {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_emmafrost01.png"); background-size: 100px}
+.flair-emma {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_emmafrost01.png"); background-size: 30px}
+.flair1-emma1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_emmafrost01_S01.png"); background-size: 100px}
+.flair-emma1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_emmafrost01_S01.png"); background-size: 30px}
+.flair1-emma2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_emmafrost01_S02.png"); background-size: 100px}
+.flair-emma2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_emmafrost01_S02.png"); background-size: 30px}
+.flair1-enchantress {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_enchantress01.png"); background-size: 100px}
+.flair-enchantress {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_enchantress01.png"); background-size: 30px}
+.flair1-falcon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01.png"); background-size: 100px}
+.flair-falcon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01.png"); background-size: 30px}
+.flair1-falcon1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01_S01.png"); background-size: 100px}
+.flair-falcon1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01_S01.png"); background-size: 30px}
+.flair1-falcon2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01_S02.png"); background-size: 100px}
+.flair-falcon2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01_S02.png"); background-size: 30px}
+.flair1-falcon3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01_S03.png"); background-size: 100px}
+.flair-falcon3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_falcon01_S03.png"); background-size: 30px}
+.flair1-fandral {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_fandral01.png"); background-size: 100px}
+.flair-fandral {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_fandral01.png"); background-size: 30px}
+.flair1-fantomex {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_fantomex01.png"); background-size: 100px}
+.flair-fantomex {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_fantomex01.png"); background-size: 30px}
+.flair1-fenris {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_fenriswolf01.png"); background-size: 100px}
+.flair-fenris {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_fenriswolf01.png"); background-size: 30px}
+.flair1-frostbeast {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_FrostBeast01.png"); background-size: 100px}
+.flair-frostbeast {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_FrostBeast01.png"); background-size: 30px}
+.flair1-gambit {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gambit01.png"); background-size: 100px}
+.flair-gambit {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gambit01.png"); background-size: 30px}
+.flair1-gamora {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gamora01.png"); background-size: 100px}
+.flair-gamora {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gamora01.png"); background-size: 30px}
+.flair1-gamora1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gamora01_S01.png"); background-size: 100px}
+.flair-gamora1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gamora01_S01.png"); background-size: 30px}
+.flair1-gamora2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gamora01_S02.png"); background-size: 100px}
+.flair-gamora2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gamora01_S02.png"); background-size: 30px}
+.flair1-ghost {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ghost01.png"); background-size: 100px}
+.flair-ghost {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ghost01.png"); background-size: 30px}
+.flair1-ghost1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ghost01_S01.png"); background-size: 100px}
+.flair-ghost1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ghost01_S01.png"); background-size: 30px}
+.flair1-ghostpanther {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostpanther01.png"); background-size: 100px}
+.flair-ghostpanther {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostpanther01.png"); background-size: 30px}
+.flair1-rider {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostrider01.png"); background-size: 100px}
+.flair-rider {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostrider01.png"); background-size: 30px}
+.flair1-rider1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostrider01_S01.png"); background-size: 100px}
+.flair-rider1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostrider01_S01.png"); background-size: 30px}
+.flair1-rider2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostrider01_S02.png"); background-size: 100px}
+.flair-rider2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ghostrider01_S02.png"); background-size: 30px}
+.flair1-robbie {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_robbiereyes01.png"); background-size: 100px}
+.flair-robbie {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_robbiereyes01.png"); background-size: 30px}
+.flair1-giant {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_giantman01.png"); background-size: 100px}
+.flair-giant {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_giantman01.png"); background-size: 30px}
+.flair1-giant1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_giantman01_S01.png"); background-size: 100px}
+.flair-giant1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_giantman01_S01.png"); background-size: 30px}
+.flair1-giant2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_giantman01_S02.png"); background-size: 100px}
+.flair-giant2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_giantman01_S02.png"); background-size: 30px}
+.flair1-goliath {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_goliath01.png"); background-size: 100px}
+.flair-goliath {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_goliath01.png"); background-size: 30px}
+.flair1-gorgon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gorgon01.png"); background-size: 100px}
+.flair-gorgon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gorgon01.png"); background-size: 30px}
+.flair1-gorilla {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gorillaman01.png"); background-size: 100px}
+.flair-gorilla {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gorillaman01.png"); background-size: 30px}
+.flair1-goblin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_greengoblin01.png"); background-size: 100px}
+.flair-goblin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_greengoblin01.png"); background-size: 30px}
+.flair1-goblin1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_greengoblin01_S01.png"); background-size: 100px}
+.flair-goblin1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_greengoblin01_S01.png"); background-size: 30px}
+.flair1-groot {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01.png"); background-size: 100px}
+.flair-groot {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01.png"); background-size: 30px}
+.flair1-groot1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01_S01.png"); background-size: 100px}
+.flair-groot1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01_S01.png"); background-size: 30px}
+.flair1-groot2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01_S02.png"); background-size: 100px}
+.flair-groot2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01_S02.png"); background-size: 30px}
+.flair1-groot3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01_S03.png"); background-size: 100px}
+.flair-groot3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_groot01_S03.png"); background-size: 30px}
+.flair1-gwenpool {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gwenpool01.png"); background-size: 100px}
+.flair-gwenpool {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gwenpool01.png"); background-size: 30px}
+.flair1-gwenpool1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gwenpool01_S01.png"); background-size: 100px}
+.flair-gwenpool1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gwenpool01_S01.png"); background-size: 30px}
+.flair1-gwenpool2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gwenpool01_S02.png"); background-size: 100px}
+.flair-gwenpool2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_gwenpool01_S02.png"); background-size: 30px}
+.flair1-hawkeye {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01.png"); background-size: 100px}
+.flair-hawkeye {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01.png"); background-size: 30px}
+.flair1-hawkeye1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S01.png"); background-size: 100px}
+.flair-hawkeye1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S01.png"); background-size: 30px}
+.flair1-hawkeye2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S02.png"); background-size: 100px}
+.flair-hawkeye2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S02.png"); background-size: 30px}
+.flair1-hawkeye3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S03.png"); background-size: 100px}
+.flair-hawkeye3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S03.png"); background-size: 30px}
+.flair1-hawkeye4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S04.png"); background-size: 100px}
+.flair-hawkeye4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hawkeye01_S04.png"); background-size: 30px}
+.flair1-kate {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_katebishop01.png"); background-size: 100px}
+.flair-kate {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_katebishop01.png"); background-size: 30px}
+.flair1-heimdall {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_heimdall01.png"); background-size: 100px}
+.flair-heimdall {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_heimdall01.png"); background-size: 30px}
+.flair1-hela {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_hela01.png"); background-size: 100px}
+.flair-hela {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_hela01.png"); background-size: 30px}
+.flair1-hela1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_hela01_S01.png"); background-size: 100px}
+.flair-hela1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_hela01_S01.png"); background-size: 30px}
+.flair1-hellcat {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hellcat01.png"); background-size: 100px}
+.flair-hellcat {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hellcat01.png"); background-size: 30px}
+.flair1-daimon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hellstorm01.png"); background-size: 100px}
+.flair-daimon {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hellstorm01.png"); background-size: 30px}
+.flair1-hogun {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hogun01.png"); background-size: 100px}
+.flair-hogun {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hogun01.png"); background-size: 30px}
+.flair1-hulk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01.png"); background-size: 100px}
+.flair-hulk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01.png"); background-size: 30px}
+.flair1-hulk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S01.png"); background-size: 100px}
+.flair-hulk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S01.png"); background-size: 30px}
+.flair1-hulk2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S02.png"); background-size: 100px}
+.flair-hulk2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S02.png"); background-size: 30px}
+.flair1-hulk3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S03.png"); background-size: 100px}
+.flair-hulk3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S03.png"); background-size: 30px}
+.flair1-hulk4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S04.png"); background-size: 100px}
+.flair-hulk4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S04.png"); background-size: 30px}
+.flair1-hulk5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S05.png"); background-size: 100px}
+.flair-hulk5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulk01_S05.png"); background-size: 30px}
+.flair1-cho {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_amadeuscho01.png"); background-size: 100px}
+.flair-cho {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_amadeuscho01.png"); background-size: 30px}
+.flair1-cho1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_amadeuscho01_S01.png"); background-size: 100px}
+.flair-cho1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_amadeuscho01_S01.png"); background-size: 30px}
+.flair1-hb {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkbuster01.png"); background-size: 100px}
+.flair-hb {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkbuster01.png"); background-size: 30px}
+.flair1-hb1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkbuster01_S01.png"); background-size: 100px}
+.flair-hb1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkbuster01_S01.png"); background-size: 30px}
+.flair1-hb2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkbuster01_S02.png"); background-size: 100px}
+.flair-hb2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkbuster01_S02.png"); background-size: 30px}
+.flair1-hulkling {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkling01.png"); background-size: 100px}
+.flair-hulkling {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hulkling01.png"); background-size: 30px}
+.flair1-torch {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_humantorch01.png"); background-size: 100px}
+.flair-torch {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_humantorch01.png"); background-size: 30px}
+.flair1-torch1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_humantorch01_S01.png"); background-size: 100px}
+.flair-torch1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_humantorch01_S01.png"); background-size: 30px}
+.flair1-hydroman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_hydroman01.png"); background-size: 100px}
+.flair-hydroman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_hydroman01.png"); background-size: 30px}
+.flair1-hyperion {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hyperion01.png"); background-size: 100px}
+.flair-hyperion {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hyperion01.png"); background-size: 30px}
+.flair1-hyperion1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hyperion01_S01.png"); background-size: 100px}
+.flair-hyperion1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_hyperion01_S01.png"); background-size: 30px}
+.flair1-iceman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_iceman01.png"); background-size: 100px}
+.flair-iceman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_iceman01.png"); background-size: 30px}
+.flair1-inferno {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_inferno01.png"); background-size: 100px}
+.flair-inferno {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_inferno01.png"); background-size: 30px}
+.flair1-inferno1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_inferno01_S01.png"); background-size: 100px}
+.flair-inferno1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_inferno01_S01.png"); background-size: 30px}
+.flair1-sue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_invisiblewoman01.png"); background-size: 100px}
+.flair-sue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_invisiblewoman01.png"); background-size: 30px}
+.flair1-sue1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_invisiblewoman01_S01.png"); background-size: 100px}
+.flair-sue1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_invisiblewoman01_S01.png"); background-size: 30px}
+.flair1-fist {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01.png"); background-size: 100px}
+.flair-fist {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01.png"); background-size: 30px}
+.flair1-fist1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01_S01.png"); background-size: 100px}
+.flair-fist1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01_S01.png"); background-size: 30px}
+.flair1-fist2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01_S02.png"); background-size: 100px}
+.flair-fist2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01_S02.png"); background-size: 30px}
+.flair1-fist3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01_S03.png"); background-size: 100px}
+.flair-fist3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironfist01_S03.png"); background-size: 30px}
+.flair1-ironhammer {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironhammer01.png"); background-size: 100px}
+.flair-ironhammer {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironhammer01.png"); background-size: 30px}
+.flair1-ironheart {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironheart01.png"); background-size: 100px}
+.flair-ironheart {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironheart01.png"); background-size: 30px}
+.flair1-im {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01.png"); background-size: 100px}
+.flair-im {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01.png"); background-size: 30px}
+.flair1-im1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S01.png"); background-size: 100px}
+.flair-im1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S01.png"); background-size: 30px}
+.flair1-im2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S02.png"); background-size: 100px}
+.flair-im2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S02.png"); background-size: 30px}
+.flair1-im3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S03.png"); background-size: 100px}
+.flair-im3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S03.png"); background-size: 30px}
+.flair1-im4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S04.png"); background-size: 100px}
+.flair-im4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S04.png"); background-size: 30px}
+.flair1-im5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S05.png"); background-size: 100px}
+.flair-im5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S05.png"); background-size: 30px}
+.flair1-im6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S06.png"); background-size: 100px}
+.flair-im6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S06.png"); background-size: 30px}
+.flair1-im7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S07.png"); background-size: 100px}
+.flair-im7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_ironman01_S07.png"); background-size: 30px}
+.flair1-jean {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jeangrey01.png"); background-size: 100px}
+.flair-jean {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jeangrey01.png"); background-size: 30px}
+.flair1-jean1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jeangrey01_S01.png"); background-size: 100px}
+.flair-jean1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jeangrey01_S01.png"); background-size: 30px}
+.flair1-jessica {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jessicajones01.png"); background-size: 100px}
+.flair-jessica {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jessicajones01.png"); background-size: 30px}
+.flair1-jocasta {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/GM.png"); background-size: 100px}
+.flair-jocasta {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/GM.png"); background-size: 30px}
+.flair1-jubilee {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jubilee01.png"); background-size: 100px}
+.flair-jubilee {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_jubilee01.png"); background-size: 30px}
+.flair1-juggernaut {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_juggernaut01.png"); background-size: 100px}
+.flair-juggernaut {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_juggernaut01.png"); background-size: 30px}
+.flair1-kaecilius {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kaecilius01.png"); background-size: 100px}
+.flair-kaecilius {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kaecilius01.png"); background-size: 30px}
+.flair1-karnak {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_karnak01.png"); background-size: 100px}
+.flair-karnak {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_karnak01.png"); background-size: 30px}
+.flair1-karnak1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_karnak01_S01.png"); background-size: 100px}
+.flair-karnak1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_karnak01_S01.png"); background-size: 30px}
+.flair1-kaiju {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kidkaiju01.png"); background-size: 100px}
+.flair-kaiju {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kidkaiju01.png"); background-size: 30px}
+.flair1-kaiju1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kidkaiju01_S01.png"); background-size: 100px}
+.flair-kaiju1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kidkaiju01_S01.png"); background-size: 30px}
+.flair1-kido {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kidomega01.png"); background-size: 100px}
+.flair-kido {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kidomega01.png"); background-size: 30px}
+.flair1-killmonger {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_killmonger01.png"); background-size: 100px}
+.flair-killmonger {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_killmonger01.png"); background-size: 30px}
+.flair1-killmonger1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_killmonger01_S01.png"); background-size: 100px}
+.flair-killmonger1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_killmonger01_S01.png"); background-size: 30px}
+.flair1-kingpin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kingpin01.png"); background-size: 100px}
+.flair-kingpin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kingpin01.png"); background-size: 30px}
+.flair1-kingpin1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kingpin01_S01.png"); background-size: 100px}
+.flair-kingpin1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kingpin01_S01.png"); background-size: 30px}
+.flair1-kitty {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kittypryde01.png"); background-size: 100px}
+.flair-kitty {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kittypryde01.png"); background-size: 30px}
+.flair1-korath {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_korath01.png"); background-size: 100px}
+.flair-korath {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_korath01.png"); background-size: 30px}
+.flair1-kraven {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kraventhehunter01.png"); background-size: 100px}
+.flair-kraven {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_kraventhehunter01.png"); background-size: 30px}
+.flair1-lash {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_lash01.png"); background-size: 100px}
+.flair-lash {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_lash01.png"); background-size: 30px}
+.flair1-lash1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_lash01_S01.png"); background-size: 100px}
+.flair-lash1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_lash01_S01.png"); background-size: 30px}
+.flair1-lincoln {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lincoln01.png"); background-size: 100px}
+.flair-lincoln {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lincoln01.png"); background-size: 30px}
+.flair1-lizard {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_lizard01.png"); background-size: 100px}
+.flair-lizard {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_lizard01.png"); background-size: 30px}
+.flair1-loki {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_loki01.png"); background-size: 100px}
+.flair-loki {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_loki01.png"); background-size: 30px}
+.flair1-loki1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_Loki01_S01.png"); background-size: 100px}
+.flair-loki1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_Loki01_S01.png"); background-size: 30px}
+.flair1-loki2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_loki01_S02.png"); background-size: 100px}
+.flair-loki2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_loki01_S02.png"); background-size: 30px}
+.flair1-loki3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_Loki01_S03.png"); background-size: 100px}
+.flair-loki3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_Loki01_S03.png"); background-size: 30px}
+.flair1-luke {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lukecage01.png"); background-size: 100px}
+.flair-luke {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lukecage01.png"); background-size: 30px}
+.flair1-luke1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lukecage01_S01.png"); background-size: 100px}
+.flair-luke1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lukecage01_S01.png"); background-size: 30px}
+.flair1-luke2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lukecage01_S02.png"); background-size: 100px}
+.flair-luke2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lukecage01_S02.png"); background-size: 30px}
+.flair1-luna {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lunasnow01.png"); background-size: 100px}
+.flair-luna {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lunasnow01.png"); background-size: 30px}
+.flair1-luna1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lunasnow01_S01.png"); background-size: 100px}
+.flair-luna1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lunasnow01_S01.png"); background-size: 30px}
+.flair1-luna2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lunasnow01_S02.png"); background-size: 100px}
+.flair-luna2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_lunasnow01_S02.png"); background-size: 30px}
+.flair1-modok {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_modok01.png"); background-size: 100px}
+.flair-modok {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_modok01.png"); background-size: 30px}
+.flair1-modok1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_modok01_S01.png"); background-size: 100px}
+.flair-modok1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_modok01_S01.png"); background-size: 30px}
+.flair1-modok2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_modok01_S02.png"); background-size: 100px}
+.flair-modok2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_modok01_S02.png"); background-size: 30px}
+.flair1-magik {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_magik01.png"); background-size: 100px}
+.flair-magik {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_magik01.png"); background-size: 30px}
+.flair1-magik1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_magik01_S01.png"); background-size: 100px}
+.flair-magik1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_magik01_S01.png"); background-size: 30px}
+.flair1-magneto {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_magneto01.png"); background-size: 100px}
+.flair-magneto {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_magneto01.png"); background-size: 30px}
+.flair1-magneto1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_magneto01_S01.png"); background-size: 100px}
+.flair-magneto1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_magneto01_S01.png"); background-size: 30px}
+.flair1-malekith {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_malekith01.png"); background-size: 100px}
+.flair-malekith {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_malekith01.png"); background-size: 30px}
+.flair1-malekith1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_malekith01_S01.png"); background-size: 100px}
+.flair-malekith1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_malekith01_S01.png"); background-size: 30px}
+.flair1-mantis {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mantis01.png"); background-size: 100px}
+.flair-mantis {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mantis01.png"); background-size: 30px}
+.flair1-maximus {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_maximus01.png"); background-size: 100px}
+.flair-maximus {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_maximus01.png"); background-size: 30px}
+.flair1-mbaku {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_mbaku01.png"); background-size: 100px}
+.flair-mbaku {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_mbaku01.png"); background-size: 30px}
+.flair1-medusa {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_medusa01.png"); background-size: 100px}
+.flair-medusa {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_medusa01.png"); background-size: 30px}
+.flair1-medusa1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_medusa01_S01.png"); background-size: 100px}
+.flair-medusa1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_medusa01_S01.png"); background-size: 30px}
+.flair1-midgardserpent {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_mdigardserpent01.png"); background-size: 100px}
+.flair-midgardserpent {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_mdigardserpent01.png"); background-size: 30px}
+.flair1-erva {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctorminerva01.png"); background-size: 100px}
+.flair-erva {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctorminerva01.png"); background-size: 30px}
+.flair1-erva1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctorminerva01_S01.png"); background-size: 100px}
+.flair-erva1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_doctorminerva01_S01.png"); background-size: 30px}
+.flair1-misty {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mistyknight01.png"); background-size: 100px}
+.flair-misty {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mistyknight01.png"); background-size: 30px}
+.flair1-reed {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_misterfantastic01.png"); background-size: 100px}
+.flair-reed {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_misterfantastic01.png"); background-size: 30px}
+.flair1-reed1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_misterfantastic01_S01.png"); background-size: 100px}
+.flair-reed1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_misterfantastic01_S01.png"); background-size: 30px}
+.flair1-mockingbird {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mockingbird01.png"); background-size: 100px}
+.flair-mockingbird {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mockingbird01.png"); background-size: 30px}
+.flair1-mockingbird1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mockingbird01_S01.png"); background-size: 100px}
+.flair-mockingbird1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mockingbird01_S01.png"); background-size: 30px}
+.flair1-mockingbird2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mockingbird01_S02.png"); background-size: 100px}
+.flair-mockingbird2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_mockingbird01_S02.png"); background-size: 30px}
+.flair1-moltenman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_moltenman01.png"); background-size: 100px}
+.flair-moltenman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_moltenman01.png"); background-size: 30px}
+.flair1-moongirl {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moongirl01.png"); background-size: 100px}
+.flair-moongirl {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moongirl01.png"); background-size: 30px}
+.flair1-moongirl1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moongirl01_S01.png"); background-size: 100px}
+.flair-moongirl1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moongirl01_S01.png"); background-size: 30px}
+.flair1-moonknight {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moonknight01.png"); background-size: 100px}
+.flair-moonknight {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moonknight01.png"); background-size: 30px}
+.flair1-moonknight1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moonknight01_S01.png"); background-size: 100px}
+.flair-moonknight1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_moonknight01_S01.png"); background-size: 30px}
+.flair1-morgan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_morganlefay01.png"); background-size: 100px}
+.flair-morgan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_morganlefay01.png"); background-size: 30px}
+.flair1-kamala {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kamalakhan01.png"); background-size: 100px}
+.flair-kamala {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kamalakhan01.png"); background-size: 30px}
+.flair1-kamala1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kamalakhan01_S01.png"); background-size: 100px}
+.flair-kamala1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_kamalakhan01_S01.png"); background-size: 30px}
+.flair1-mysterio {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_mysterio01.png"); background-size: 100px}
+.flair-mysterio {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_mysterio01.png"); background-size: 30px}
+.flair1-mysterio1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_mysterio01_S01.png"); background-size: 100px}
+.flair-mysterio1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_mysterio01_S01.png"); background-size: 30px}
+.flair1-namor {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_namor01.png"); background-size: 100px}
+.flair-namor {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_namor01.png"); background-size: 30px}
+.flair1-namor1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_namor01_S01.png"); background-size: 100px}
+.flair-namor1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_namor01_S01.png"); background-size: 30px}
+.flair1-nebula {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01.png"); background-size: 100px}
+.flair-nebula {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01.png"); background-size: 30px}
+.flair1-nebula1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01_S01.png"); background-size: 100px}
+.flair-nebula1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01_S01.png"); background-size: 30px}
+.flair1-nebula2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01_S02.png"); background-size: 100px}
+.flair-nebula2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01_S02.png"); background-size: 30px}
+.flair1-nebula3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01_S03.png"); background-size: 100px}
+.flair-nebula3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_nebula01_S03.png"); background-size: 30px}
+.flair1-negasonic {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_negasonic01.png"); background-size: 100px}
+.flair-negasonic {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_negasonic01.png"); background-size: 30px}
+.flair1-fury {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nickfury01.png"); background-size: 100px}
+.flair-fury {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nickfury01.png"); background-size: 30px}
+.flair1-fury1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nickfury01_S01.png"); background-size: 100px}
+.flair-fury1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nickfury01_S01.png"); background-size: 30px}
+.flair1-nightcrawler {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nightcrawler01.png"); background-size: 100px}
+.flair-nightcrawler {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nightcrawler01.png"); background-size: 30px}
+.flair1-nightcrawler1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nightcrawler01_S01.png"); background-size: 100px}
+.flair-nightcrawler1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nightcrawler01_S01.png"); background-size: 30px}
+.flair1-samalexander {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nova01.png"); background-size: 100px}
+.flair-samalexander {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nova01.png"); background-size: 30px}
+.flair1-odin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_odin01.png"); background-size: 100px}
+.flair-odin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_odin01.png"); background-size: 30px}
+.flair1-coulson {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_philcoulson01.png"); background-size: 100px}
+.flair-coulson {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_philcoulson01.png"); background-size: 30px}
+.flair1-coulson1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_philcoulson01_S01.png"); background-size: 100px}
+.flair-coulson1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_philcoulson01_S01.png"); background-size: 30px}
+.flair1-proxima {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_proximamidnight01.png"); background-size: 100px}
+.flair-proxima {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_proximamidnight01.png"); background-size: 30px}
+.flair1-proxima1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_proximamidnight01_S01.png"); background-size: 100px}
+.flair-proxima1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_proximamidnight01_S01.png"); background-size: 30px}
+.flair1-psylocke {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_psylocke01.png"); background-size: 100px}
+.flair-psylocke {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_psylocke01.png"); background-size: 30px}
+.flair1-psylocke1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_psylocke01_S01.png"); background-size: 100px}
+.flair-psylocke1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_psylocke01_S01.png"); background-size: 30px}
+.flair1-punisher {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01.png"); background-size: 100px}
+.flair-punisher {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01.png"); background-size: 30px}
+.flair1-punisher1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S01.png"); background-size: 100px}
+.flair-punisher1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S01.png"); background-size: 30px}
+.flair1-punisher2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S02.png"); background-size: 100px}
+.flair-punisher2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S02.png"); background-size: 30px}
+.flair1-punisher3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S03.png"); background-size: 100px}
+.flair-punisher3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S03.png"); background-size: 30px}
+.flair1-punisher4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S04.png"); background-size: 100px}
+.flair-punisher4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_punisher01_S04.png"); background-size: 30px}
+.flair1-avril {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quasar01.png"); background-size: 100px}
+.flair-avril {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quasar01.png"); background-size: 30px}
+.flair1-quicksilver {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quicksilver01.png"); background-size: 100px}
+.flair-quicksilver {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quicksilver01.png"); background-size: 30px}
+.flair1-quicksilver1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quicksilver01_S01.png"); background-size: 100px}
+.flair-quicksilver1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quicksilver01_S01.png"); background-size: 30px}
+.flair1-quicksilver2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quicksilver01_S02.png"); background-size: 100px}
+.flair-quicksilver2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_quicksilver01_S02.png"); background-size: 30px}
+.flair1-rachel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rachelsummers01.png"); background-size: 100px}
+.flair-rachel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rachelsummers01.png"); background-size: 30px}
+.flair1-rulk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redhulk01.png"); background-size: 100px}
+.flair-rulk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redhulk01.png"); background-size: 30px}
+.flair1-rulk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redhulk01_S01.png"); background-size: 100px}
+.flair-rulk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redhulk01_S01.png"); background-size: 30px}
+.flair1-skull {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redskull01.png"); background-size: 100px}
+.flair-skull {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redskull01.png"); background-size: 30px}
+.flair1-skull1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redskull01_S01.png"); background-size: 100px}
+.flair-skull1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_redskull01_S01.png"); background-size: 30px}
+.flair1-rescue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rescue01.png"); background-size: 100px}
+.flair-rescue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rescue01.png"); background-size: 30px}
+.flair1-rhino {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_rhino01.png"); background-size: 100px}
+.flair-rhino {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_rhino01.png"); background-size: 30px}
+.flair1-rocket {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01.png"); background-size: 100px}
+.flair-rocket {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01.png"); background-size: 30px}
+.flair1-rocket1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S01.png"); background-size: 100px}
+.flair-rocket1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S01.png"); background-size: 30px}
+.flair1-rocket2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S02.png"); background-size: 100px}
+.flair-rocket2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S02.png"); background-size: 30px}
+.flair1-rocket3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S03.png"); background-size: 100px}
+.flair-rocket3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S03.png"); background-size: 30px}
+.flair1-rocket4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S04.png"); background-size: 100px}
+.flair-rocket4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S04.png"); background-size: 30px}
+.flair1-rocket5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S05.png"); background-size: 100px}
+.flair-rocket5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rocketraccoon01_S05.png"); background-size: 30px}
+.flair1-rogue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rogue01.png"); background-size: 100px}
+.flair-rogue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rogue01.png"); background-size: 30px}
+.flair1-rogue1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rogue01_S01.png"); background-size: 100px}
+.flair-rogue1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rogue01_S01.png"); background-size: 30px}
+.flair1-rogue2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rogue01_S02.png"); background-size: 100px}
+.flair-rogue2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_rogue01_S02.png"); background-size: 30px}
+.flair1-ronan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ronan01.png"); background-size: 100px}
+.flair-ronan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ronan01.png"); background-size: 30px}
+.flair1-ronan1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ronan01_S01.png"); background-size: 100px}
+.flair-ronan1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ronan01_S01.png"); background-size: 30px}
+.flair1-ronan2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ronan01_S02.png"); background-size: 100px}
+.flair-ronan2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ronan01_S02.png"); background-size: 30px}
+.flair1-sabretooth {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sabertooth01.png"); background-size: 100px}
+.flair-sabretooth {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sabertooth01.png"); background-size: 30px}
+.flair1-sabretooth1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sabertooth01_S01.png"); background-size: 100px}
+.flair-sabretooth1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sabertooth01_S01.png"); background-size: 30px}
+.flair1-sandman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sandman01.png"); background-size: 100px}
+.flair-sandman {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sandman01.png"); background-size: 30px}
+.flair1-satana {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_satana01.png"); background-size: 100px}
+.flair-satana {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_satana01.png"); background-size: 30px}
+.flair1-satana1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_satana01_S01.png"); background-size: 100px}
+.flair-satana1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_satana01_S01.png"); background-size: 30px}
+.flair1-scarletwitch {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_scarletwitch01.png"); background-size: 100px}
+.flair-scarletwitch {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_scarletwitch01.png"); background-size: 30px}
+.flair1-scarletwitch1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_scarletwitch01_S01.png"); background-size: 100px}
+.flair-scarletwitch1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_scarletwitch01_S01.png"); background-size: 30px}
+.flair1-scarletwitch2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_scarletwitch01_S02.png"); background-size: 100px}
+.flair-scarletwitch2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_scarletwitch01_S02.png"); background-size: 30px}
+.flair1-sentinel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sentinel01.png"); background-size: 100px}
+.flair-sentinel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sentinel01.png"); background-size: 30px}
+.flair1-shadowshell {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shadowshell01.png"); background-size: 100px}
+.flair-shadowshell {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shadowshell01.png"); background-size: 30px}
+.flair1-shang {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shangchi01.png"); background-size: 100px}
+.flair-shang {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shangchi01.png"); background-size: 30px}
+.flair1-shulk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shehulk01.png"); background-size: 100px}
+.flair-shulk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shehulk01.png"); background-size: 30px}
+.flair1-shulk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shehulk01_S01.png"); background-size: 100px}
+.flair-shulk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shehulk01_S01.png"); background-size: 30px}
+.flair1-shulk2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shehulk01_S02.png"); background-size: 100px}
+.flair-shulk2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shehulk01_S02.png"); background-size: 30px}
+.flair1-shuri {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shuri01.png"); background-size: 100px}
+.flair-shuri {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shuri01.png"); background-size: 30px}
+.flair1-shuri1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shuri01_S01.png"); background-size: 100px}
+.flair-shuri1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_shuri01_S01.png"); background-size: 30px}
+.flair1-sif {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sif01.png"); background-size: 100px}
+.flair-sif {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sif01.png"); background-size: 30px}
+.flair1-sif1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sif01_S01.png"); background-size: 100px}
+.flair-sif1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sif01_S01.png"); background-size: 30px}
+.flair1-silk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_silk01.png"); background-size: 100px}
+.flair-silk {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_silk01.png"); background-size: 30px}
+.flair1-silk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_silk01_S01.png"); background-size: 100px}
+.flair-silk1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_silk01_S01.png"); background-size: 30px}
+.flair1-surfer {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_silversurfer01.png"); background-size: 100px}
+.flair-surfer {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_silversurfer01.png"); background-size: 30px}
+.flair1-slap {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_slapstick01.png"); background-size: 100px}
+.flair-slap {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_slapstick01.png"); background-size: 30px}
+.flair1-sin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sin01.png"); background-size: 100px}
+.flair-sin {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_sin01.png"); background-size: 30px}
+.flair1-singularity {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_singularity01.png"); background-size: 100px}
+.flair-singularity {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_singularity01.png"); background-size: 30px}
+.flair1-grimm {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nicominoru01.png"); background-size: 100px}
+.flair-grimm {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nicominoru01.png"); background-size: 30px}
+.flair1-grimm1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nicominoru01_S01.png"); background-size: 100px}
+.flair-grimm1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nicominoru01_S01.png"); background-size: 30px}
+.flair1-skurge {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_skurge01.png"); background-size: 100px}
+.flair-skurge {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_skurge01.png"); background-size: 30px}
+.flair1-songbird {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_songbird01.png"); background-size: 100px}
+.flair-songbird {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_songbird01.png"); background-size: 30px}
+.flair1-gwen {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spidergwen01.png"); background-size: 100px}
+.flair-gwen {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spidergwen01.png"); background-size: 30px}
+.flair1-gwen1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spidergwen01_S01.png"); background-size: 100px}
+.flair-gwen1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spidergwen01_S01.png"); background-size: 30px}
+.flair1-spidey {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01.png"); background-size: 100px}
+.flair-spidey {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01.png"); background-size: 30px}
+.flair1-spidey1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S01.png"); background-size: 100px}
+.flair-spidey1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S01.png"); background-size: 30px}
+.flair1-spidey2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S02.png"); background-size: 100px}
+.flair-spidey2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S02.png"); background-size: 30px}
+.flair1-spidey3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S03.png"); background-size: 100px}
+.flair-spidey3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S03.png"); background-size: 30px}
+.flair1-spidey4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S04.png"); background-size: 100px}
+.flair-spidey4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S04.png"); background-size: 30px}
+.flair1-spidey5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S05.png"); background-size: 100px}
+.flair-spidey5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S05.png"); background-size: 30px}
+.flair1-spidey6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S06.png"); background-size: 100px}
+.flair-spidey6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S06.png"); background-size: 30px}
+.flair1-spidey7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S07.png"); background-size: 100px}
+.flair-spidey7 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman01_S07.png"); background-size: 30px}
+.flair1-spidey2099 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman209901.png"); background-size: 100px}
+.flair-spidey2099 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman209901.png"); background-size: 30px}
+.flair1-spidey20991 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman209901_S01.png"); background-size: 100px}
+.flair-spidey20991 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_spiderman209901_S01.png"); background-size: 30px}
+.flair1-miles {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_milesmorales01.png"); background-size: 100px}
+.flair-miles {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_milesmorales01.png"); background-size: 30px}
+.flair1-miles1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_milesmorales01_S01.png"); background-size: 100px}
+.flair-miles1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_milesmorales01_S01.png"); background-size: 30px}
+.flair1-squirrel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_squirrelgirl01.png"); background-size: 100px}
+.flair-squirrel {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_squirrelgirl01.png"); background-size: 30px}
+.flair1-squirrel1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_squirrelgirl01_S01.png"); background-size: 100px}
+.flair-squirrel1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_squirrelgirl01_S01.png"); background-size: 30px}
+.flair1-star {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01.png"); background-size: 100px}
+.flair-star {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01.png"); background-size: 30px}
+.flair1-star1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01_S01.png"); background-size: 100px}
+.flair-star1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01_S01.png"); background-size: 30px}
+.flair1-star2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01_S02.png"); background-size: 100px}
+.flair-star2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01_S02.png"); background-size: 30px}
+.flair1-star3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01_S03.png"); background-size: 100px}
+.flair-star3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_starlord01_S03.png"); background-size: 30px}
+.flair1-storm {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_storm01.png"); background-size: 100px}
+.flair-storm {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_storm01.png"); background-size: 30px}
+.flair1-storm1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_storm01_S01.png"); background-size: 100px}
+.flair-storm1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_storm01_S01.png"); background-size: 30px}
+.flair1-stryfe {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_stryfe01.png"); background-size: 100px}
+.flair-stryfe {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_stryfe01.png"); background-size: 30px}
+.flair1-sunbird {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sunbird01.png"); background-size: 100px}
+.flair-sunbird {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_sunbird01.png"); background-size: 30px}
+.flair1-supergiant {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_SuperGiant01.png"); background-size: 100px}
+.flair-supergiant {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_SuperGiant01.png"); background-size: 30px}
+.flair1-surtur {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_surtur01.png"); background-size: 100px}
+.flair-surtur {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_surtur01.png"); background-size: 30px}
+.flair1-swordmaster {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_swordmaster01.png"); background-size: 100px}
+.flair-swordmaster {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_swordmaster01.png"); background-size: 30px}
+.flair1-talos {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_talos01.png"); background-size: 100px}
+.flair-talos {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_talos01.png"); background-size: 30px}
+.flair1-thanos {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_Thanos01.png"); background-size: 100px}
+.flair-thanos {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_Thanos01.png"); background-size: 30px}
+.flair1-thanos1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_thanos01_S01.png"); background-size: 100px}
+.flair-thanos1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_thanos01_S01.png"); background-size: 30px}
+.flair1-thanos2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_thanos01_S02.png"); background-size: 100px}
+.flair-thanos2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_thanos01_S02.png"); background-size: 30px}
+.flair1-thanos3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_thanos01_S03.png"); background-size: 100px}
+.flair-thanos3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_thanos01_S03.png"); background-size: 30px}
+.flair1-thing {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thing01.png"); background-size: 100px}
+.flair-thing {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thing01.png"); background-size: 30px}
+.flair1-thing1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thing01_S01.png"); background-size: 100px}
+.flair-thing1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thing01_S01.png"); background-size: 30px}
+.flair1-thor {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01.png"); background-size: 100px}
+.flair-thor {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01.png"); background-size: 30px}
+.flair1-thor1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S01.png"); background-size: 100px}
+.flair-thor1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S01.png"); background-size: 30px}
+.flair1-thor2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S02.png"); background-size: 100px}
+.flair-thor2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S02.png"); background-size: 30px}
+.flair1-thor3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S03.png"); background-size: 100px}
+.flair-thor3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S03.png"); background-size: 30px}
+.flair1-thor4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S04.png"); background-size: 100px}
+.flair-thor4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S04.png"); background-size: 30px}
+.flair1-thor5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S05.png"); background-size: 100px}
+.flair-thor5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S05.png"); background-size: 30px}
+.flair1-thor6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S06.png"); background-size: 100px}
+.flair-thor6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_thor01_S06.png"); background-size: 30px}
+.flair1-jane {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_janefoster01.png"); background-size: 100px}
+.flair-jane {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_janefoster01.png"); background-size: 30px}
+.flair1-titania {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_titania01.png"); background-size: 100px}
+.flair-titania {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_titania01.png"); background-size: 30px}
+.flair1-ulik {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ulik01.png"); background-size: 100px}
+.flair-ulik {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ulik01.png"); background-size: 30px}
+.flair1-ultron {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01.png"); background-size: 100px}
+.flair-ultron {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01.png"); background-size: 30px}
+.flair1-ultron1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01_S01.png"); background-size: 100px}
+.flair-ultron1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01_S01.png"); background-size: 30px}
+.flair1-ultron2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01_S02.png"); background-size: 100px}
+.flair-ultron2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01_S02.png"); background-size: 30px}
+.flair1-ultron3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01_S03.png"); background-size: 100px}
+.flair-ultron3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ultron_boss01_S03.png"); background-size: 30px}
+.flair1-klaue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ulyssesklaue01.png"); background-size: 100px}
+.flair-klaue {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_ulyssesklaue01.png"); background-size: 30px}
+.flair1-valkyrie {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_valkyrie01.png"); background-size: 100px}
+.flair-valkyrie {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_valkyrie01.png"); background-size: 30px}
+.flair1-venom {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_venom01.png"); background-size: 100px}
+.flair-venom {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_venom01.png"); background-size: 30px}
+.flair1-venom1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_venom01_S01.png"); background-size: 100px}
+.flair-venom1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_venom01_S01.png"); background-size: 30px}
+.flair1-venom2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_venom01_S02.png"); background-size: 100px}
+.flair-venom2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_venom01_S02.png"); background-size: 30px}
+.flair1-victorious {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_victorious01.png"); background-size: 100px}
+.flair-victorious {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_victorious01.png"); background-size: 30px}
+.flair1-vision {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_vision01.png"); background-size: 100px}
+.flair-vision {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_vision01.png"); background-size: 30px}
+.flair1-vision1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_vision01_S01.png"); background-size: 100px}
+.flair-vision1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_vision01_S01.png"); background-size: 30px}
+.flair1-vision2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_vision01_S02.png"); background-size: 100px}
+.flair-vision2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_vision01_S02.png"); background-size: 30px}
+.flair1-volstagg {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_volstagg01.png"); background-size: 100px}
+.flair-volstagg {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_volstagg01.png"); background-size: 30px}
+.flair1-vulture {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_vulture01.png"); background-size: 100px}
+.flair-vulture {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_vulture01.png"); background-size: 30px}
+.flair1-vulture1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_vulture01_S01.png"); background-size: 100px}
+.flair-vulture1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_vulture01_S01.png"); background-size: 30px}
+.flair1-wm {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01.png"); background-size: 100px}
+.flair-wm {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01.png"); background-size: 30px}
+.flair1-wm1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S01.png"); background-size: 100px}
+.flair-wm1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S01.png"); background-size: 30px}
+.flair1-wm2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S02.png"); background-size: 100px}
+.flair-wm2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S02.png"); background-size: 30px}
+.flair1-wm3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S03.png"); background-size: 100px}
+.flair-wm3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S03.png"); background-size: 30px}
+.flair1-wm4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S04.png"); background-size: 100px}
+.flair-wm4 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S04.png"); background-size: 30px}
+.flair1-wm5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S05.png"); background-size: 100px}
+.flair-wm5 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S05.png"); background-size: 30px}
+.flair1-wm6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S06.png"); background-size: 100px}
+.flair-wm6 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warmachine01_S06.png"); background-size: 30px}
+.flair1-wartiger {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wartiger01.png"); background-size: 100px}
+.flair-wartiger {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wartiger01.png"); background-size: 30px}
+.flair1-warpath {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warpath01.png"); background-size: 100px}
+.flair-warpath {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warpath01.png"); background-size: 30px}
+.flair1-warwolf {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warwolf01.png"); background-size: 100px}
+.flair-warwolf {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_warwolf01.png"); background-size: 30px}
+.flair1-wasp {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wasp01.png"); background-size: 100px}
+.flair-wasp {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wasp01.png"); background-size: 30px}
+.flair1-wasp1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wasp01_S01.png"); background-size: 100px}
+.flair-wasp1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wasp01_S01.png"); background-size: 30px}
+.flair1-wasp2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wasp01_S02.png"); background-size: 100px}
+.flair-wasp2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wasp01_S02.png"); background-size: 30px}
+.flair1-nadiavan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nadiapym01.png"); background-size: 100px}
+.flair-nadiavan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_nadiapym01.png"); background-size: 30px}
+.flair1-wave {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wave01.png"); background-size: 100px}
+.flair-wave {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wave01.png"); background-size: 30px}
+.flair1-weaponhex {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_weaponhex01.png"); background-size: 100px}
+.flair-weaponhex {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_weaponhex01.png"); background-size: 30px}
+.flair1-whiplash {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_whiplash01.png"); background-size: 100px}
+.flair-whiplash {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_whiplash01.png"); background-size: 30px}
+.flair1-whitefox {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_whitefox01.png"); background-size: 100px}
+.flair-whitefox {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_whitefox01.png"); background-size: 30px}
+.flair1-whitefox1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_whitefox01_S01.png"); background-size: 100px}
+.flair-whitefox1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_whitefox01_S01.png"); background-size: 30px}
+.flair1-tiger {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_whitetiger01.png"); background-size: 100px}
+.flair-tiger {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_whitetiger01.png"); background-size: 30px}
+.flair1-wiccan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wiccan01.png"); background-size: 100px}
+.flair-wiccan {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wiccan01.png"); background-size: 30px}
+.flair1-bucky {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01.png"); background-size: 100px}
+.flair-bucky {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01.png"); background-size: 30px}
+.flair1-bucky1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01_S01.png"); background-size: 100px}
+.flair-bucky1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01_S01.png"); background-size: 30px}
+.flair1-bucky2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01_S02.png"); background-size: 100px}
+.flair-bucky2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01_S02.png"); background-size: 30px}
+.flair1-bucky3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01_S03.png"); background-size: 100px}
+.flair-bucky3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wintersoldier01_S03.png"); background-size: 30px}
+.flair1-wolverine {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01.png"); background-size: 100px}
+.flair-wolverine {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01.png"); background-size: 30px}
+.flair1-wolverine1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01_S01.png"); background-size: 100px}
+.flair-wolverine1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01_S01.png"); background-size: 30px}
+.flair1-wolverine2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01_S02.png"); background-size: 100px}
+.flair-wolverine2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01_S02.png"); background-size: 30px}
+.flair1-wolverine3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01_S03.png"); background-size: 100px}
+.flair-wolverine3 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wolverine01_S03.png"); background-size: 30px}
+.flair1-wong {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wong01.png"); background-size: 100px}
+.flair-wong {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wong01.png"); background-size: 30px}
+.flair1-wong1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wong01_S01.png"); background-size: 100px}
+.flair-wong1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_wong01_S01.png"); background-size: 30px}
+.flair1-laura {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_x-2301.png"); background-size: 100px}
+.flair-laura {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_x-2301.png"); background-size: 30px}
+.flair1-laura1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_x-2301_S01.png"); background-size: 100px}
+.flair-laura1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/hero_x-2301_S01.png"); background-size: 30px}
+.flair1-yj {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yellowjacket01.png"); background-size: 100px}
+.flair-yj {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yellowjacket01.png"); background-size: 30px}
+.flair1-yj1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yellowjacket01_S01.png"); background-size: 100px}
+.flair-yj1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yellowjacket01_S01.png"); background-size: 30px}
+.flair1-ymir {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_ymir01.png"); background-size: 100px}
+.flair-ymir {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/boss_ymir01.png"); background-size: 30px}
+.flair1-yondu {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yondu01.png"); background-size: 100px}
+.flair-yondu {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yondu01.png"); background-size: 30px}
+.flair1-yondu1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yondu01_S01.png"); background-size: 100px}
+.flair-yondu1 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yondu01_S01.png"); background-size: 30px}
+.flair1-yondu2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yondu01_S02.png"); background-size: 100px}
+.flair-yondu2 {background-image: url("https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/sv_yondu01_S02.png"); background-size: 30px}
