@@ -35,7 +35,8 @@
 .flair-clea {background-position: -2800px 0px}
 .flair-colossus {background-position: -2900px 0px}
 .flair-corvus {background-position: -3000px 0px}
-.flair-crescent {background-position: -3100px 0px}
+.flair-crescent-t2 {background-position: -3100px 0px}
+.flair-crescent-t3 {background-position: -3100px -128px}
 .flair-crossbones {background-position: -3200px 0px}
 .flair-crystal {background-position: -3300px 0px}
 .flair-cyclops-t2 {background-position: -3400px 0px}
@@ -203,7 +204,7 @@
 .flair-yellowjacket {background-position: -18100px 0px}
 .flair-yondu {background-position: -18200px 0px}
 .flair-nickfury {background-position: -18300px 0px}
-.flair-minnerva-t2 {background-position: -18400px 0px}
+.flair-minnerva {background-position: -18400px 0px}
 .flair-minnerva-t3 {background-position: -18400px 0px}
 .flair-korath {background-position: -18500px 0px}
 .flair-juggernaut {background-position: -18600px 0px}
@@ -228,8 +229,12 @@
 .flair-voodoo {background-position: -20300px 0px}
 .flair-swordmaster {background-position: -20400px 0px}
 .flair-slap {background-position: -20500px 0px}
-.flair-negasonic {background-position: -20700px 0px}
 .flair-gorilla {background-position: -20600px 0px}
+.flair-negasonic {background-position: -20700px 0px}
+.flair-bluedragon {background-position: -20800px 0px}
+.flair-firebird {background-position: -20900px 0px}
+.flair-shadowshell {background-position: -21000px 0px}
+.flair-wartiger {background-position: -21100px 0px}
 
 
 
