@@ -175,7 +175,7 @@ flair.selectChoice = function (hero_id, key) {
 	
 	flair.by_id[hero_id].hero_attributeop = flair.by_id[hero_id].hero_name.replace(/.*?(\#[^)]*\#).*?/g, "$1");
 	
-	flair.by_id[hero_id].hero_abilities1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Agent|Agility|Chaos Magic|Chill|Cold Blooded|Command|Durability|Electrokinetic|Energy Projection|Fantastic Four|Fast Movement|Flame|Healing|Heightened Senses|Leadership|Machine|Magic|Mind|Mind Resist|Phoenix Force|Poison|Power Cosmic|Pure Evil|Shock|Spider-Sense|Strong|Symbiote|Time Freezing Immunity|Weapon Master)*\#).*?/gi, "$1").replace(/#Agent#/g, " Agent,").replace(/#Agility#/g, " Agility,").replace(/#Chaos Magic#/g, " Chaos Magic,").replace(/#Chill#/g, " Chill,").replace(/#Cold Blooded#/g, " Cold Blooded,").replace(/#Command#/g, " Command,").replace(/#Durability#/g, " Durability,").replace(/#Electrokinetic#/g, " Electrokinetic,").replace(/#Energy Projection#/g, " Energy Projection,").replace(/#Fantastic Four#/g, " Fantastic Four,").replace(/#Fast Movement#/g, " Fast Movement,").replace(/#Flame#/g, " Flame,").replace(/#Healing#/g, " Healing,").replace(/#Heightened Senses#/g, " Heightened Senses,").replace(/#Leadership#/g, " Leadership,").replace(/#Machine#/g, " Machine,").replace(/#Magic#/g, " Magic,").replace(/#Mind#/g, " Mind,").replace(/#Mind Resist#/g, " Mind Resist,").replace(/#Phoenix Force#/g, " Phoenix Force,").replace(/#Poison#/g, " Poison,").replace(/#Power Cosmic#/g, " Power Cosmic,").replace(/#Pure Evil#/g, " Pure Evil,").replace(/#Shock#/g, " Shock,").replace(/#Spider-Sense#/g, " Spider-Sense,").replace(/#Strong#/g, " Strong,").replace(/#Symbiote#/g, " Symbiote,").replace(/#Time Freezing Immunity#/g, " Time Freezing Immunity,").replace(/#Weapon Master#/g, " Weapon Master,");
+	flair.by_id[hero_id].hero_abilities1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Agent|Agility|Chaos Magic|Chill|Cold Blooded|Command|Durability|Electrokinetic|Energy Projection|Fantastic Four|Fast Movement|Flame|Healing|Heightened Senses|Leadership|Machine|Magic|Mind|Mind Resist|Phoenix Force|Poison|Power Cosmic|Pure Evil|Shock|Spider-Sense|Strong|Symbiote|Time Freezing Immunity|Warriors of the Sky|Weapon Master)*\#).*?/gi, "$1").replace(/#Agent#/g, " Agent,").replace(/#Agility#/g, " Agility,").replace(/#Chaos Magic#/g, " Chaos Magic,").replace(/#Chill#/g, " Chill,").replace(/#Cold Blooded#/g, " Cold Blooded,").replace(/#Command#/g, " Command,").replace(/#Durability#/g, " Durability,").replace(/#Electrokinetic#/g, " Electrokinetic,").replace(/#Energy Projection#/g, " Energy Projection,").replace(/#Fantastic Four#/g, " Fantastic Four,").replace(/#Fast Movement#/g, " Fast Movement,").replace(/#Flame#/g, " Flame,").replace(/#Healing#/g, " Healing,").replace(/#Heightened Senses#/g, " Heightened Senses,").replace(/#Leadership#/g, " Leadership,").replace(/#Machine#/g, " Machine,").replace(/#Magic#/g, " Magic,").replace(/#Mind#/g, " Mind,").replace(/#Mind Resist#/g, " Mind Resist,").replace(/#Phoenix Force#/g, " Phoenix Force,").replace(/#Poison#/g, " Poison,").replace(/#Power Cosmic#/g, " Power Cosmic,").replace(/#Pure Evil#/g, " Pure Evil,").replace(/#Shock#/g, " Shock,").replace(/#Spider-Sense#/g, " Spider-Sense,").replace(/#Strong#/g, " Strong,").replace(/#Symbiote#/g, " Symbiote,").replace(/#Time Freezing Immunity#/g, " Time Freezing Immunity,").replace(/#Warriors of the Sky#/g, " Warriors of the Sky,").replace(/#Weapon Master#/g, " Weapon Master,");
 	flair.by_id[hero_id].hero_abilities2 = flair.by_id[hero_id].hero_abilities1.replace(/ *\#[^)]*\# */g, "");
 	flair.by_id[hero_id].hero_abilities = flair.by_id[hero_id].hero_abilities2.slice(0, -1);
 	document.getElementById('flair-selection-abilities').innerHTML = flair.by_id[hero_id].hero_abilities;
@@ -284,6 +284,38 @@ filterSelection1("all")
   }
 }
 
+filterSelection2("all")
+		  function filterSelection2(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "side");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "side");
+  }
+}
+		
+filterSelection3("all")
+		  function filterSelection3(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "charuni");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "charuni");
+  }
+}
+		
+filterSelection4("all")
+		  function filterSelection4(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "gender");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "gender");
+  }
+}
 
 	}
 
@@ -490,6 +522,36 @@ n.show = function (o) {
 		o.style.display = '';
 	}
 }
+function filterSelection4(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "gender");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "gender");
+  }
+}
+
+function filterSelection3(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "charuni");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "charuni");
+  }
+}
+
+function filterSelection2(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "side");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "side");
+  }
+}
+
 
 function filterSelection1(c) {
   var x, i;
@@ -545,20 +607,38 @@ function w3RemoveClass1(element, name) {
   element.className = arr1.join(" ");
 }
 
+function w3RemoveClass2(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
 	  $(function(){
 
     $(".dropdown-content").on('click', 'button', function(){
       $(".btn3:first-child").text($(this).text());
       $(".btn3:first-child").val($(this).text());
    });
-
-});
-
-	  $(function(){
-
+		  
     $(".dropdown1-content").on('click', 'button', function(){
       $(".btn4:first-child").text($(this).text());
       $(".btn4:first-child").val($(this).text());
    });
-
+    
+    $(".dropdown2-content").on('click', 'button', function(){
+      $(".btn6:first-child").text($(this).text());
+      $(".btn6:first-child").val($(this).text());
+   });
+    $(".dropdown3-content").on('click', 'button', function(){
+      $(".btn8:first-child").text($(this).text());
+      $(".btn8:first-child").val($(this).text());
+   });
+		  
+		  
 });

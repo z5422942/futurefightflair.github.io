@@ -50,7 +50,7 @@ body {
 }
 }
 
-@media only screen and (max-width: 599px) {
+@media only screen and (max-width: 650px) {
 
 #flair-filter {
     flex-direction: column;
@@ -60,7 +60,7 @@ body {
 }
 }
 
-@media only screen and (max-device-width: 599px) {
+@media only screen and (max-device-width: 650px) {
     
     body {
 	font-size: 12px;
@@ -330,7 +330,7 @@ button:hover, input[type=submit]:hover {
 .flair {
     background-color: transparent
 }
-.show.type {
+.show.type.side.charuni.gender {
     display: -webkit-inline-flex;
     display: inline-flex;
     -webkit-align-items: center;
@@ -370,16 +370,14 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     vertical-align: middle;
     margin: 0;
-    padding: 2px 8px 2px;
-    background: linear-gradient(to bottom, #003366, #33cccc);
+    padding: 0px 0px;
+    background: transparent;
     border: 1px solid #495672;
     border-radius: 0px;
-    color: #fff;
     font-family: 'Exo', sans-serif;
     font-weight: 800;
     text-transform: capitalize;
-    line-height: 21px;
-    outline: 0;
+    line-height: 19px;
     cursor: pointer;
 }
 .btn:hover {
@@ -389,7 +387,7 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0px;
     padding: 2px 8px 2px;
-    width: 110px!important;
+    width: 90px!important;
     background: #070708;
     border: 1px solid #25282c;
     border-radius: 0px;
@@ -410,7 +408,7 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
-    width: 110px!important;
+    width: 90px!important;
     background: #26224c;
     border: 1px solid #aa8ed8;
     border-radius: 0px;
@@ -431,7 +429,7 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
-    width: 110px!important;
+    width: 90px!important;
     background: #26224c;
     border: 1px solid #aa8ed8;
     border-radius: 0px;
@@ -448,10 +446,76 @@ button:hover, input[type=submit]:hover {
     background: #070708;
     border: 1px solid #f1d455;
 }
+.btn6 {
+    display: inline-block;
+    margin: 0;
+    padding: 2px 8px 2px;
+    width: 80px!important;
+    background: #26224c;
+    border: 1px solid #aa8ed8;
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: left;
+    line-height: 21px;
+    outline: 0;
+    cursor: pointer;
+}
+.btn6:hover {
+    background: #070708;
+    border: 1px solid #f1d455;
+}
+.btn7 {
+    display: inline-block;
+    margin: 0;
+    padding: 2px 8px 2px;
+    width: 80px!important;
+    background: #26224c;
+    border: 1px solid #aa8ed8;
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: left;
+    line-height: 21px;
+    outline: 0;
+    cursor: pointer;
+}
+.btn7:hover {
+    background: #070708;
+    border: 1px solid #f1d455;
+}
+.btn8 {
+    display: inline-block;
+    margin: 0;
+    padding: 2px 8px 2px;
+    width: 80px!important;
+    background: #26224c;
+    border: 1px solid #aa8ed8;
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: left;
+    line-height: 21px;
+    outline: 0;
+    cursor: pointer;
+}
+.btn8:hover {
+    background: #070708;
+    border: 1px solid #f1d455;
+}
 .active {
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, .2);
     background: #8456b1
 }
+
+
+
 [class*='gb-'] {
 }
 [class*='gb-']:last-of-type {
@@ -512,7 +576,43 @@ button:hover, input[type=submit]:hover {
     display: block;
     width: 10px!important;
 }
-.dropdown1:hover .btn3 {
+.dropdown1:hover .btn4 {
+    background: #070708;
+    border: 1px solid #25282c;
+}
+.dropdown2 {
+    position: relative;
+    display: block;
+}
+.dropdown2-content {
+    display: none;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
+.dropdown2:hover .dropdown2-content {
+    display: block;
+    width: 10px!important;
+}
+.dropdown2:hover .btn6 {
+    background: #070708;
+    border: 1px solid #25282c;
+}
+.dropdown3 {
+    position: relative;
+    display: block;
+}
+.dropdown3-content {
+    display: none;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
+.dropdown3:hover .dropdown3-content {
+    display: block;
+    width: 10px!important;
+}
+.dropdown3:hover .btn8 {
     background: #070708;
     border: 1px solid #25282c;
 }
@@ -520,5 +620,6 @@ button:hover, input[type=submit]:hover {
 .wrapperchild1 {
     z-index: 12;
     background:#0e1320;
-    width:100%;
+    width:100px;
+	min-width:100%;
 }
