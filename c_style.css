@@ -293,10 +293,22 @@ button:hover, input[type=submit]:hover {
     width: 30px;
     height: 30px;
     cursor: pointer;
-    margin: 6px 5.7px !important;
+    margin: 5.7px 5.7px !important;
     position: relative;
     border: 1px solid #363a41;
     display: none;
+}
+.flair2 {
+    display: -webkit-inline-flex;
+    display: inline-flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    width: 19px;
+    height: 19px;
+    cursor: pointer;
+    position: relative;
 }
 .flair1 {
     display: -webkit-inline-flex;
@@ -340,7 +352,7 @@ button:hover, input[type=submit]:hover {
     width: 30px;
     height: 30px;
     cursor: pointer;
-    margin: 6px 5.7px !important;
+    margin: 5.7px 5.7px !important;
     position: relative;
     border: 1px solid #363a41;
 }
@@ -369,7 +381,7 @@ button:hover, input[type=submit]:hover {
 .btn1 {
     display: inline-block;
     vertical-align: middle;
-    margin: 0;
+    margin: 2px 2px;
     padding: 0px 0px;
     background: transparent;
     border: 1px solid #495672;

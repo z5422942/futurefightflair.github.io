@@ -1371,11 +1371,47 @@
 .flair:before {left: 47px}
 .flair:after {left: 245px}
 
-.flair-character {background-image:url(https://futurefightflair.github.io/flairs.png)!important}
-.flair-uniform {background-image:url(https://futurefightflair.github.io/flairs.png)!important}
+.flair-character {background-image:url(flairs.png)!important}
+.flair-uniform {background-image:url(flairs.png)!important}
 
-.flair1-character {background-image:url(https://futurefightflair.github.io/flairshq.jpg)!important}
-.flair1-uniform {background-image:url(https://futurefightflair.github.io/flairshq.jpg)!important}
+.flair1-character {background-image:url(flairshq.jpg)!important}
+.flair1-uniform {background-image:url(flairshq.jpg)!important}
+
+.ability {background-image:url(icons.jpg)!important; background-size: auto 20px!important;}
+.agent {background-position: 0px 0px;}
+.agility {background-position: -20px 0px;}
+.chaosmagic {background-position: -40px 0px;}
+.chill {background-position: -60px 0px;}
+.coldblooded {background-position: -80px 0px;}
+.command {background-position: -100px 0px;}
+.durability {background-position: -120px 0px;}
+.energyprojection {background-position: -140px 0px;}
+.fantasticfour {background-position: -160px 0px;}
+.fastmovement {background-position: -180px 0px;}
+.flame {background-position: -200px 0px;}
+.healing {background-position: -220px 0px;}
+.heightenedsenses {background-position: -240px 0px;}
+.leadership {background-position: -260px 0px;}
+.machine {background-position: -280px 0px;}
+.magic {background-position: -300px 0px;}
+.mind {background-position: -320px 0px;}
+.mindresist {background-position: -340px 0px;}
+.phoenixforce {background-position: -360px 0px;}
+.poison {background-position: -380px 0px;}
+.powercosmic {background-position: -400px 0px;}
+.pureevil {background-position: -320px 0px;}
+.shock {background-position: -440px 0px;}
+.sinistersix {background-position: -460px 0px;}
+.spidersense {background-position: -480px 0px;}
+.symbiote {background-position: -500px 0px;}
+.strong {background-position: -520px 0px;}
+.timefreezeimmunity {background-position: -540px 0px;}
+.warriorsofthesky {background-position: -560px 0px;}
+.weaponsmaster {background-position: -580px 0px;}
+
+
+
+
 
 
 
