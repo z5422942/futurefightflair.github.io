@@ -9,7 +9,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Flair Selector for /r/future_fight" />
 <meta property="og:url" content="https://futurefightflair.github.io/" />
-<meta property="og:image" content="https://futurefightflair.github.io/icons/snoo.png" />
+<meta property="og:image" content="icons/snoo.png" />
 <!-- Stylesheets -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans:300italic,400italic,600italic,700italic,400,300,600,700"
         type="text/css" media="all">
@@ -34,7 +34,7 @@
 <script type="text/javascript" src="j_scripts.js"></script>
 </head>
 
-<body>
+<body onLoad="filterSelection('all');filterSelection1('all');filterSelection2('all');filterSelection3('all');filterSelection4('all');">
 <noscript>
 JavaScript is required to run this page.
 </noscript>
@@ -80,7 +80,7 @@ JavaScript is required to run this page.
     <li> <i>Side: </i>Super Hero, Neutral, Super Villain</li>
     <li> <i>Team: </i>Agents of Atlas, Avengers, Black Order, Brotherhood, Defenders, Fantastic Four, Guardians, Mercs For Money, Original, Phoenix Five, Shield, Sinister Six, Skrull, Spidey, Warriors of the Sky, X-Men, X-Force</li>
     <li> <i>Type: </i>Blast, Combat, Speed, Universal</li>
-    <li> <i>Utilities: </i>MCU, New, NPC, Tier3, Potential, Support</li>
+    <li> <i>Utilities: </i>MCU, New, NPC, Tier 3, Potential, Support</li>
   </ul>
 </div>
 </div>
@@ -100,6 +100,7 @@ JavaScript is required to run this page.
         <input id="flair-selection-text" style="margin-left:-0.1px;" type="text" placeholder="Insert flair text here" />
         <div class="spacer">
           <button class="btn" style="width:115px!important; height: 26px!important; font-size:7pt;" onclick="flair.sendChoice()" id="flair-select-submit">SEND FLAIR REQUEST</button>
+		  
         </div>
       </div>
         </div>
@@ -211,7 +212,6 @@ JavaScript is required to run this page.
   </div>
 </div>   
 
-		<button class="btn5" style="margin-left:4px;">></button>
     </div>
   </div>
     </div>
@@ -256,7 +256,18 @@ var btns = btnContainer.getElementsByClassName("btn1");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
 var current = document.getElementsByClassName("btn1 active");
-document.getElementById('filter-selection-name').innerHTML = "Filtered by: " + current[0].title;
+document.getElementById('filter-selection-name').innerHTML = "Filtered by " + current[0].title;
   });
+}
+</script>
+
+<script>
+	function removeloader() {
+  var x = document.getElementById("startbutton");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 }
 </script>

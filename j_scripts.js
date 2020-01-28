@@ -262,96 +262,9 @@ flair.loadChoices = function () {
 			enter.appendChild(flair_choice);
 		}
 		
-filterSelection("all")
-  function filterSelection(c) {
-  var x, i;
-  x = document.getElementsByClassName("flair flair-choice");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
-  }
-}
-		
-filterSelection1("all")
-		  function filterSelection1(c) {
-  var x, i;
-  x = document.getElementsByClassName("flair flair-choice");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "type");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "type");
-  }
-}
-
-filterSelection2("all")
-		  function filterSelection2(c) {
-  var x, i;
-  x = document.getElementsByClassName("flair flair-choice");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "side");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "side");
-  }
-}
-		
-filterSelection3("all")
-		  function filterSelection3(c) {
-  var x, i;
-  x = document.getElementsByClassName("flair flair-choice");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "charuni");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "charuni");
-  }
-}
-		
-filterSelection4("all")
-		  function filterSelection4(c) {
-  var x, i;
-  x = document.getElementsByClassName("flair flair-choice");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "gender");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "gender");
-  }
-}
 
 	}
 
-	var sr_enter = document.getElementById('subreddit-selection');
-	for (var i = 0; i < flair.subreddits.length; i++) {
-		var sr = flair.subreddits[i];
-
-		var sr_choice = document.createElement('label');
-		sr_choice.setAttribute('class', 'sr-choice');
-		sr_choice.setAttribute('data-name', sr);
-		sr_choice.setAttribute('for', 'sr-choice-' + sr);
-
-		var sr_choice_input = document.createElement('input');
-		sr_choice_input.setAttribute('id', 'sr-choice-' + sr);
-		sr_choice_input.setAttribute('type', 'checkbox');
-		sr_choice_input.setAttribute('checked', '');
-
-		var sr_choice_span = document.createElement('span');
-		sr_choice_span.textContent = sr;
-
-		sr_choice.appendChild(sr_choice_input);
-		sr_choice.appendChild(sr_choice_span);
-
-		sr_enter.appendChild(sr_choice);
-
-		if (i != flair.subreddits.length - 1) {
-			var sr_sep = document.createElement('span');
-			sr_sep.setAttribute('class', 'sr-sep');
-			sr_sep.textContent = '|';
-			sr_enter.appendChild(sr_sep);
-		}
-	}
-
-	if (do_initial_updateFilter) {
-		flair.updateFilter();
-	}
 }
 
 document.addEventListener('DOMContentLoaded', flair.loadChoices, false);
@@ -522,6 +435,64 @@ n.show = function (o) {
 		o.style.display = '';
 	}
 }
+
+
+filterSelection1("all")
+		  function filterSelection1(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "type");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "type");
+  }
+}
+
+filterSelection2("all")
+		  function filterSelection2(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "side");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "side");
+  }
+}
+		
+filterSelection3("all")
+		  function filterSelection3(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "charuni");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "charuni");
+  }
+}
+		
+filterSelection4("all")
+		  function filterSelection4(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "gender");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "gender");
+  }
+}
+
+
+filterSelection("all")
+  function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
 function filterSelection4(c) {
   var x, i;
   x = document.getElementsByClassName("flair flair-choice");
