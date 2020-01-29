@@ -30,6 +30,9 @@ body {
 	.mobilelogo{
 		margin-top: 4px!important;
 	}
+	.wrapper.no-style.no-margin{
+		margin-top:-10.5px!important;
+	}
 }
 
 ul {
