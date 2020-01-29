@@ -20,9 +20,12 @@ body {
 
 
 
-@media only screen and (max-width:599px) {
+@media only screen and (max-device-width:599px) {
     .mobile5{
-        margin-top:7px!important;
+        margin-top:9px!important;
+    }
+    .mobiletop{
+        margin-top:-10px!important;
     }
 }
 
