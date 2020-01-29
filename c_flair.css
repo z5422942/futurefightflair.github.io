@@ -1,1383 +1,473 @@
-.flair-angela {
-	background-position: 0 0
-}
-.flair-angela1 {
-	background-position: -30px 0
-}
-.flair-angela2 {
-	background-position: -60px 0
-}
-.flair-bolt {
-	background-position: 0 -30px
-}
-.flair-bolt1 {
-	background-position: -30px -30px
-}
-.flair-bolt2 {
-	background-position: -60px -30px
-}
-.flair-cat {
-	background-position: 0 -60px
-}
-.flair-cat1 {
-	background-position: -30px -60px
-}
-.flair-cat2 {
-	background-position: -60px -60px
-}
-.flair-panther {
-	background-position: 0 -90px
-}
-.flair-panther1 {
-	background-position: -30px -90px
-}
-.flair-panther2 {
-	background-position: -60px -90px
-}
-.flair-widow {
-	background-position: 0 -120px
-}
-.flair-widow1 {
-	background-position: -30px -120px
-}
-.flair-widow2 {
-	background-position: -60px -120px
-}
-.flair-widow3 {
-	background-position: -90px -120px
-}
-.flair-widow4 {
-	background-position: -120px -120px
-}
-.flair-widow5 {
-	background-position: -150px -120px
-}
-.flair-widow6 {
-	background-position: -180px -120px
-}
-.flair-widow7 {
-	background-position: -210px -120px
-}
-.flair-blade {
-	background-position: 0 -150px
-}
-.flair-blade1 {
-	background-position: -30px -150px
-}
-.flair-bullseye {
-	background-position: 0 -180px
-}
-.flair-bullseye1 {
-	background-position: -30px -180px
-}
-.flair-cap {
-	background-position: 0 -210px
-}
-.flair-cap1 {
-	background-position: -30px -210px
-}
-.flair-cap2 {
-	background-position: -60px -210px
-}
-.flair-cap3 {
-	background-position: -90px -210px
-}
-.flair-cap4 {
-	background-position: -120px -210px
-}
-.flair-cap5 {
-	background-position: -150px -210px
-}
-.flair-cap6 {
-	background-position: -180px -210px
-}
-.flair-cap7 {
-	background-position: -210px -210px
-}
-.flair-cap8 {
-	background-position: -240px -210px
-}
-.flair-cap9 {
-	background-position: -270px -210px
-}
-.flair-danvers {
-	background-position: 0 -240px
-}
-.flair-danvers1 {
-	background-position: -30px -240px
-}
-.flair-danvers2 {
-	background-position: -60px -240px
-}
-.flair-danvers3 {
-	background-position: -90px -240px
-}
-.flair-danvers4 {
-	background-position: -120px -240px
-}
-.flair-devil {
-	background-position: 0 -270px
-}
-.flair-devil1 {
-	background-position: -30px -270px
-}
-.flair-devil2 {
-	background-position: -60px -270px
-}
-.flair-destroyer {
-	background-position: 0 -300px
-}
-.flair-destroyer1 {
-	background-position: -30px -300px
-}
-.flair-ock {
-	background-position: 0 -330px
-}
-.flair-ock1 {
-	background-position: -30px -330px
-}
-.flair-drax {
-	background-position: 0 -360px
-}
-.flair-drax1 {
-	background-position: -30px -360px
-}
-.flair-elektra {
-	background-position: 0 -390px
-}
-.flair-elektra1 {
-	background-position: -30px -390px
-}
-.flair-falcon {
-	background-position: 0 -420px
-}
-.flair-falcon1 {
-	background-position: -30px -420px
-}
-.flair-falcon2 {
-	background-position: -60px -420px
-}
-.flair-falcon3 {
-	background-position: -90px -420px
-}
-.flair-gamora {
-	background-position: 0 -450px
-}
-.flair-gamora1 {
-	background-position: -30px -450px
-}
-.flair-gamora2 {
-	background-position: -60px -450px
-}
-.flair-rider {
-	background-position: 0 -480px
-}
-.flair-rider1 {
-	background-position: -30px -480px
-}
-.flair-rider2 {
-	background-position: -60px -480px
-}
-.flair-goblin {
-	background-position: 0 -510px
-}
-.flair-goblin1 {
-	background-position: -30px -510px
-}
-.flair-groot {
-	background-position: 0 -540px
-}
-.flair-groot1 {
-	background-position: -30px -540px
-}
-.flair-groot2 {
-	background-position: -60px -540px
-}
-.flair-groot3 {
-	background-position: -90px -540px
-}
-.flair-hawkeye {
-	background-position: 0 -570px
-}
-.flair-hawkeye1 {
-	background-position: -30px -570px
-}
-.flair-hawkeye2 {
-	background-position: -60px -570px
-}
-.flair-hawkeye3 {
-	background-position: -90px -570px
-}
-.flair-hawkeye4 {
-	background-position: -120px -570px
-}
-.flair-hulk {
-	background-position: -0px -600px
-}
-.flair-hulk1 {
-	background-position: -30px -600px
-}
-.flair-hulk2 {
-	background-position: -60px -600px
-}
-.flair-hulk3 {
-	background-position: -90px -600px
-}
-.flair-hulk4 {
-	background-position: -120px -600px
-}
-.flair-hulk5 {
-	background-position: -150px -600px
-}
-.flair-fist {
-	background-position: 0 -630px
-}
-.flair-fist1 {
-	background-position: -30px -630px
-}
-.flair-fist2 {
-	background-position: -60px -630px
-}
-.flair-fist3 {
-	background-position: -90px -630px
-}
-.flair-im {
-	background-position: 0 -660px
-}
-.flair-im1 {
-	background-position: -30px -660px
-}
-.flair-im2 {
-	background-position: -60px -660px
-}
-.flair-im3 {
-	background-position: -90px -660px
-}
-.flair-im4 {
-	background-position: -120px -660px
-}
-.flair-im5 {
-	background-position: -150px -660px
-}
-.flair-im6 {
-	background-position: -180px -660px
-}
-.flair-im7 {
-	background-position: -210px -660px
-}
-.flair-hb {
-	background-position: 0 -690px
-}
-.flair-hb1 {
-	background-position: -30px -690px
-}
-.flair-hb2 {
-	background-position: -60px -690px
-}
-.flair-kingpin {
-	background-position: 0 -720px
-}
-.flair-kingpin1 {
-	background-position: -30px -720px
-}
-.flair-loki {
-	background-position: 0 -750px
-}
-.flair-loki1 {
-	background-position: -30px -750px
-}
-.flair-loki2 {
-	background-position: -60px -750px
-}
-.flair-loki3 {
-	background-position: -90px -750px
-}
-.flair-luke {
-	background-position: 0 -780px
-}
-.flair-luke1 {
-	background-position: -30px -780px
-}
-.flair-luke2 {
-	background-position: -60px -780px
-}
-.flair-malekith {
-	background-position: 0 -810px
-}
-.flair-malekith1 {
-	background-position: -30px -810px
-}
-.flair-mockingbird {
-	background-position: 0 -840px
-}
-.flair-mockingbird1 {
-	background-position: -30px -840px
-}
-.flair-mockingbird2 {
-	background-position: -60px -840px
-}
-.flair-modok {
-	background-position: 0 -870px
-}
-.flair-modok1 {
-	background-position: -30px -870px
-}
-.flair-modok2 {
-	background-position: -60px -870px
-}
-.flair-nebula {
-	background-position: 0 -900px
-}
-.flair-nebula1 {
-	background-position: -30px -900px
-}
-.flair-nebula2 {
-	background-position: -60px -900px
-}
-.flair-nebula3 {
-	background-position: -90px -900px
-}
-.flair-punisher {
-	background-position: 0 -930px
-}
-.flair-punisher1 {
-	background-position: -30px -930px
-}
-.flair-punisher2 {
-	background-position: -60px -930px
-}
-.flair-punisher3 {
-	background-position: -90px -930px
-}
-.flair-punisher4 {
-	background-position: -120px -930px
-}
-.flair-skull {
-	background-position: 0 -960px
-}
-.flair-skull1 {
-	background-position: -30px -960px
-}
-.flair-rocket {
-	background-position: 0 -990px
-}
-.flair-rocket1 {
-	background-position: -30px -990px
-}
-.flair-rocket2 {
-	background-position: -60px -990px
-}
-.flair-rocket3 {
-	background-position: -90px -990px
-}
-.flair-rocket4 {
-	background-position: -120px -990px
-}
-.flair-rocket5 {
-	background-position: -150px -990px
-}
-.flair-ronan {
-	background-position: 0 -1020px
-}
-.flair-ronan1 {
-	background-position: -30px -1020px
-}
-.flair-ronan2 {
-	background-position: -60px -1020px
-}
-.flair-sharon {
-	background-position: 0 -1050px
-}
-.flair-sharon1 {
-	background-position: -30px -1050px
-}
-.flair-spidey {
-	background-position: 0 -1080px
-}
-.flair-spidey1 {
-	background-position: -30px -1080px
-}
-.flair-spidey2 {
-	background-position: -60px -1080px
-}
-.flair-spidey3 {
-	background-position: -90px -1080px
-}
-.flair-spidey4 {
-	background-position: -120px -1080px
-}
-.flair-spidey5 {
-	background-position: -150px -1080px
-}
-.flair-spidey6 {
-	background-position: -180px -1080px
-}
-.flair-spidey7 {
-	background-position: -210px -1080px
-}
-.flair-star {
-	background-position: 0 -1110px
-}
-.flair-star1 {
-	background-position: -30px -1110px
-}
-.flair-star2 {
-	background-position: -60px -1110px
-}
-.flair-star3 {
-	background-position: -90px -1110px
-}
-.flair-thor {
-	background-position: 0 -1140px
-}
-.flair-thor1 {
-	background-position: -30px -1140px
-}
-.flair-thor2 {
-	background-position: -60px -1140px
-}
-.flair-thor3 {
-	background-position: -90px -1140px
-}
-.flair-thor4 {
-	background-position: -120px -1140px
-}
-.flair-thor5 {
-	background-position: -150px -1140px
-}
-.flair-thor6 {
-	background-position: -180px -1140px
-}
-.flair-ultron {
-	background-position: 0 -1170px
-}
-.flair-ultron1 {
-	background-position: -30px -1170px
-}
-.flair-ultron2 {
-	background-position: -60px -1170px
-}
-.flair-ultron3 {
-	background-position: -90px -1170px
-}
-.flair-venom {
-	background-position: 0 -1200px
-}
-.flair-venom1 {
-	background-position: -30px -1200px
-}
-.flair-venom2 {
-	background-position: -60px -1200px
-}
-.flair-vision {
-	background-position: 0 -1230px
-}
-.flair-vision1 {
-	background-position: -30px -1230px
-}
-.flair-vision2 {
-	background-position: -60px -1230px
-}
-.flair-wm {
-	background-position: 0 -1260px
-}
-.flair-wm1 {
-	background-position: -30px -1260px
-}
-.flair-wm2 {
-	background-position: -60px -1260px
-}
-.flair-wm3 {
-	background-position: -90px -1260px
-}
-.flair-wm4 {
-	background-position: -120px -1260px
-}
-.flair-wm5 {
-	background-position: -150px -1260px
-}
-.flair-wm6 {
-	background-position: -180px -1260px
-}
-.flair-bucky {
-	background-position: 0 -1290px
-}
-.flair-bucky1 {
-	background-position: -30px -1290px
-}
-.flair-bucky2 {
-	background-position: -60px -1290px
-}
-.flair-bucky3 {
-	background-position: -90px -1290px
-}
-.flair-yondu {
-	background-position: 0 -1320px
-}
-.flair-yondu1 {
-	background-position: -30px -1320px
-}
-.flair-yondu2 {
-	background-position: -60px -1320px
-}
-.flair-ant {
-	background-position: 0 -1350px
-}
-.flair-ant1 {
-	background-position: -30px -1350px
-}
-.flair-ant2 {
-	background-position: -60px -1350px
-}
-.flair-ant3 {
-	background-position: -90px -1350px
-}
-.flair-ant4 {
-	background-position: -120px -1350px
-}
-.flair-ant5 {
-	background-position: -150px -1350px
-}
-.flair-giant {
-	background-position: 0 -1380px
-}
-.flair-giant1 {
-	background-position: -30px -1380px
-}
-.flair-giant2 {
-	background-position: -60px -1380px
-}
-.flair-rulk {
-	background-position: 0 -1410px
-}
-.flair-rulk1 {
-	background-position: -30px -1410px
-}
-.flair-wasp {
-	background-position: 0 -1440px
-}
-.flair-wasp1 {
-	background-position: -30px -1440px
-}
-.flair-wasp2 {
-	background-position: -60px -1440px
-}
-.flair-yj {
-	background-position: 0 -1470px
-}
-.flair-yj1 {
-	background-position: -30px -1470px
-}
-.flair-shulk {
-	background-position: 0 -1500px
-}
-.flair-shulk1 {
-	background-position: -30px -1500px
-}
-.flair-shulk2 {
-	background-position: -60px -1500px
-}
-.flair-singularity {
-	background-position: 0 -1530px
-}
-.flair-grimm {
-	background-position: 0 -1560px
-}
-.flair-grimm1 {
-	background-position: -30px -1560px
-}
-.flair-daisy {
-	background-position: 0 -1590px
-}
-.flair-daisy1 {
-	background-position: -30px -1590px
-}
-.flair-daisy2 {
-	background-position: -60px -1590px
-}
-.flair-deathlok {
-	background-position: 0 -1620px
-}
-.flair-deathlok1 {
-	background-position: -30px -1620px
-}
-.flair-lincoln {
-	background-position: 0 -1650px
-}
-.flair-coulson {
-	background-position: 0 -1680px
-}
-.flair-coulson1 {
-	background-position: -30px -1680px
-}
-.flair-sif {
-	background-position: 0px -1710px
-}
-.flair-sif1 {
-	background-position: -30px -1710px
-}
-.flair-elsa {
-	background-position: 0 -1740px
-}
-.flair-elsa1 {
-	background-position: -30px -1740px
-}
-.flair-elsa2 {
-	background-position: -60px -1740px
-}
-.flair-lash {
-	background-position: 0 -1770px
-}
-.flair-lash1 {
-	background-position: -30px -1770px
-}
-.flair-warwolf {
-	background-position: 0 -1800px
-}
-.flair-jessica {
-	background-position: 0 -1830px
-}
-.flair-silk {
-	background-position: 0 -1890px
-}
-.flair-silk1 {
-	background-position: -30px -1890px
-}
-.flair-gwen {
-	background-position: 0 -1920px
-}
-.flair-gwen1 {
-	background-position: -30px -1920px
-}
-.flair-miles {
-	background-position: 0 -1950px
-}
-.flair-miles1 {
-	background-position: -30px -1950px
-}
-.flair-cho {
-	background-position: 0 -1980px
-}
-.flair-cho1 {
-	background-position: -30px -1980px
-}
-.flair-carnage {
-	background-position: 0 -2010px
-}
-.flair-kamala {
-	background-position: 0 -2040px
-}
-.flair-kamala1 {
-	background-position: -30px -2040px
-}
-.flair-jane {
-	background-position: 0 -2070px
-}
-.flair-corvus {
-	background-position: 0 -2100px
-}
-.flair-corvus1 {
-	background-position: -30px -2100px
-}
-.flair-proxima {
-	background-position: 0 -2130px
-}
-.flair-proxima1 {
-	background-position: -30px -2130px
-}
-.flair-dwarf {
-	background-position: 0 -2160px
-}
-.flair-dwarf1 {
-	background-position: -30px -2160px
-}
-.flair-thanos {
-	background-position: 0 -2190px
-}
-.flair-thanos1 {
-	background-position: -30px -2190px
-}
-.flair-thanos2 {
-	background-position: -60px -2190px
-}
-.flair-thanos3 {
-	background-position: -90px -2190px
-}
-.flair-supergiant {
-	background-position: 0 -2220px
-}
-.flair-maw {
-	background-position: 0 -2250px
-}
-.flair-maw1 {
-	background-position: -30px -2250px
-}
-.flair-crossbones {
-	background-position: 0 -2280px
-}
-.flair-crossbones1 {
-	background-position: -30px -2280px
-}
-.flair-moonknight {
-	background-position: 0 -2310px
-}
-.flair-moonknight1 {
-	background-position: -30px -2310px
-}
-.flair-hyperion {
-	background-position: 0 -2340px
-}
-.flair-hyperion1 {
-	background-position: -30px -2340px
-}
-.flair-sharonrogers {
-	background-position: 0 -2370px
-}
-.flair-sharonrogers1 {
-	background-position: -30px -2370px
-}
-.flair-sharonrogers2 {
-	background-position: -60px -2370px
-}
-.flair-sharonrogers3 {
-	background-position: -90px -2370px
-}
-.flair-sin {
-	background-position: 0 -2400px
-}
-.flair-tiger {
-	background-position: 0 -2460px
-}
-.flair-wiccan {
-	background-position: 0 -2490px
-}
-.flair-hulkling {
-	background-position: 0 -2520px
-}
-.flair-songbird {
-	background-position: 0 -2550px
-}
-.flair-squirrel {
-	background-position: 0 -2580px
-}
-.flair-squirrel1 {
-	background-position: -30px -2580px
-}
-.flair-gwenpool {
-	background-position: 0 -2610px
-}
-.flair-gwenpool1 {
-	background-position: -30px -2610px
-}
-.flair-gwenpool2 {
-	background-position: -60px -2610px
-}
-.flair-shang {
-	background-position: 0 -2640px
-}
-.flair-misty {
-	background-position: 0 -2670px
-}
-.flair-strange {
-	background-position: -30px -2700px
-}
-.flair-strange1 {
-	background-position: 0px -2700px
-}
-.flair-strange2 {
-	background-position: -60px -2700px
-}
-.flair-wong {
-	background-position: -30px -2730px
-}
-.flair-wong1 {
-	background-position: 0px -2730px
-}
-.flair-mordo {
-	background-position: -30px -2760px
-}
-.flair-mordo1 {
-	background-position: 0px -2760px
-}
-.flair-ancient {
-	background-position: -30px -2790px
-}
-.flair-ancient1 {
-	background-position: 0px -2790px
-}
-.flair-kaecilius {
-	background-position: 0 -2820px
-}
-.flair-clea {
-	background-position: 0 -2850px
-}
-.flair-satana {
-	background-position: 0 -2880px
-}
-.flair-satana1 {
-	background-position: -30px -2880px
-}
-.flair-daimon {
-	background-position: 0 -2910px
-}
-.flair-odin {
-	background-position: 0 -2940px
-}
-.flair-volstagg {
-	background-position: 0 -2970px
-}
-.flair-hogun {
-	background-position: 0 -3000px
-}
-.flair-fandral {
-	background-position: 0 -3030px
-}
-.flair-hela {
-	background-position: 0 -3060px
-}
-.flair-hela1 {
-	background-position: -30px -3060px
-}
-.flair-enchantress {
-	background-position: 0 -3090px
-}
-.flair-ulik {
-	background-position: 0 -3120px
-}
-.flair-kate {
-	background-position: 0 -3150px
-}
-.flair-ironheart {
-	background-position: 0 -3180px
-}
-.flair-medusa {
-	background-position: 0 -3210px
-}
-.flair-medusa1 {
-	background-position: -30px -3210px
-}
-.flair-moongirl {
-	background-position: 0 -3240px
-}
-.flair-moongirl1 {
-	background-position: -30px -3240px
-}
-.flair-karnak {
-	background-position: 0 -3270px
-}
-.flair-karnak1 {
-	background-position: -30px -3270px
-}
-.flair-gorgon {
-	background-position: 0 -3300px
-}
-.flair-inferno {
-	background-position: 0 -3330px
-}
-.flair-inferno1 {
-	background-position: -30px -3330px
-}
-.flair-crystal {
-	background-position: 0 -3360px
-}
-.flair-crystal1 {
-	background-position: -30px -3360px
-}
-.flair-crystal2{
-	background-position: -60px -3360px
-}
-.flair-maximus {
-	background-position: 0 -3390px
-}
-.flair-dormammu {
-	background-position: 0 -3420px
-}
-.flair-robbie {
-	background-position: 0 -3450px
-}
-.flair-hellcat {
-	background-position: 0 -3480px
-}
-.flair-kaiju {
-	background-position: 0 -3510px
-}
-.flair-kaiju1 {
-	background-position: -30px -3510px
-}
-.flair-whiplash {
-	background-position: 0 -3540px
-}
-.flair-mantis {
-	background-position: 0 -3570px
-}
-.flair-agentvenom {
-	background-position: 0 -3600px
-}
-.flair-agentvenom1 {
-	background-position: -30px -3600px
-}
-.flair-cyclops {
-	background-position: 0 -3630px
-}
-.flair-cyclops1 {
-	background-position: -30px -3630px
-}
-.flair-cyclops2 {
-	background-position: -60px -3630px
-}
-.flair-cyclops3 {
-	background-position: -90px -3630px
-}
-.flair-jean {
-	background-position: 0 -3660px
-}
-.flair-jean1 {
-	background-position: -30px -3660px
-}
-.flair-wolverine {
-	background-position: 0 -3690px
-}
-.flair-wolverine1 {
-	background-position: -30px -3690px
-}
-.flair-wolverine2 {
-	background-position: -60px -3690px
-}
-.flair-wolverine3 {
-	background-position: -90px -3690px
-}
-.flair-storm {
-	background-position: 0 -3720px
-}
-.flair-storm1 {
-	background-position: -30px -3720px
-}
-.flair-beast {
-	background-position: 0 -3750px
-}
-.flair-beast1 {
-	background-position: -30px -3750px
-}
-.flair-beast2 {
-	background-position: -60px -3750px
-}
-.flair-rogue {
-	background-position: 0 -3780px
-}
-.flair-rogue1 {
-	background-position: -30px -3780px
-}
-.flair-rogue2 {
-	background-position: -60px -3780px
-}
-.flair-magneto {
-	background-position: 0 -3810px
-}
-.flair-magneto1 {
-	background-position: -30px -3810px
-}
-.flair-kraven {
-	background-position: 0 -3840px
-}
-.flair-lizard {
-	background-position: 0 -3870px
-}
-.flair-mysterio {
-	background-position: 0 -3900px
-}
-.flair-mysterio1 {
-	background-position: -30px -3900px
-}
-.flair-rhino {
-	background-position: 0 -3930px
-}
-.flair-sandman {
-	background-position: 0 -3960px
-}
-.flair-vulture {
-	background-position: 0 -3990px
-}
-.flair-vulture1 {
-	background-position: -30px -3990px
-}
-.flair-spidey2099 {
-	background-position: 0 -4020px
-}
-.flair-spidey20991 {
-	background-position: -30px -4020px
-}
-.flair-absorbingman {
-	background-position: 0 -4050px
-}
-.flair-titania {
-	background-position: 0 -4080px
-}
-.flair-scarletwitch {
-	background-position: 0 -4110px
-}
-.flair-scarletwitch1 {
-	background-position: -30px -4110px
-}
-.flair-scarletwitch2 {
-	background-position: -60px -4110px
-}
-.flair-quicksilver {
-	background-position: 0 -4170px
-}
-.flair-quicksilver1 {
-	background-position: -30px -4170px
-}
-.flair-quicksilver2 {
-	background-position: -60px -4170px
-}
-.flair-cable {
-	background-position: 0 -4140px
-}
-.flair-cable1 {
-	background-position: -30px -4140px
-}
-.flair-cable2 {
-	background-position: -60px -4140px
-}
-.flair-apocalypse {
-	background-position: 0 -4200px
-}
-.flair-apocalypse1 {
-	background-position: -30px -4200px
-}
-.flair-heimdall {
-	background-position: 0 -4230px
-}
-.flair-skurge {
-	background-position: 0 -4260px
-}
-.flair-valkyrie {
-	background-position: 0 -4290px
-}
-.flair-america {
-	background-position: 0 -4320px
-}
-.flair-antiman {
-	background-position: 0 -4350px
-}
-.flair-bluemarvel {
-	background-position: 0 -4380px
-}
-.flair-samalexander {
-	background-position: 0 -4410px
-}
-.flair-avril {
-	background-position: 0 -4440px
-}
-.flair-adam {
-	background-position: 0 -4470px
-}
-.flair-laura {
-	background-position: 0 -4500px
-}
-.flair-laura1 {
-	background-position: -30px -4500px
-}
-.flair-fenris {
-	background-position: 0 -4530px
-}
-.flair-frostbeast {
-	background-position: 0 -4560px
-}
-.flair-midgardserpent {
-	background-position: 0 -4590px
-}
-.flair-surtur {
-	background-position: 0 -4620px
-}
-.flair-ymir {
-	background-position: 0 -4650px
-}
-.flair-jocasta {
-	background-position: 0 -4680px
-}
-.flair-talos {
-	background-position: -30px -4680px
-}
-.flair-killmonger {
-	background-position: 0 -4710px
-}
-.flair-killmonger1 {
-	background-position: -30px -4710px
-}
-.flair-shuri {
-	background-position: 0 -4740px
-}
-.flair-shuri1 {
-	background-position: -30px -4740px
-}
-.flair-klaue {
-	background-position: 0 -4770px
-}
-.flair-luna {
-	background-position: 0 -4800px
-}
-.flair-luna1 {
-	background-position: -30px -4800px
-}
-.flair-luna2 {
-	background-position: -60px -4800px
-}
-.flair-angel {
-	background-position: 0 -4830px
-}
-.flair-angel1 {
-	background-position: -30px -4830px
-}
-.flair-colossus {
-	background-position: 0 -4860px
-}
-.flair-colossus1 {
-	background-position: -30px -4860px
-}
-.flair-colossus2 {
-	background-position: -60px -4860px
-}
-.flair-emma {
-	background-position: 0 -4890px
-}
-.flair-emma1 {
-	background-position: -30px -4890px
-}
-.flair-emma2 {
-	background-position: -60px -4890px
-}
-.flair-magik {
-	background-position: 0 -4920px
-}
-.flair-magik1 {
-	background-position: -30px -4920px
-}
-.flair-mbaku {
-	background-position: 0 -4950px
-}
-.flair-ghost {
-	background-position: 0 -4980px
-}
-.flair-ghost1 {
-	background-position: -30px -4980px
-}
-.flair-goliath {
-	background-position: 0 -5010px
-}
-.flair-nadiavan {
-	background-position: 0 -5040px
-}
-.flair-deadpool {
-	background-position: 0 -5070px
-}
-.flair-deadpool1 {
-	background-position: -30px -5070px
-}
-.flair-deadpool2 {
-	background-position: -60px -5070px
-}
-.flair-deadpool3 {
-	background-position: -90px -5070px
-}
-.flair-psylocke {
-	background-position: 0 -5100px
-}
-.flair-psylocke1 {
-	background-position: -30px -5100px
-}
-.flair-fantomex {
-	background-position: 0 -5130px
-}
-.flair-domino {
-	background-position: 0 -5160px
-}
-.flair-domino1 {
-	background-position: -30px -5160px
-}
-.flair-stryfe {
-	background-position: 0 -5190px
-}
-.flair-arachknight {
-	background-position: 0 -5220px
-}
-.flair-ghostpanther {
-	background-position: 0 -5250px
-}
-.flair-ironhammer {
-	background-position: 0 -5280px
-}
-.flair-weaponhex {
-	background-position: 0 -5310px
-}
-.flair-gambit {
-	background-position: 0 -5340px
-}
-.flair-nightcrawler {
-	background-position: 0 -5370px
-}
-.flair-nightcrawler1 {
-	background-position: -30px -5370px
-}
-.flair-sentinel {
-	background-position: 0 -5400px
-}
-.flair-crescent {
-	background-position: 0 -5430px
-}
-.flair-crescent1 {
-	background-position: -30px -5430px
-}
-.flair-whitefox {
-	background-position: 0 -5460px
-}
-.flair-whitefox1 {
-	background-position: -30px -5460px
-}
-.flair-morgan {
-	background-position: 0 -5490px
-}
-.flair-reed{
-	background-position: 0 -5970px
-}
-.flair-reed1{
-	background-position: -30px -5970px
-}
-.flair-sue{
-	background-position: 0 -6000px
-}
-.flair-sue1{
-	background-position: -30px -6000px
-}
-.flair-torch{
-	background-position: 0 -6030px
-}
-.flair-torch1{
-	background-position: -30px -6030px
-}
-.flair-thing{
-	background-position: 0 -6060px
-}
-.flair-thing1{
-	background-position: -30px -6060px
-}
-.flair-doom{
-	background-position: 0 -6090px
-}
-.flair-victorious{
-	background-position: 0 -6120px
-}
-.flair-fury{
-	background-position: 0 -6150px
-}
-.flair-fury1{
-	background-position: -30px -6150px
-}
-.flair-erva{
-	background-position: 0 -6180px
-}
-.flair-erva1{
-	background-position: -30px -6180px
-}
-.flair-korath{
-	background-position: 0 -6210px
-}
-.flair-juggernaut{
-	background-position: 0 -6240px
-}
-.flair-warpath{
-	background-position: 0 -6270px
-}
-.flair-sabretooth{
-	background-position: 0 -6300px
-}
-.flair-sabretooth1{
-	background-position: -30px -6300px
-}
-.flair-rescue{
-	background-position: 0 -6330px
-}
-.flair-bishop{
-	background-position: 0 -6360px
-}
-.flair-jubilee{
-	background-position: 0 -6390px
-}
-.flair-iceman{
-	background-position: 0 -6420px
-}
-.flair-moltenman{
-	background-position: 0 -6450px
-}
-.flair-hydroman{
-	background-position: 0 -6480px
-}
-.flair-electro{
-	background-position: 0 -6510px
-}
-.flair-namor{
-	background-position: 0 -6540px
-}
-.flair-namor1{
-	background-position: -30px -6540px
-}
-.flair-wave{
-	background-position: 0 -6570px
-}
-.flair-surfer{
-	background-position: 0 -6600px
-}
-.flair-rachel{
-	background-position: 0 -6630px
-}
-.flair-kitty{
-	background-position: 0 -6660px
-}
-.flair-kido{
-	background-position: 0 -6690px
-}
-.flair-aero{
-	background-position: 0 -6720px
-}
-.flair-swordmaster{
-	background-position: 0 -6750px
-}
-.flair-voodoo{
-	background-position: 0 -6780px
-}
-.flair-slap{
-	background-position: 0 -6810px
-}
-.flair-negasonic{
-	background-position: 0 -6840px
-}
-.flair-gorilla{
-	background-position: 0 -6870px
-}
-.flair-bluedragon{
-	background-position: 0 -6900px
-}
-.flair-sunbird{
-	background-position: 0 -6930px
-}
-.flair-shadowshell{
-	background-position: 0 -6960px
-}
-.flair-wartiger{
-	background-position: 0 -6990px
-}
-.comment .flair {left: 67px}
-.link .flair {left: 145px}
-.flair:before {left: 47px}
-.flair:after {left: 245px}
-
-.flair-character {background-image:url(flairs.png)!important}
-.flair-uniform {background-image:url(flairs.png)!important}
-
-.flair1-character {background-image:url(flairshq.jpg)!important}
-.flair1-uniform {background-image:url(flairshq.jpg)!important}
-
+.flair-character, .flair-uniform {background-image:url(flairs.png)!important}
+.flair1-character, .flair1-uniform {background-image:url(flairshq.jpg)!important}
 .ability {background-image:url(icons.jpg)!important; background-size: auto 20px!important;}
+
+
+.flair-angela{background-position:0 0}
+.flair-angela1{background-position:-30px 0}
+.flair-angela2{background-position:-60px 0}
+.flair-bolt{background-position:0 -30px}
+.flair-bolt1{background-position:-30px -30px}
+.flair-bolt2{background-position:-60px -30px}
+.flair-cat{background-position:0 -60px}
+.flair-cat1{background-position:-30px -60px}
+.flair-cat2{background-position:-60px -60px}
+.flair-panther{background-position:0 -90px}
+.flair-panther1{background-position:-30px -90px}
+.flair-panther2{background-position:-60px -90px}
+.flair-widow{background-position:0 -120px}
+.flair-widow1{background-position:-30px -120px}
+.flair-widow2{background-position:-60px -120px}
+.flair-widow3{background-position:-90px -120px}
+.flair-widow4{background-position:-120px -120px}
+.flair-widow5{background-position:-150px -120px}
+.flair-widow6{background-position:-180px -120px}
+.flair-widow7{background-position:-210px -120px}
+.flair-blade{background-position:0 -150px}
+.flair-blade1{background-position:-30px -150px}
+.flair-bullseye{background-position:0 -180px}
+.flair-bullseye1{background-position:-30px -180px}
+.flair-cap{background-position:0 -210px}
+.flair-cap1{background-position:-30px -210px}
+.flair-cap2{background-position:-60px -210px}
+.flair-cap3{background-position:-90px -210px}
+.flair-cap4{background-position:-120px -210px}
+.flair-cap5{background-position:-150px -210px}
+.flair-cap6{background-position:-180px -210px}
+.flair-cap7{background-position:-210px -210px}
+.flair-cap8{background-position:-240px -210px}
+.flair-cap9{background-position:-270px -210px}
+.flair-cap10{background-position:-300px -210px}
+.flair-danvers{background-position:0 -240px}
+.flair-danvers1{background-position:-30px -240px}
+.flair-danvers2{background-position:-60px -240px}
+.flair-danvers3{background-position:-90px -240px}
+.flair-danvers4{background-position:-120px -240px}
+.flair-devil{background-position:0 -270px}
+.flair-devil1{background-position:-30px -270px}
+.flair-devil2{background-position:-60px -270px}
+.flair-destroyer{background-position:0 -300px}
+.flair-destroyer1{background-position:-30px -300px}
+.flair-ock{background-position:0 -330px}
+.flair-ock1{background-position:-30px -330px}
+.flair-ock2{background-position:-60px -330px}
+.flair-drax{background-position:0 -360px}
+.flair-drax1{background-position:-30px -360px}
+.flair-elektra{background-position:0 -390px}
+.flair-elektra1{background-position:-30px -390px}
+.flair-falcon{background-position:0 -420px}
+.flair-falcon1{background-position:-30px -420px}
+.flair-falcon2{background-position:-60px -420px}
+.flair-falcon3{background-position:-90px -420px}
+.flair-gamora{background-position:0 -450px}
+.flair-gamora1{background-position:-30px -450px}
+.flair-gamora2{background-position:-60px -450px}
+.flair-rider{background-position:0 -480px}
+.flair-rider1{background-position:-30px -480px}
+.flair-rider2{background-position:-60px -480px}
+.flair-goblin{background-position:0 -510px}
+.flair-goblin1{background-position:-30px -510px}
+.flair-groot{background-position:0 -540px}
+.flair-groot1{background-position:-30px -540px}
+.flair-groot2{background-position:-60px -540px}
+.flair-groot3{background-position:-90px -540px}
+.flair-hawkeye{background-position:0 -570px}
+.flair-hawkeye1{background-position:-30px -570px}
+.flair-hawkeye2{background-position:-60px -570px}
+.flair-hawkeye3{background-position:-90px -570px}
+.flair-hawkeye4{background-position:-120px -570px}
+.flair-hulk{background-position:-0px -600px}
+.flair-hulk1{background-position:-30px -600px}
+.flair-hulk2{background-position:-60px -600px}
+.flair-hulk3{background-position:-90px -600px}
+.flair-hulk4{background-position:-120px -600px}
+.flair-hulk5{background-position:-150px -600px}
+.flair-fist{background-position:0 -630px}
+.flair-fist1{background-position:-30px -630px}
+.flair-fist2{background-position:-60px -630px}
+.flair-fist3{background-position:-90px -630px}
+.flair-im{background-position:0 -660px}
+.flair-im1{background-position:-30px -660px}
+.flair-im2{background-position:-60px -660px}
+.flair-im3{background-position:-90px -660px}
+.flair-im4{background-position:-120px -660px}
+.flair-im5{background-position:-150px -660px}
+.flair-im6{background-position:-180px -660px}
+.flair-im7{background-position:-210px -660px}
+.flair-hb{background-position:0 -690px}
+.flair-hb1{background-position:-30px -690px}
+.flair-hb2{background-position:-60px -690px}
+.flair-kingpin{background-position:0 -720px}
+.flair-kingpin1{background-position:-30px -720px}
+.flair-loki{background-position:0 -750px}
+.flair-loki1{background-position:-30px -750px}
+.flair-loki2{background-position:-60px -750px}
+.flair-loki3{background-position:-90px -750px}
+.flair-luke{background-position:0 -780px}
+.flair-luke1{background-position:-30px -780px}
+.flair-luke2{background-position:-60px -780px}
+.flair-malekith{background-position:0 -810px}
+.flair-malekith1{background-position:-30px -810px}
+.flair-mockingbird{background-position:0 -840px}
+.flair-mockingbird1{background-position:-30px -840px}
+.flair-mockingbird2{background-position:-60px -840px}
+.flair-modok{background-position:0 -870px}
+.flair-modok1{background-position:-30px -870px}
+.flair-modok2{background-position:-60px -870px}
+.flair-nebula{background-position:0 -900px}
+.flair-nebula1{background-position:-30px -900px}
+.flair-nebula2{background-position:-60px -900px}
+.flair-nebula3{background-position:-90px -900px}
+.flair-punisher{background-position:0 -930px}
+.flair-punisher1{background-position:-30px -930px}
+.flair-punisher2{background-position:-60px -930px}
+.flair-punisher3{background-position:-90px -930px}
+.flair-punisher4{background-position:-120px -930px}
+.flair-skull{background-position:0 -960px}
+.flair-skull1{background-position:-30px -960px}
+.flair-skull2{background-position:-60px -960px}
+.flair-rocket{background-position:0 -990px}
+.flair-rocket1{background-position:-30px -990px}
+.flair-rocket2{background-position:-60px -990px}
+.flair-rocket3{background-position:-90px -990px}
+.flair-rocket4{background-position:-120px -990px}
+.flair-rocket5{background-position:-150px -990px}
+.flair-ronan{background-position:0 -1020px}
+.flair-ronan1{background-position:-30px -1020px}
+.flair-ronan2{background-position:-60px -1020px}
+.flair-sharon{background-position:0 -1050px}
+.flair-sharon1{background-position:-30px -1050px}
+.flair-spidey{background-position:0 -1080px}
+.flair-spidey1{background-position:-30px -1080px}
+.flair-spidey2{background-position:-60px -1080px}
+.flair-spidey3{background-position:-90px -1080px}
+.flair-spidey4{background-position:-120px -1080px}
+.flair-spidey5{background-position:-150px -1080px}
+.flair-spidey6{background-position:-180px -1080px}
+.flair-spidey7{background-position:-210px -1080px}
+.flair-star{background-position:0 -1110px}
+.flair-star1{background-position:-30px -1110px}
+.flair-star2{background-position:-60px -1110px}
+.flair-star3{background-position:-90px -1110px}
+.flair-thor{background-position:0 -1140px}
+.flair-thor1{background-position:-30px -1140px}
+.flair-thor2{background-position:-60px -1140px}
+.flair-thor3{background-position:-90px -1140px}
+.flair-thor4{background-position:-120px -1140px}
+.flair-thor5{background-position:-150px -1140px}
+.flair-thor6{background-position:-180px -1140px}
+.flair-ultron{background-position:0 -1170px}
+.flair-ultron1{background-position:-30px -1170px}
+.flair-ultron2{background-position:-60px -1170px}
+.flair-ultron3{background-position:-90px -1170px}
+.flair-venom{background-position:0 -1200px}
+.flair-venom1{background-position:-30px -1200px}
+.flair-venom2{background-position:-60px -1200px}
+.flair-vision{background-position:0 -1230px}
+.flair-vision1{background-position:-30px -1230px}
+.flair-vision2{background-position:-60px -1230px}
+.flair-wm{background-position:0 -1260px}
+.flair-wm1{background-position:-30px -1260px}
+.flair-wm2{background-position:-60px -1260px}
+.flair-wm3{background-position:-90px -1260px}
+.flair-wm4{background-position:-120px -1260px}
+.flair-wm5{background-position:-150px -1260px}
+.flair-wm6{background-position:-180px -1260px}
+.flair-bucky{background-position:0 -1290px}
+.flair-bucky1{background-position:-30px -1290px}
+.flair-bucky2{background-position:-60px -1290px}
+.flair-bucky3{background-position:-90px -1290px}
+.flair-yondu{background-position:0 -1320px}
+.flair-yondu1{background-position:-30px -1320px}
+.flair-yondu2{background-position:-60px -1320px}
+.flair-ant{background-position:0 -1350px}
+.flair-ant1{background-position:-30px -1350px}
+.flair-ant2{background-position:-60px -1350px}
+.flair-ant3{background-position:-90px -1350px}
+.flair-ant4{background-position:-120px -1350px}
+.flair-ant5{background-position:-150px -1350px}
+.flair-giant{background-position:0 -1380px}
+.flair-giant1{background-position:-30px -1380px}
+.flair-giant2{background-position:-60px -1380px}
+.flair-rulk{background-position:0 -1410px}
+.flair-rulk1{background-position:-30px -1410px}
+.flair-wasp{background-position:0 -1440px}
+.flair-wasp1{background-position:-30px -1440px}
+.flair-wasp2{background-position:-60px -1440px}
+.flair-yj{background-position:0 -1470px}
+.flair-yj1{background-position:-30px -1470px}
+.flair-shulk{background-position:0 -1500px}
+.flair-shulk1{background-position:-30px -1500px}
+.flair-shulk2{background-position:-60px -1500px}
+.flair-singularity{background-position:0 -1530px}
+.flair-grimm{background-position:0 -1560px}
+.flair-grimm1{background-position:-30px -1560px}
+.flair-daisy{background-position:0 -1590px}
+.flair-daisy1{background-position:-30px -1590px}
+.flair-daisy2{background-position:-60px -1590px}
+.flair-deathlok{background-position:0 -1620px}
+.flair-deathlok1{background-position:-30px -1620px}
+.flair-lincoln{background-position:0 -1650px}
+.flair-coulson{background-position:0 -1680px}
+.flair-coulson1{background-position:-30px -1680px}
+.flair-sif{background-position:0 -1710px}
+.flair-sif1{background-position:-30px -1710px}
+.flair-elsa{background-position:0 -1740px}
+.flair-elsa1{background-position:-30px -1740px}
+.flair-elsa2{background-position:-60px -1740px}
+.flair-lash{background-position:0 -1770px}
+.flair-lash1{background-position:-30px -1770px}
+.flair-warwolf{background-position:0 -1800px}
+.flair-jessica{background-position:0 -1830px}
+.flair-silk{background-position:0 -1890px}
+.flair-silk1{background-position:-30px -1890px}
+.flair-gwen{background-position:0 -1920px}
+.flair-gwen1{background-position:-30px -1920px}
+.flair-miles{background-position:0 -1950px}
+.flair-miles1{background-position:-30px -1950px}
+.flair-cho{background-position:0 -1980px}
+.flair-cho1{background-position:-30px -1980px}
+.flair-carnage{background-position:0 -2010px}
+.flair-kamala{background-position:0 -2040px}
+.flair-kamala1{background-position:-30px -2040px}
+.flair-jane{background-position:0 -2070px}
+.flair-corvus{background-position:0 -2100px}
+.flair-corvus1{background-position:-30px -2100px}
+.flair-proxima{background-position:0 -2130px}
+.flair-proxima1{background-position:-30px -2130px}
+.flair-dwarf{background-position:0 -2160px}
+.flair-dwarf1{background-position:-30px -2160px}
+.flair-thanos{background-position:0 -2190px}
+.flair-thanos1{background-position:-30px -2190px}
+.flair-thanos2{background-position:-60px -2190px}
+.flair-thanos3{background-position:-90px -2190px}
+.flair-supergiant{background-position:0 -2220px}
+.flair-maw{background-position:0 -2250px}
+.flair-maw1{background-position:-30px -2250px}
+.flair-crossbones{background-position:0 -2280px}
+.flair-crossbones1{background-position:-30px -2280px}
+.flair-crossbones2{background-position:-60px -2280px}
+.flair-moonknight{background-position:0 -2310px}
+.flair-moonknight1{background-position:-30px -2310px}
+.flair-hyperion{background-position:0 -2340px}
+.flair-hyperion1{background-position:-30px -2340px}
+.flair-sharonrogers{background-position:0 -2370px}
+.flair-sharonrogers1{background-position:-30px -2370px}
+.flair-sharonrogers2{background-position:-60px -2370px}
+.flair-sharonrogers3{background-position:-90px -2370px}
+.flair-sin{background-position:0 -2400px}
+.flair-tiger{background-position:0 -2460px}
+.flair-wiccan{background-position:0 -2490px}
+.flair-hulkling{background-position:0 -2520px}
+.flair-songbird{background-position:0 -2550px}
+.flair-squirrel{background-position:0 -2580px}
+.flair-squirrel1{background-position:-30px -2580px}
+.flair-gwenpool{background-position:0 -2610px}
+.flair-gwenpool1{background-position:-30px -2610px}
+.flair-gwenpool2{background-position:-60px -2610px}
+.flair-shang{background-position:0 -2640px}
+.flair-misty{background-position:0 -2670px}
+.flair-strange{background-position:-30px -2700px}
+.flair-strange1{background-position:0 -2700px}
+.flair-strange2{background-position:-60px -2700px}
+.flair-wong{background-position:-30px -2730px}
+.flair-wong1{background-position:0 -2730px}
+.flair-mordo{background-position:-30px -2760px}
+.flair-mordo1{background-position:0 -2760px}
+.flair-ancient{background-position:-30px -2790px}
+.flair-ancient1{background-position:0 -2790px}
+.flair-kaecilius{background-position:0 -2820px}
+.flair-clea{background-position:0 -2850px}
+.flair-satana{background-position:0 -2880px}
+.flair-satana1{background-position:-30px -2880px}
+.flair-daimon{background-position:0 -2910px}
+.flair-odin{background-position:0 -2940px}
+.flair-volstagg{background-position:0 -2970px}
+.flair-hogun{background-position:0 -3000px}
+.flair-fandral{background-position:0 -3030px}
+.flair-hela{background-position:0 -3060px}
+.flair-hela1{background-position:-30px -3060px}
+.flair-enchantress{background-position:0 -3090px}
+.flair-ulik{background-position:0 -3120px}
+.flair-kate{background-position:0 -3150px}
+.flair-ironheart{background-position:0 -3180px}
+.flair-medusa{background-position:0 -3210px}
+.flair-medusa1{background-position:-30px -3210px}
+.flair-moongirl{background-position:0 -3240px}
+.flair-moongirl1{background-position:-30px -3240px}
+.flair-karnak{background-position:0 -3270px}
+.flair-karnak1{background-position:-30px -3270px}
+.flair-gorgon{background-position:0 -3300px}
+.flair-inferno{background-position:0 -3330px}
+.flair-inferno1{background-position:-30px -3330px}
+.flair-crystal{background-position:0 -3360px}
+.flair-crystal1{background-position:-30px -3360px}
+.flair-crystal2{background-position:-60px -3360px}
+.flair-maximus{background-position:0 -3390px}
+.flair-dormammu{background-position:0 -3420px}
+.flair-robbie{background-position:0 -3450px}
+.flair-hellcat{background-position:0 -3480px}
+.flair-kaiju{background-position:0 -3510px}
+.flair-kaiju1{background-position:-30px -3510px}
+.flair-whiplash{background-position:0 -3540px}
+.flair-mantis{background-position:0 -3570px}
+.flair-agentvenom{background-position:0 -3600px}
+.flair-agentvenom1{background-position:-30px -3600px}
+.flair-cyclops{background-position:0 -3630px}
+.flair-cyclops1{background-position:-30px -3630px}
+.flair-cyclops2{background-position:-60px -3630px}
+.flair-cyclops3{background-position:-90px -3630px}
+.flair-jean{background-position:0 -3660px}
+.flair-jean1{background-position:-30px -3660px}
+.flair-wolverine{background-position:0 -3690px}
+.flair-wolverine1{background-position:-30px -3690px}
+.flair-wolverine2{background-position:-60px -3690px}
+.flair-wolverine3{background-position:-90px -3690px}
+.flair-storm{background-position:0 -3720px}
+.flair-storm1{background-position:-30px -3720px}
+.flair-beast{background-position:0 -3750px}
+.flair-beast1{background-position:-30px -3750px}
+.flair-beast2{background-position:-60px -3750px}
+.flair-rogue{background-position:0 -3780px}
+.flair-rogue1{background-position:-30px -3780px}
+.flair-rogue2{background-position:-60px -3780px}
+.flair-magneto{background-position:0 -3810px}
+.flair-magneto1{background-position:-30px -3810px}
+.flair-kraven{background-position:0 -3840px}
+.flair-lizard{background-position:0 -3870px}
+.flair-mysterio{background-position:0 -3900px}
+.flair-mysterio1{background-position:-30px -3900px}
+.flair-rhino{background-position:0 -3930px}
+.flair-sandman{background-position:0 -3960px}
+.flair-vulture{background-position:0 -3990px}
+.flair-vulture1{background-position:-30px -3990px}
+.flair-spidey2099{background-position:0 -4020px}
+.flair-spidey20991{background-position:-30px -4020px}
+.flair-absorbingman{background-position:0 -4050px}
+.flair-titania{background-position:0 -4080px}
+.flair-scarletwitch{background-position:0 -4110px}
+.flair-scarletwitch1{background-position:-30px -4110px}
+.flair-scarletwitch2{background-position:-60px -4110px}
+.flair-quicksilver{background-position:0 -4170px}
+.flair-quicksilver1{background-position:-30px -4170px}
+.flair-quicksilver2{background-position:-60px -4170px}
+.flair-cable{background-position:0 -4140px}
+.flair-cable1{background-position:-30px -4140px}
+.flair-cable2{background-position:-60px -4140px}
+.flair-apocalypse{background-position:0 -4200px}
+.flair-apocalypse1{background-position:-30px -4200px}
+.flair-heimdall{background-position:0 -4230px}
+.flair-skurge{background-position:0 -4260px}
+.flair-valkyrie{background-position:0 -4290px}
+.flair-america{background-position:0 -4320px}
+.flair-antiman{background-position:0 -4350px}
+.flair-bluemarvel{background-position:0 -4380px}
+.flair-samalexander{background-position:0 -4410px}
+.flair-avril{background-position:0 -4440px}
+.flair-adam{background-position:0 -4470px}
+.flair-laura{background-position:0 -4500px}
+.flair-laura1{background-position:-30px -4500px}
+.flair-fenris{background-position:0 -4530px}
+.flair-frostbeast{background-position:0 -4560px}
+.flair-midgardserpent{background-position:0 -4590px}
+.flair-surtur{background-position:0 -4620px}
+.flair-ymir{background-position:0 -4650px}
+.flair-jocasta{background-position:0 -4680px}
+.flair-talos{background-position:-30px -4680px}
+.flair-killmonger{background-position:0 -4710px}
+.flair-killmonger1{background-position:-30px -4710px}
+.flair-shuri{background-position:0 -4740px}
+.flair-shuri1{background-position:-30px -4740px}
+.flair-klaue{background-position:0 -4770px}
+.flair-luna{background-position:0 -4800px}
+.flair-luna1{background-position:-30px -4800px}
+.flair-luna2{background-position:-60px -4800px}
+.flair-angel{background-position:0 -4830px}
+.flair-angel1{background-position:-30px -4830px}
+.flair-colossus{background-position:0 -4860px}
+.flair-colossus1{background-position:-30px -4860px}
+.flair-colossus2{background-position:-60px -4860px}
+.flair-emma{background-position:0 -4890px}
+.flair-emma1{background-position:-30px -4890px}
+.flair-emma2{background-position:-60px -4890px}
+.flair-magik{background-position:0 -4920px}
+.flair-magik1{background-position:-30px -4920px}
+.flair-mbaku{background-position:0 -4950px}
+.flair-ghost{background-position:0 -4980px}
+.flair-ghost1{background-position:-30px -4980px}
+.flair-goliath{background-position:0 -5010px}
+.flair-nadiavan{background-position:0 -5040px}
+.flair-deadpool{background-position:0 -5070px}
+.flair-deadpool1{background-position:-30px -5070px}
+.flair-deadpool2{background-position:-60px -5070px}
+.flair-deadpool3{background-position:-90px -5070px}
+.flair-psylocke{background-position:0 -5100px}
+.flair-psylocke1{background-position:-30px -5100px}
+.flair-fantomex{background-position:0 -5130px}
+.flair-domino{background-position:0 -5160px}
+.flair-domino1{background-position:-30px -5160px}
+.flair-stryfe{background-position:0 -5190px}
+.flair-arachknight{background-position:0 -5220px}
+.flair-ghostpanther{background-position:0 -5250px}
+.flair-ironhammer{background-position:0 -5280px}
+.flair-weaponhex{background-position:0 -5310px}
+.flair-gambit{background-position:0 -5340px}
+.flair-nightcrawler{background-position:0 -5370px}
+.flair-nightcrawler1{background-position:-30px -5370px}
+.flair-sentinel{background-position:0 -5400px}
+.flair-crescent{background-position:0 -5430px}
+.flair-crescent1{background-position:-30px -5430px}
+.flair-whitefox{background-position:0 -5460px}
+.flair-whitefox1{background-position:-30px -5460px}
+.flair-morgan{background-position:0 -5490px}
+.flair-reed{background-position:0 -5970px}
+.flair-reed1{background-position:-30px -5970px}
+.flair-sue{background-position:0 -6000px}
+.flair-sue1{background-position:-30px -6000px}
+.flair-torch{background-position:0 -6030px}
+.flair-torch1{background-position:-30px -6030px}
+.flair-thing{background-position:0 -6060px}
+.flair-thing1{background-position:-30px -6060px}
+.flair-doom{background-position:0 -6090px}
+.flair-victorious{background-position:0 -6120px}
+.flair-fury{background-position:0 -6150px}
+.flair-fury1{background-position:-30px -6150px}
+.flair-erva{background-position:0 -6180px}
+.flair-erva1{background-position:-30px -6180px}
+.flair-korath{background-position:0 -6210px}
+.flair-juggernaut{background-position:0 -6240px}
+.flair-warpath{background-position:0 -6270px}
+.flair-sabretooth{background-position:0 -6300px}
+.flair-sabretooth1{background-position:-30px -6300px}
+.flair-rescue{background-position:0 -6330px}
+.flair-bishop{background-position:0 -6360px}
+.flair-jubilee{background-position:0 -6390px}
+.flair-iceman{background-position:0 -6420px}
+.flair-moltenman{background-position:0 -6450px}
+.flair-hydroman{background-position:0 -6480px}
+.flair-electro{background-position:0 -6510px}
+.flair-namor{background-position:0 -6540px}
+.flair-namor1{background-position:-30px -6540px}
+.flair-wave{background-position:0 -6570px}
+.flair-surfer{background-position:0 -6600px}
+.flair-rachel{background-position:0 -6630px}
+.flair-kitty{background-position:0 -6660px}
+.flair-kido{background-position:0 -6690px}
+.flair-aero{background-position:0 -6720px}
+.flair-swordmaster{background-position:0 -6750px}
+.flair-voodoo{background-position:0 -6780px}
+.flair-slap{background-position:0 -6810px}
+.flair-negasonic{background-position:0 -6840px}
+.flair-gorilla{background-position:0 -6870px}
+.flair-bluedragon{background-position:0 -6900px}
+.flair-sunbird{background-position:0 -6930px}
+.flair-shadowshell{background-position:0 -6960px}
+.flair-wartiger{background-position: 0 -6990px}
+.flair-taskmas {background-position: 0 -7020px}
+.flair-viper {background-position: 0 -7050px}
+.flair-zemo {background-position: 0 -7080px}
+
+
 .agent {background-position: 0px 0px;}
 .agility {background-position: -20px 0px;}
 .chaosmagic {background-position: -40px 0px;}
@@ -1482,6 +572,7 @@
 .flair1-cap7 {background-position:-2300px -700px}
 .flair1-cap8 {background-position:-2300px -800px}
 .flair1-cap9 {background-position:-2300px -900px}
+.flair1-cap10 {background-position:-2300px -1000px}
 .flair1-danvers {background-position:-2400px 0px}
 .flair1-danvers1 {background-position:-2400px -100px}
 .flair1-danvers2 {background-position:-2400px -200px}
@@ -1498,6 +589,7 @@
 .flair1-crescent1 {background-position:-2900px -100px}
 .flair1-crossbones {background-position:-3000px 0px}
 .flair1-crossbones1 {background-position:-3000px -100px}
+.flair1-crossbones2 {background-position:-3000px -200px}
 .flair1-crystal {background-position:-3100px 0px}
 .flair1-crystal1 {background-position:-3100px -100px}
 .flair1-crystal2 {background-position:-3100px -200px}
@@ -1522,6 +614,7 @@
 .flair1-doom {background-position:-3800px 0px}
 .flair1-ock {background-position:-3900px 0px}
 .flair1-ock1 {background-position:-3900px -100px}
+.flair1-ock2 {background-position:-3900px -200px}
 .flair1-strange {background-position:-4000px 0px}
 .flair1-strange1 {background-position:-4000px -100px}
 .flair1-strange2 {background-position:-4000px -200px}
@@ -1707,6 +800,7 @@
 .flair1-rulk1 {background-position:-12500px -100px}
 .flair1-skull {background-position:-12600px 0px}
 .flair1-skull1 {background-position:-12600px -100px}
+.flair1-skull2 {background-position:-12600px -200px}
 .flair1-rhino {background-position:-12700px 0px}
 .flair1-robbie {background-position:-12800px 0px}
 .flair1-rocket {background-position:-12900px 0px}
@@ -1873,3 +967,6 @@
 .flair1-sunbird {background-position:-20900px 0px}
 .flair1-shadowshell {background-position:-21000px 0px}
 .flair1-wartiger {background-position:-21100px 0px}
+.flair1-taskmas {background-position:-21200px 0px}
+.flair1-viper {background-position:-21300px 0px}
+.flair1-zemo {background-position:-21400px 0px}
