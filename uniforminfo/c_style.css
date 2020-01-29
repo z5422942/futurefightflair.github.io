@@ -33,6 +33,9 @@ body {
 	.wrapper.no-style.no-margin{
 		margin-top:-10.5px!important;
 	}
+	.mobileinfobutton{
+		top:2px!important;
+	}
 }
 
 ul {
