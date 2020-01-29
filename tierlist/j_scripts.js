@@ -83,39 +83,6 @@ flair.updateFilter = function (text) {
 
 }
 
-flair.sendChoice = function () {
-    if (flair.current_choice === 0) {
-        alert('Choose a flair first!');
-        return;
-    }
-
-    var flair_text = encodeURIComponent(document.getElementById('flair-selection-text').value);
-    var subreddits = '';
-
-    if (flair_text.length == 0) {
-        flair_text = '';
-    }
-
-    var o = document.querySelectorAll('.sr-choice ');
-
-
-    if (flair.current_choice.indexOf("trainerflair") >= 0) { // If trainer flair only apply to /r/future_fight
-        subreddits += "future_fight ";
-    } else {
-        for (var i = 0, len = o.length; i < len; i++) {
-            var sr_name = o[i].getAttribute('data-name');
-            if (o[i].querySelector('input[type=checkbox]').checked) {
-                subreddits += sr_name + ' ';
-            }
-        }
-    }
-
-
-    window.open('http://www.reddit.com/message/compose/?to=FutureFightFlairs&subject=' + 'flair' +
-        '&message=' +
-        flair.current_choice + ' , ' +
-        flair_text + '')
-}
 
 flair.selectChoice = function (hero_id, key) {
     var el = document.querySelector('.flair-choice[data-id="' + hero_id + '"]');
@@ -434,15 +401,6 @@ n.show = function (o) {
 }
 
 
-function filterSelection2(c) {
-    var x, i;
-    x = document.getElementsByClassName("flair flair-choice");
-    if (c == "all") c = "";
-    for (i = 0; i < x.length; i++) {
-        w3RemoveClass(x[i], "attributes");
-        if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "attributes");
-    }
-}
 
 function filterSelection1(c) {
     var x, i;
@@ -476,16 +434,7 @@ function filterSelection1(c) {
             }
         }
 
-        filterSelection2("all")
-        function filterSelection1(c) {
-            var x, i;
-            x = document.getElementsByClassName("flair flair-choice");
-            if (c == "all") c = "";
-            for (i = 0; i < x.length; i++) {
-                w3RemoveClass(x[i], "attributes");
-                if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "attributes");
-            }
-        }
+
 
 function filterSelection(c) {
     var x, i;

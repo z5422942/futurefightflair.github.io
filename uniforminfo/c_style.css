@@ -20,7 +20,6 @@ body {
 }
 
 }
-@media only screen and (max-device-width: 599px) {
 
 	.btn5 {
 	display: inline-block;
@@ -47,31 +46,12 @@ body {
 	background: #26224c
 }
         .mobile5{
-        margin-top:13px!important;
+        margin-top:15px!important;
     }
     body {
 	font-size: 12px!important;
 }
-}
 
-@media only screen and (min-device-width: 600px) {
-.btn5 {
-	display: none;
-	margin-left: 4px;
-	padding: 2px 8px 2px;
-	background: #26224c;
-	border: 1px solid #aa8ed8;
-	border-radius: 0px;
-	color: #fff;
-	font-family: 'Exo', sans-serif;
-	font-weight: 800;
-	text-transform: capitalize;
-	text-align: left;
-	line-height: 21px;
-	outline: 0;
-	cursor: pointer;
-	}
-	}
 
 @media only screen and (max-width:599px) {
     .mobile5{
