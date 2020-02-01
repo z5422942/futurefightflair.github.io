@@ -66,7 +66,6 @@ body {
     margin-top: 4px;
 }
 }
-
 @media only screen and (max-device-width: 700px) {
     
     body {
@@ -200,10 +199,7 @@ input[type=text]:focus {
 	outline: none!important;
 	box-shadow: 0px 0px -2px -2px #f3df56;
 }
-input:checked {
-  height: 20px;
-  width: 20px;
-}
+
 .center {
     display: -webkit-flex;
     display: flex;
@@ -242,7 +238,7 @@ label input[type=checkbox] + span {
     padding: 0 30px 0 10px;
 }
 #flair-filter-text {
-    min-width: 220px;
+    min-width: 227px;
     padding: 5px 10px;
 }
 #flair-filter label[for=flair-filter-sheet] {
@@ -705,5 +701,5 @@ button:hover, input[type=submit]:hover {
     background: #f7d261;
 	border: 1px solid #f7d261;
     color: #251e0d;
-	font-size: 8pt;
+	font-size: 10pt;
 }

@@ -113,17 +113,21 @@ JavaScript is required to run this page.
         <a href="javascript:void(0)" class="closebtn" style="float:right; z-index: 15; color:#white;  max-height:0px; margin-top:5px; margin-right: -20px;" onclick="closeNav()"><div style="" id="closebutton"></div></a>
         
     <div id="flair-filter" class="center" style="-webkit-justify-content:space-between; justify-content:space-between; padding:6px; background: linear-gradient(to bottom,#213452,#192029); ">
-   <center>
+   <center><div>
         <label for="flair-filter-text" style="">
       <input id="flair-filter-text" type="text" placeholder="Filter by hero name" onkeyup="flair.updateFilter(this.value)"
                     onchange="flair.updateFilter(this.value)" />
     </label>
+	   
+	   <div class="checkboxdiv" style="display:inline-block; background: #26224c; border: 1px solid #aa8ed8; position: relative; top:0px; left:1px; height: 23px; width:46px" >
+	<input id="checkbox-1" class="checkbox-custom" name="checkbox-1" type="checkbox" onclick="checkfunction()">
+      <label for="checkbox-1" class="checkbox-custom-label" style="font-size: 8pt!important;"><strong style="top:px;position: relative">New</strong></label></div></div>
                
        </center>
 
     <div style="display: block;">
         
-<div class="ButtonClass" id="ButtonClass" style="max-height: 24px; padding: 0px; margin-top: 4px;">
+<div class="ButtonClass" id="ButtonClass" style="max-height: 24px; padding: 0px; margin-top: 3px;">
     <button class="btn1 active" id="all" style="margin-bottom: 5px; padding:1px; line-height: 9px; height:25px; width:25px;" onclick="filterSelection('all')" title="All Abilities">All</button>
     <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Combat')" title="Combat"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/combattype.jpg"></button>
     <button class="btn1" style="margin-bottom: 5px; padding:1px; line-height: 9px;" onclick="filterSelection('Blast')" title="Blast"><img style="height:20px; width:20px;" src="https://futurefightflair.github.io/icons/blasttype.jpg"></button>
@@ -160,7 +164,7 @@ JavaScript is required to run this page.
         </center>
     <div class="mobile5">
     <div class="centerinfo" style="z-index: 1; position: absolute; margin-top:-58px; padding-bottom: 10px; margin-left: auto; margin-right: auto; left: 13px; right: 13px; max-width: 845px;"> 
-  <div id="reverse-bubble" style="overflow: auto; opacity: 1; max-width: 845px; width: 100%!important;" class="wrapperrev no-margin hide">
+  <div id="reverse-bubble" style="overflow: auto; opacity: 1; max-width: 845px; width: 100%!important; min-width: 300px;" class="wrapperrev no-margin hide">
 
             <center>
               <button style="background: none; border: none; margin-top: -20px; position: relative;"  onclick="n.toggleClass('#reverse-bubble', 'hide');return false"><div style="" id="closebutton"></div></button>
@@ -218,9 +222,24 @@ document.getElementById('filter-selection-name').innerHTML = "Filtered by: " + c
 <script>
 function openNav() {
   document.getElementById("mySidenav").style.width = "50%";
+	  document.getElementById("mySidenav").style.minWidth = "230px";
+
 }
 
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+<script>
+function checkfunction() {
+  // Get the checkbox
+  var checkbox = document.getElementById("checkbox-1");
+
+  // If the checkbox is checked, display the output text
+  if (checkbox.checked == true){
+    filterSelection2('#New#');
+  } else {
+    filterSelection2('all');
+  }
 }
 </script>
