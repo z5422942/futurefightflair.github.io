@@ -42,6 +42,12 @@ body {
 	.mobilefont{
 		margin-top: 28.5px!important;
 	}
+	.checkbox-custom{
+		top:-1px;
+	}
+	.checkbox-custom-label{
+		top:-1px;
+	}
 }
 
 ul {
