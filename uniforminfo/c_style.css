@@ -334,7 +334,7 @@ button:hover, input[type=submit]:hover {
 		  
 }
 
-.show.type {
+.show.type.new {
   	display: -webkit-inline-flex;
 	display: inline-flex;
 	-webkit-align-items: center;
@@ -659,7 +659,7 @@ button:hover, input[type=submit]:hover {
     vertical-align: middle;
     width: 9px;
     height: 9px;
-    padding: 1px;
+    padding: 3px;
     margin-right: 3px;
 	top:-1px;
 	position: relative;

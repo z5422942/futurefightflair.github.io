@@ -319,8 +319,8 @@ button:hover, input[type=submit]:hover {
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
-    width: 19px;
-    height: 19px;
+    width: 19.8px;
+    height: 19.8px;
     cursor: pointer;
     position: relative;
 }

@@ -502,6 +502,27 @@ filterSelection1("all")
   }
 }
 
+filterSelection2("all")
+		  function filterSelection2(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "new");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "new");
+  }
+}
+
+function filterSelection2(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "new");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "new");
+  }
+}
+
 function filterSelection1(c) {
   var x, i;
   x = document.getElementsByClassName("flair flair-choice");
