@@ -481,6 +481,17 @@ filterSelection4("all")
   }
 }
 
+filterSelection5("all")
+		  function filterSelection5(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "new");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "new");
+  }
+}
+
 
 filterSelection("all")
   function filterSelection(c) {
@@ -490,6 +501,16 @@ filterSelection("all")
   for (i = 0; i < x.length; i++) {
     w3RemoveClass(x[i], "show");
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function filterSelection5(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "new");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "new");
   }
 }
 

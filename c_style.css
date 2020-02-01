@@ -31,6 +31,10 @@ body {
         padding-bottom: 3px;
 }
 
+	.checkboxdiv{
+	top:-1px;
+	}
+	
     .mobilecenter{
         display: -webkit-flex;
     display: flex;
@@ -53,7 +57,7 @@ body {
 }
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 700px) {
 
 #flair-filter {
     flex-direction: column;
@@ -63,7 +67,7 @@ body {
 }
 }
 
-@media only screen and (max-device-width: 650px) {
+@media only screen and (max-device-width: 700px) {
     
     body {
 	font-size: 12px;
@@ -191,6 +195,15 @@ select, input[type=text], input[type=number] {
     padding: 3px 4px;
     border-radius: 0px;
 }
+input[type=text]:focus {
+	border: 1px solid #f3df56;
+	outline: none!important;
+	box-shadow: 0px 0px -2px -2px #f3df56;
+}
+input:checked {
+  height: 20px;
+  width: 20px;
+}
 .center {
     display: -webkit-flex;
     display: flex;
@@ -283,6 +296,8 @@ button, input[type=submit] {
 button:hover, input[type=submit]:hover {
     background: #8456b1
 }
+
+
 /* FLAIRS
 --------------------------------------------------------------------------------*/
 
@@ -345,7 +360,7 @@ button:hover, input[type=submit]:hover {
 .flair {
     background-color: transparent
 }
-.show.type.side.charuni.gender {
+.show.type.side.charuni.gender.new {
     display: -webkit-inline-flex;
     display: inline-flex;
     -webkit-align-items: center;
@@ -657,4 +672,38 @@ button:hover, input[type=submit]:hover {
     z-index: 12;
     background:#0e1320;
 	width:100%;
+}
+
+
+.checkbox-custom {
+	display: none!important;
+}
+
+.checkbox-custom, .checkbox-custom-label {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 3px;
+	position: relative; 
+
+}
+
+.checkbox-custom + .checkbox-custom-label:before {
+    content: '';
+    background: transparent;
+    border: 1px solid #4a5771;
+    display: inline-block;
+    vertical-align: middle;
+    width: 13px;
+    height: 13px;
+    padding: 1px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+.checkbox-custom:checked + .checkbox-custom-label:before {
+    content: "\2713";
+    background: #f7d261;
+	border: 1px solid #f7d261;
+    color: #251e0d;
+	font-size: 8pt;
 }

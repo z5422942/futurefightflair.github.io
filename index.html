@@ -34,7 +34,7 @@
 <script type="text/javascript" src="j_scripts.js"></script>
 </head>
 
-<body onLoad="filterSelection('all');filterSelection1('all');filterSelection2('all');filterSelection3('all');filterSelection4('all');">
+<body onLoad="filterSelection('all');filterSelection1('all');filterSelection2('all');filterSelection3('all');filterSelection4('all');filterSelection5('all');">
 <noscript>
 JavaScript is required to run this page.
 </noscript>
@@ -171,10 +171,17 @@ JavaScript is required to run this page.
         <div class="wrapperchild1">
 
   <div id="flair-filter" class="center" style="-webkit-justify-content:space-between; justify-content:space-between; padding:6px; background: linear-gradient(to bottom,#213452,#192029);">
-    <label for="flair-filter-text">
+   <div>
+	  <label for="flair-filter-text">
       <input id="flair-filter-text" type="text" placeholder="Filter by hero name or #attribute#" onkeyup="flair.updateFilter(this.value)"
                     onchange="flair.updateFilter(this.value)" />
+
     </label>
+	   <div class="checkboxdiv" style="display:inline-block; background: #26224c; border: 1px solid #aa8ed8; position: relative" >
+	  <input id="checkbox-1" class="checkbox-custom" name="checkbox-1" type="checkbox" onclick="checkfunction()">
+      <label for="checkbox-1" class="checkbox-custom-label" style="font-size: 8pt!important;"><strong style="top:1px;position: relative">New</strong></label></div>
+	  </div>
+	  
     <div style="display: inherit;margin-right:0px;">
 <div class="dropdown1" style="padding-right: 3px;">
   <button class="btn4">TYPE</button>
@@ -269,6 +276,19 @@ document.getElementById('filter-selection-name').innerHTML = "Filtered by " + cu
     x.style.display = "block";
   } else {
     x.style.display = "none";
+  }
+}
+</script>
+<script>
+function checkfunction() {
+  // Get the checkbox
+  var checkbox = document.getElementById("checkbox-1");
+
+  // If the checkbox is checked, display the output text
+  if (checkbox.checked == true){
+    filterSelection4('#New#');
+  } else {
+    filterSelection4('all');
   }
 }
 </script>
