@@ -52,6 +52,8 @@ flair.names = {
 
 
 
+
+
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Aero00 character aero" : "Aero [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agents of Atlas# #Leadership# #Fast Movement# #Potential#",
@@ -79,6 +81,7 @@ flair.names = {
 "Arachknight00 character arachknight" : "Arachknight [Infinity Warps] #Super Hero# #Hero# #Speed# #Male# #Human# #Leadership# #Weapon Master# #Spider-Sense# #Potential#",
 "BaronMordo00 character mordo" : "Baron Mordo [Classic] #Super Villain# #Villain# #Blast# #Male# #Human# #Pure Evil# #Magic#",
 "BaronMordo01 uniform mordo1" : "Mordo [Marvel's Doctor Strange] #Super Villain# #Villain# #Speed# #Male# #Human# #MCU# #Heightened Senses# #Agility#",
+"BaronZemo00 character zemo" : "Baron Zemo [Modern] #Super Villain# #Villain# #Speed# #Male# #Human# #Hydra# #New#",
 "Beast00 character beast" : "Beast [Classic] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Men# #Agility# #Strong# #Support# #Potential#",
 "Beast01 uniform beast1" : "Beast [Age of Apocalypse] #Super Villain# #Villain# #Combat# #Male# #Mutant# #Agility# #Strong# #Support# #Potential#",
 "Beast02 uniform beast2" : "Beast [Uncanny X-Men] #Super Hero# #Hero# #Combat# #Male# #Mutant# #X-Men# #Agility# #Strong# #Support# #Potential#",
@@ -142,7 +145,7 @@ flair.names = {
 "Crescent01 uniform crescent1" : "Crescent [Lifestyle Series 1] #Super Hero# #Hero# #Combat# #Female# #Human# #Original# #-# #Agents of Atlas# #Strong# #Durability# #Leadership# #Potential#",
 "Crossbones00 character crossbones" : "Crossbones [Captain America: Civil War] #Super Villain# #Villain# #Combat# #Male# #Human# #MCU# #Weapon Master#",
 "Crossbones01 uniform crossbones1" : "Crossbones [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Weapon Master#",
-"Crossbones02 uniform crossbones2" : "Crossbones [Marvel Legacy] #Super Villain# #Villain# #Combat# #Male# #Human# #Hydra# #Weapon Master# #New#",
+"Crossbones02 uniform crossbones2" : "Crossbones [Secret Empire] #Super Villain# #Villain# #Combat# #Male# #Human# #Hydra# #Weapon Master# #New#",
 "Crystal00 character crystal" : "Crystal [All-New, All-Different] #Super Hero# #Hero# #Blast# #Female# #Inhuman# #Energy Projection# #Command# #Potential#",
 "Crystal01 uniform crystal1" : "Crystal [Royal Suit] #Super Hero# #Hero# #Blast# #Female# #Inhuman# #Energy Projection# #Command# #Potential#",
 "Crystal02 uniform crystal2" : "Crystal [Fantastic Four] #Super Hero# #Hero# #Blast# #Female# #Inhuman# #Fantastic Four# #Energy Projection# #Command# #Potential#",
@@ -234,7 +237,6 @@ flair.names = {
 "Hela01 uniform hela1" : "Hela [Marvel's Thor: Ragnarok] #Super Villain# #Villain# #Universal# #Female# #Alien# #MCU# #Asgard# #Pure Evil# #Command# #Support#",
 "Hellcat00 character hellcat" : "Hellcat [All-New, All-Different] #Super Hero# #Hero# #Speed# #Female# #Human# #Defenders# #Agility#",
 "Hellstorm00 character daimon" : "Hellstorm [Modern] #Super Hero# #Hero# #Universal# #Male# #Human# #Flame# #Magic#",
-"HelmutZemo00 character zemo" : "Helmut Zemo [Modern] #Super Villain# #Villain# #Speed# #Male# #Human# #Hydra# #New#",
 "Hogun00 character hogun" : "Hogun [Modern] #Super Hero# #Hero# #Combat# #Male# #Alien# #Asgard# #Strong#",
 "Hulk00 character hulk" : "Hulk [The Avengers] #Super Hero# #Hero# #Combat# #Male# #Human# #Avengers# #Durability# #Strong# #Potential#",
 "Hulk01 uniform hulk1" : "Hulk [Secret Wars: Future Imperfect] #Super Hero# #Hero# #Combat# #Male# #Human# #Durability# #Strong# #Potential#",
@@ -371,7 +373,7 @@ flair.names = {
 "RedHulk01 uniform rulk1" : "Red Hulk [Marvel NOW!] #Super Hero# #Hero# #Combat# #Male# #Human# #Flame# #Durability#",
 "RedSkull00 character skull" : "Red Skull [Captain America: The First Avenger] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Hydra# #Command# #Pure Evil# #Potential#",
 "RedSkull01 uniform skull1" : "Red Skull [Secret Wars: Red Skull] #Super Villain# #Villain# #Speed# #Male# #Human# #Hydra# #Command# #Pure Evil# #Potential#",
-"RedSkull02 uniform skull2" : "Red Skull [Armored] #Super Villain# #Villain# #Blast# #Male# #Human# #Hydra# #Command# #Pure Evil# #Potential# #New#",
+"RedSkull02 uniform skull2" : "Red Skull [Hydra Armor] #Super Villain# #Villain# #Blast# #Male# #Human# #Hydra# #Command# #Pure Evil# #Potential# #New#",
 "Rescue00 character rescue" : "Rescue [Marvel's Avengers: Endgame] #Super Hero# #Hero# #Blast# #Female# #Human# #MCU# #Avengers# #Leadership# #Machine# #Potential#",
 "Rhino00 character rhino" : "Rhino [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Durability# #Strong# #Potential#",
 "RocketRaccoon00 character rocket" : "Rocket Raccoon [Guardians of the Galaxy] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Weapon Master# #Potential#",
