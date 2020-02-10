@@ -54,6 +54,8 @@ flair.names = {
 
 
 
+
+
 "AbsorbingMan00 character absorbingman" : "Absorbing Man [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Strong#",
 "AdamWarlock00 character adam" : "Adam Warlock [Modern] #Super Hero# #Hero# #Blast# #Male# #Creature# #Time Freezing Immunity# #Magic#",
 "Aero00 character aero" : "Aero [Modern] #Super Hero# #Hero# #Speed# #Female# #Human# #Agents of Atlas# #Leadership# #Fast Movement# #Potential#",
@@ -107,7 +109,7 @@ flair.names = {
 "BlackWidow07 uniform widow7" : "Black Widow [Avengers 3099] #Super Hero# #Hero# #Speed# #Female# #Human# #Avengers# #Agent# #Agility# #Potential#",
 "Blade00 character blade" : "Blade [Modern] #Super Hero# #Hero# #Combat# #Male# #Human# #Weapon Master# #Healing#",
 "Blade01 uniform blade1" : "Blade [70's Classic] #Super Hero# #Hero# #Combat# #Male# #Human# #Weapon Master# #Healing#",
-"BlueDragon00 character bluedragon" : "Blue Dragon [Modern] #Super Hero# #Hero# #Blast# #Female# #Human# #Warriors of the Sky# #Leadership# #Electrokinetic# #Potential#",
+"BlueDragon00 character bluedragon" : "Blue Dragon [Modern] #Super Hero# #Hero# #Blast# #Female# #Human# #Warriors of the Sky# #Leadership# #Shock# #Potential#",
 "BlueMarvel00 character bluemarvel" : "Blue Marvel [Ultimates] #Super Hero# #Hero# #Universal# #Male# #Human# #Energy Projection# #Leadership#",
 "Bullseye00 character bullseye" : "Bullseye [Modern] #Super Villain# #Villain# #Combat# #Male# #Human# #Pure Evil# #Weapon Master#",
 "Bullseye01 uniform bullseye1" : "Bullseye [Secret Wars: 1872] #Super Villain# #Villain# #Combat# #Male# #Human# #Pure Evil# #Weapon Master#",
@@ -124,7 +126,7 @@ flair.names = {
 "CaptainAmerica07 uniform cap7" : "Captain America [Marvel's Avengers: Endgame] #Super Hero# #Hero# #Combat# #Male# #Human# #MCU# #Avengers# #Command# #Leadership# #Potential# #Tier3#",
 "CaptainAmerica08 uniform cap8" : "Captain America [Team Suit] #Super Hero# #Hero# #Combat# #Male# #Human# #MCU# #Avengers# #Command# #Leadership# #Potential# #Tier3#",
 "CaptainAmerica09 uniform cap9" : "Captain America [Avengers 3099] #Super Hero# #Hero# #Combat# #Male# #Human# #MCU# #Avengers# #Command# #Leadership# #Potential# #Tier3#",
-"CaptainAmerica10 uniform cap10" : "Steven Rogers [Hydra Supreme] #Super Hero# #Hero# #Blast# #Male# #Human# #MCU# #Hydra# #Command# #Leadership# #Potential# #Tier3# #New#",
+"CaptainAmerica10 uniform cap10" : "Captain America [Hydra Supreme] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Hydra# #Command# #Cosmic Cube# #Potential# #Tier3# #New#",
 "CaptainAmericaSharonRogers00 character sharonrogers" : "Captain America (Sharon Rogers) [Captain America 75th Anniversary] #Super Hero# #Hero# #Blast# #Female# #Human# #Original# #Energy Projection# #Leadership# #Potential# #Tier3#",
 "CaptainAmericaSharonRogers01 uniform sharonrogers1" : "Captain America (Sharon Rogers) [Starlight Armor] #Super Hero# #Hero# #Blast# #Female# #Human# #Original# #Energy Projection# #Leadership# #Potential# #Tier3#",
 "CaptainAmericaSharonRogers02 uniform sharonrogers2" : "Captain America (Sharon Rogers) [Dark Star Armor] #Super Hero# #Hero# #Blast# #Female# #Human# #Original# #Energy Projection# #Leadership# #Potential# #Tier3#",
@@ -517,6 +519,7 @@ flair.names = {
 "Yondu00 character yondu" : "Yondu [Guardians of the Galaxy] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapon Master# #Command#",
 "Yondu01 uniform yondu1" : "Yondu [All-New, All-Different] #Super Hero# #Hero# #Speed# #Male# #Alien# #Weapon Master# #Command#",
 "Yondu02 uniform yondu2" : "Yondu [Guardians of the Galaxy 2] #Super Hero# #Hero# #Speed# #Male# #Alien# #MCU# #Guardians# #Weapon Master# #Command#",
+
 
 
 
