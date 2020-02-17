@@ -375,7 +375,7 @@ flair.names = {
 "RedHulk01 uniform rulk1" : "Red Hulk [Marvel NOW!] #Super Hero# #Hero# #Combat# #Male# #Human# #Flame# #Durability#",
 "RedSkull00 character skull" : "Red Skull [Captain America: The First Avenger] #Super Villain# #Villain# #Blast# #Male# #Human# #MCU# #Hydra# #Command# #Pure Evil# #Potential#",
 "RedSkull01 uniform skull1" : "Red Skull [Secret Wars: Red Skull] #Super Villain# #Villain# #Speed# #Male# #Human# #Hydra# #Command# #Pure Evil# #Potential#",
-"RedSkull02 uniform skull2" : "Red Skull [Hydra Armor] #Super Villain# #Villain# #Blast# #Male# #Human# #Hydra# #Command# #Pure Evil# #Potential# #New#",
+"RedSkull02 uniform skull2" : "Red Skull [Hydra Armor] #Super Villain# #Villain# #Blast# #Male# #Human# #Hydra# #Command# #Pure Evil# #Cosmic Cube# #Potential# #New#",
 "Rescue00 character rescue" : "Rescue [Marvel's Avengers: Endgame] #Super Hero# #Hero# #Blast# #Female# #Human# #MCU# #Avengers# #Leadership# #Machine# #Potential#",
 "Rhino00 character rhino" : "Rhino [Classic] #Super Villain# #Villain# #Combat# #Male# #Human# #Durability# #Strong# #Potential#",
 "RocketRaccoon00 character rocket" : "Rocket Raccoon [Guardians of the Galaxy] #Super Hero# #Hero# #Blast# #Male# #Alien# #MCU# #Guardians# #Weapon Master# #Potential#",
