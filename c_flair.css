@@ -2,7 +2,6 @@
 .flair1-character, .flair1-uniform {background-image:url(flairshq.jpg)!important}
 .ability {background-image:url(icons.jpg)!important; background-size: auto 20px!important;}
 
-
 .flair-angela{background-position:0 0}
 .flair-angela1{background-position:-30px 0}
 .flair-angela2{background-position:-60px 0}
@@ -319,10 +318,12 @@
 .flair-cyclops3{background-position:-90px -3630px}
 .flair-jean{background-position:0 -3660px}
 .flair-jean1{background-position:-30px -3660px}
+.flair-jean2{background-position:-60px -3660px}
 .flair-wolverine{background-position:0 -3690px}
 .flair-wolverine1{background-position:-30px -3690px}
 .flair-wolverine2{background-position:-60px -3690px}
 .flair-wolverine3{background-position:-90px -3690px}
+.flair-wolverine4{background-position:-120px -3690px}
 .flair-storm{background-position:0 -3720px}
 .flair-storm1{background-position:-30px -3720px}
 .flair-beast{background-position:0 -3750px}
@@ -333,6 +334,7 @@
 .flair-rogue2{background-position:-60px -3780px}
 .flair-magneto{background-position:0 -3810px}
 .flair-magneto1{background-position:-30px -3810px}
+.flair-magneto2{background-position:-60px -3810px}
 .flair-kraven{background-position:0 -3840px}
 .flair-lizard{background-position:0 -3870px}
 .flair-mysterio{background-position:0 -3900px}
@@ -415,6 +417,7 @@
 .flair-nightcrawler{background-position:0 -5370px}
 .flair-nightcrawler1{background-position:-30px -5370px}
 .flair-sentinel{background-position:0 -5400px}
+.flair-sentinel1{background-position:-30px -5400px}
 .flair-crescent{background-position:0 -5430px}
 .flair-crescent1{background-position:-30px -5430px}
 .flair-whitefox{background-position:0 -5460px}
@@ -466,6 +469,9 @@
 .flair-taskmas {background-position: 0 -7020px}
 .flair-viper {background-position: 0 -7050px}
 .flair-zemo {background-position: 0 -7080px}
+.flair-professorx {background-position: 0 -7110px}
+.flair-mystique {background-position: 0 -7140px}
+.flair-sinister {background-position: 0 -7170px}
 
 
 .agent {background-position: 0px 0px;}
@@ -713,6 +719,7 @@
 .flair1-jane {background-position:-8200px 0px}
 .flair1-jean {background-position:-8300px 0px}
 .flair1-jean1 {background-position:-8300px -100px}
+.flair1-jean2 {background-position:-8300px -200px}
 .flair1-jessica {background-position:-8400px 0px}
 .flair1-jocasta {background-position:-5200px -400px}
 .flair1-kaecilius {background-position:-8500px 0px}
@@ -746,6 +753,7 @@
 .flair1-magik1 {background-position:-9900px -100px}
 .flair1-magneto {background-position:-10000px 0px}
 .flair1-magneto1 {background-position:-10000px -100px}
+.flair1-magneto2 {background-position:-10000px -200px}
 .flair1-malekith {background-position:-10100px 0px}
 .flair1-malekith1 {background-position:-10100px -100px}
 .flair1-mantis {background-position:-10200px 0px}
@@ -823,6 +831,7 @@
 .flair1-scarletwitch1 {background-position:-13400px -100px}
 .flair1-scarletwitch2 {background-position:-13400px -200px}
 .flair1-sentinel {background-position:-13500px 0px}
+.flair1-sentinel1 {background-position:-13500px -100px}
 .flair1-midgardserpent {background-position:-5200px -200px}
 .flair1-shang {background-position:-13600px 0px}
 .flair1-sharon {background-position:-13700px 0px}
@@ -925,6 +934,7 @@
 .flair1-wolverine1 {background-position:-17800px -100px}
 .flair1-wolverine2 {background-position:-17800px -200px}
 .flair1-wolverine3 {background-position:-17800px -300px}
+.flair1-wolverine4 {background-position:-17800px -400px}
 .flair1-wong {background-position:-17900px 0px}
 .flair1-wong1 {background-position:-17900px -100px}
 .flair1-laura {background-position:-18000px 0px}
@@ -971,3 +981,6 @@
 .flair1-taskmas {background-position:-21200px 0px}
 .flair1-viper {background-position:-21300px 0px}
 .flair1-zemo {background-position:-21400px 0px}
+.flair-professorx {background-position:-21500px 0px}
+.flair-mystique {background-position:-21600px 0px}
+.flair-sinister {background-position:-21700px 0px}
