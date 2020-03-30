@@ -356,7 +356,7 @@ button:hover, input[type=submit]:hover {
 .flair {
     background-color: transparent
 }
-.show.type.side.charuni.gender.new {
+.show.type.side.charuni.gender.new.allies {
     display: -webkit-inline-flex;
     display: inline-flex;
     -webkit-align-items: center;
@@ -412,7 +412,8 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0px;
     padding: 2px 8px 2px;
-    width: 78px!important;
+    width: 26px!important;
+	height: 26px!important;
     background: #070708;
     border: 1px solid #25282c;
     border-radius: 0px;
@@ -433,7 +434,8 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
-    width: 78px!important;
+    width: 26px!important;
+	height: 26px!important;
     background: #26224c;
     border: 1px solid #aa8ed8;
     border-radius: 0px;
@@ -454,7 +456,8 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
-    width: 84px!important;
+    width: 26px!important;
+	height: 26px!important;
     background: #26224c;
     border: 1px solid #aa8ed8;
     border-radius: 0px;
@@ -497,7 +500,8 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
-    width: 67px!important;
+    width: 26px!important;
+	height: 26px!important;
     background: #26224c;
     border: 1px solid #aa8ed8;
     border-radius: 0px;
@@ -516,11 +520,12 @@ button:hover, input[type=submit]:hover {
 }
 .btn7 {
     display: inline-block;
-    margin: 0px;
+    margin: 0;
     padding: 2px 8px 2px;
-    width: 67px!important;
-    background: #070708;
-    border: 1px solid #25282c;
+    width: 26px!important;
+	height: 26px!important;
+    background: #26224c;
+    border: 1px solid #aa8ed8;
     border-radius: 0px;
     color: #fff;
     font-family: 'Exo', sans-serif;
@@ -539,7 +544,8 @@ button:hover, input[type=submit]:hover {
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
-    width: 67px!important;
+    width: 26px!important;
+	height: 26px!important;
     background: #26224c;
     border: 1px solid #aa8ed8;
     border-radius: 0px;
@@ -663,7 +669,24 @@ button:hover, input[type=submit]:hover {
     background: #070708;
     border: 1px solid #25282c;
 }
-
+.dropdown4 {
+    position: relative;
+    display: block;
+}
+.dropdown4-content {
+    display: none;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
+.dropdown4:hover .dropdown4-content {
+    display: block;
+    width: 10px!important;
+}
+.dropdown4:hover .btn7 {
+    background: #070708;
+    border: 1px solid #25282c;
+}
 .wrapperchild1 {
     z-index: 12;
     background:#0e1320;

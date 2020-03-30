@@ -184,9 +184,9 @@ flair.selectChoice = function (hero_id, key) {
 	flair.by_id[hero_id].hero_gender = flair.by_id[hero_id].hero_gender1.replace(/ *\#[^)]*\# */g, "");
 	document.getElementById('flair-selection-gender').innerHTML = flair.by_id[hero_id].hero_gender;
 	
-	flair.by_id[hero_id].hero_race1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Alien|Creature|Human|Inhuman|Mutant|Other)*\#).*?/gi, "$1").replace(/#Alien#/g, " Alien").replace(/#Creature#/g, " Creature").replace(/#Human#/g, " Human").replace(/#Inhuman#/g, " Inhuman").replace(/#Mutant#/g, " Mutant").replace(/#Other#/g, " Other");
-	flair.by_id[hero_id].hero_race = flair.by_id[hero_id].hero_race1.replace(/ *\#[^)]*\# */g, "");
-	document.getElementById('flair-selection-race').innerHTML = flair.by_id[hero_id].hero_race;
+	flair.by_id[hero_id].hero_allies1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Alien|Creature|Human|Inhuman|Mutant|Other)*\#).*?/gi, "$1").replace(/#Alien#/g, " Alien").replace(/#Creature#/g, " Creature").replace(/#Human#/g, " Human").replace(/#Inhuman#/g, " Inhuman").replace(/#Mutant#/g, " Mutant").replace(/#Other#/g, " Other");
+	flair.by_id[hero_id].hero_allies = flair.by_id[hero_id].hero_allies1.replace(/ *\#[^)]*\# */g, "");
+	document.getElementById('flair-selection-allies').innerHTML = flair.by_id[hero_id].hero_allies;
 	
 	flair.by_id[hero_id].hero_side1 = flair.by_id[hero_id].hero_attributeop.replace(/.*?(\#(Super Hero|Neutral|Super Villain)*\#).*?/gi, "$1").replace(/#Super Hero#/g, " Super Hero").replace(/#Neutral#/g, " Neutral").replace(/#Super Villain#/g, " Super Villain");
 	flair.by_id[hero_id].hero_side = flair.by_id[hero_id].hero_side1.replace(/ *\#[^)]*\# */g, "");
@@ -492,6 +492,17 @@ filterSelection5("all")
   }
 }
 
+filterSelection6("all")
+		  function filterSelection6(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "allies");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "allies");
+  }
+}
+
 
 filterSelection("all")
   function filterSelection(c) {
@@ -501,6 +512,16 @@ filterSelection("all")
   for (i = 0; i < x.length; i++) {
     w3RemoveClass(x[i], "show");
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function filterSelection6(c) {
+  var x, i;
+  x = document.getElementsByClassName("flair flair-choice");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "allies");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "allies");
   }
 }
 
@@ -608,6 +629,9 @@ function w3RemoveClass(element, name) {
       $(".btn8:first-child").text($(this).text());
       $(".btn8:first-child").val($(this).text());
    });
-		  
+    $(".dropdown4-content").on('click', 'button', function(){
+      $(".btn7:first-child").text($(this).text());
+      $(".btn7:first-child").val($(this).text());
+   });		  
 		  
 });

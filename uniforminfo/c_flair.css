@@ -1,6 +1,6 @@
 .flair-character, .flair-uniform {background-image:url(flairs.png)!important}
 .flair1-character, .flair1-uniform {background-image:url(flairshq.jpg)!important}
-.ability {background-image:url(icons.jpg)!important; background-size: auto 40px!important;}
+.ability {background-image:url(icons.jpg)!important; background-size: auto 20px!important;}
 
 .flair-angela{background-position:0 0}
 .flair-angela1{background-position:-30px 0}
@@ -508,24 +508,8 @@
 
 
 
-.combat {background-position: 0px -20px;}
-.blast {background-position: -20px -20px;}
-.speed {background-position: -40px -20px;}
-.universal {background-position: -60px -20px;}
-.hero {background-position: -80px -20px;}
-.villain {background-position: -100px -20px;}
-.female {background-position: -120px -20px;}
-.male {background-position: -140px -20px;}
-.human {background-position: -160px -20px;}
-.mutant {background-position: -180px -20px;}
-.inhuman {background-position: -200px -20px;}
-.character {background-position: -220px -20px;}
-.uniform {background-position: -240px -20px;}
-.allgender {background-position: -260px -20px;}
-.allside {background-position: -280px -20px;}
-.allallies {background-position: -300px -20px;}
-.alltype {background-position: -320px -20px;}
-.allshow {background-position: -340px -20px;}
+
+
 
 
 
