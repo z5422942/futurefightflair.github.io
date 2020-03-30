@@ -213,6 +213,18 @@ label input[type=checkbox] + span {
 	line-height: 14px;
 	height: 14px;
 }
+.flair2 {
+    display: -webkit-inline-flex;
+    display: inline-flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    width: 19.8px;
+    height: 19.8px;
+    cursor: pointer;
+    position: relative;
+}
 #flair-filter {
     max-width: 100%;
 	margin-bottom: 10px;
