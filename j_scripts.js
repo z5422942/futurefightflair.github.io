@@ -614,24 +614,30 @@ function w3RemoveClass(element, name) {
     $(".dropdown-content").on('click', 'button', function(){
       $(".btn3:first-child").text($(this).text());
       $(".btn3:first-child").val($(this).text());
+      $(".btn3:first-child").html($(this).html());
+
    });
 		  
     $(".dropdown1-content").on('click', 'button', function(){
       $(".btn4:first-child").text($(this).text());
       $(".btn4:first-child").val($(this).text());
+      $(".btn4:first-child").html($(this).html());
    });
     
     $(".dropdown2-content").on('click', 'button', function(){
       $(".btn6:first-child").text($(this).text());
       $(".btn6:first-child").val($(this).text());
+      $(".btn6:first-child").html($(this).html());
    });
     $(".dropdown3-content").on('click', 'button', function(){
       $(".btn8:first-child").text($(this).text());
       $(".btn8:first-child").val($(this).text());
+      $(".btn8:first-child").html($(this).html());
    });
     $(".dropdown4-content").on('click', 'button', function(){
       $(".btn7:first-child").text($(this).text());
       $(".btn7:first-child").val($(this).text());
+      $(".btn7:first-child").html($(this).html());
    });		  
 		  
 });
