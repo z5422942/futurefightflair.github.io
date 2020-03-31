@@ -75,50 +75,9 @@ body {
     margin-top: 0px;
         padding-bottom: 0px;
 }
-.btn5 {
-    display: none;
-    margin-left: 4px;
-    padding: 2px 8px 2px;
-    background: #26224c;
-    border: 1px solid #aa8ed8;
-    border-radius: 0px;
-    color: #fff;
-    font-family: 'Exo', sans-serif;
-    font-weight: 800;
-    text-transform: capitalize;
-    text-align: left;
-    line-height: 21px;
-    outline: 0;
-    cursor: pointer;
-}
-.btn5:hover {
-    background: #26224c;
-    border: 1px solid #aa8ed8;
-}
-.btn5.active {
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, .2);
-    background: #26224c
-}
 }
 
-@media only screen and (min-device-width: 600px) {
-.btn5 {
-    display: none;
-    margin-left: 4px;
-    padding: 2px 8px 2px;
-    background: #26224c;
-    border: 1px solid #aa8ed8;
-    border-radius: 0px;
-    color: #fff;
-    font-family: 'Exo', sans-serif;
-    font-weight: 800;
-    text-transform: capitalize;
-    text-align: left;
-    line-height: 21px;
-    outline: 0;
-    cursor: pointer;
-}
-}
+
 
 @media only screen and (min-width:871px) {
 body {
@@ -162,6 +121,28 @@ a {
 }
 .hide {
     display: none !important;
+}
+.abilitywrapper {
+    width: 100%;
+    max-width: 888px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.abilitywrapper:not(.no-style) {
+    padding: 10px;
+    border-radius: 0px;
+    box-shadow: 0 0 0 1px #1a213e, inset 0 0 0 1px #1a213e;
+    background: #0e1320;
+    color: white;
+}
+.abilitywrapper.no-margin {
+    margin-top: 0;
+}
+.abilitywrapper.no-pad, .abilitywrapper.no-pad:not(.no-style) {
+    padding: 0;
 }
 .wrapper {
     width: 100%;
@@ -272,6 +253,9 @@ label input[type=checkbox] + span {
 #help-bubble p {
     margin: 0.5em 0;
 }
+#abilitywrapper.hide + .wrapper {
+    margin-top: 0;
+}
 /* BUTTON
 --------------------------------------------------------------------------------*/
 button, input[type=submit] {
@@ -323,6 +307,7 @@ button:hover, input[type=submit]:hover {
     height: 19.8px;
     cursor: pointer;
     position: relative;
+	
 }
 .flair1 {
     display: -webkit-inline-flex;
@@ -431,6 +416,28 @@ button:hover, input[type=submit]:hover {
     border: 1px solid #f1d455;
 }
 .btn4 {
+    display: inline-block;
+    margin: 0;
+    padding: 2px 8px 2px;
+    width: 26px!important;
+	height: 26px!important;
+    background: #26224c;
+    border: 1px solid #aa8ed8;
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: left;
+    line-height: 21px;
+    outline: 0;
+    cursor: pointer;
+}
+.btn4:hover {
+    background: #070708;
+    border: 1px solid #f1d455;
+}
+.btn5{
     display: inline-block;
     margin: 0;
     padding: 2px 8px 2px;
@@ -605,7 +612,7 @@ button:hover, input[type=submit]:hover {
     display: none;
     position: absolute;
     top: 0px;
-    z-index: 1;
+    z-index: 2;
 }
 .dropdown:hover .dropdown-content {
     display: block;
@@ -623,7 +630,7 @@ button:hover, input[type=submit]:hover {
     display: none;
     position: absolute;
     top: 0px;
-    z-index: 1;
+    z-index: 2;
 }
 .dropdown1:hover .dropdown1-content {
     display: block;
@@ -641,7 +648,7 @@ button:hover, input[type=submit]:hover {
     display: none;
     position: absolute;
     top: 0px;
-    z-index: 1;
+    z-index: 2;
 }
 .dropdown2:hover .dropdown2-content {
     display: block;
@@ -659,7 +666,7 @@ button:hover, input[type=submit]:hover {
     display: none;
     position: absolute;
     top: 0px;
-    z-index: 1;
+    z-index: 2;
 }
 .dropdown3:hover .dropdown3-content {
     display: block;
@@ -677,7 +684,7 @@ button:hover, input[type=submit]:hover {
     display: none;
     position: absolute;
     top: 0px;
-    z-index: 1;
+    z-index: 2;
 }
 .dropdown4:hover .dropdown4-content {
     display: block;
@@ -692,7 +699,14 @@ button:hover, input[type=submit]:hover {
     background:#0e1320;
 	width:100%;
 }
-
+.dropdown5 {
+    position: relative;
+    display: block;
+}
+.dropdown5:hover .btn5 {
+    background: #070708;
+    border: 1px solid #25282c;
+}
 
 .checkbox-custom {
 	display: none!important;

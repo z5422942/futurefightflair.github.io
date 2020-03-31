@@ -638,6 +638,11 @@ function w3RemoveClass(element, name) {
       $(".btn7:first-child").text($(this).text());
       $(".btn7:first-child").val($(this).text());
       $(".btn7:first-child").html($(this).html());
+   });
+	$(".abilitywrapper").on('click', 'button', function(){
+      $(".btn5:first-child").text($(this).text());
+      $(".btn5:first-child").val($(this).text());
+      $(".btn5:first-child").html($(this).html());
    });		  
 		  
 });
