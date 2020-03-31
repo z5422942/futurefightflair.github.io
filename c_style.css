@@ -379,7 +379,8 @@ button:hover, input[type=submit]:hover {
 }
 .btn1 {
     display: inline-block;
-	width: 24px!important;
+	width: 25px!important;
+	height: 25px!important;
     vertical-align: middle;
     padding: 0px 0px;
     background: transparent;
