@@ -1,6 +1,5 @@
 
-.flair-logo {background-position: 0px 0px}
-.flair-stanlee {background-position: -100px 0px}
+
 .flair-absorbingman {background-position: -200px 0px}
 .flair-adamwarlock {background-position: -300px 0px}
 .flair-agentvenom {background-position: -400px 0px}
@@ -47,8 +46,7 @@
 .flair-deadpool-t3 {background-position: -3700px -128px}
 .flair-deathlok {background-position: -3800px 0px}
 .flair-destroyer {background-position: -3900px 0px}
-.flair-doctordoom-t2 {background-position: -4000px 0px}
-.flair-doctordoom-t3 {background-position: -4000px 0px}
+.flair-doctordoom {background-position: -4000px 0px}
 .flair-doctoroctopus {background-position: -4100px 0px}
 .flair-drstrange-t2 {background-position: -4200px 0px}
 .flair-drstrange-t3 {background-position: -4200px -128px}
@@ -149,7 +147,8 @@
 .flair-ronan {background-position: -13100px 0px}
 .flair-sandman {background-position: -13200px 0px}
 .flair-satana {background-position: -13300px 0px}
-.flair-scarletwitch {background-position: -13400px 0px}
+.flair-scarletwitch-t2 {background-position: -13400px 0px}
+.flair-scarletwitch-t3 {background-position: -13400px -128px}
 .flair-sentinel {background-position: -13500px 0px}
 .flair-shangchi {background-position: -13600px 0px}
 .flair-agent13 {background-position: -13700px 0px}
@@ -221,8 +220,7 @@
 .flair-namor-t2 {background-position: -19600px 0px}
 .flair-namor-t3 {background-position: -19600px -128px}
 .flair-wave {background-position: -19700px 0px}
-.flair-silversurfer-t2 {background-position: -19800px 0px}
-.flair-silversurfer-t3 {background-position: -19800px 0px}
+.flair-silversurfer {background-position: -19800px 0px}
 .flair-rachelsummers {background-position: -19900px 0px}
 .flair-kittypryde {background-position: -20000px 0px}
 .flair-kidomega {background-position: -20100px 0px}
@@ -239,6 +237,13 @@
 .flair-baronzemo {background-position: -21200px 0px}
 .flair-taskmaster {background-position: -21300px 0px}
 .flair-viper {background-position: -21400px 0px}
+.flair-professorx-t2 {background-position: -21500px 0px}
+.flair-professorx-t3 {background-position: -21500px -128px}
+.flair-mystique {background-position: -21600px 0px}
+.flair-mistersinister {background-position: -21700px 0px}
+
+
+
 
 
 
